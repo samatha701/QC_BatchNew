@@ -1,0 +1,38 @@
+
+fsquid:S1192p"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+Nsquid:S1313="2Make this IP "192.168.2.164" address configurable.(ŸıÌşÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(±‹ ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(‰üÙ’
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(®ùŒ•
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(´ì¬§
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ƒÕİı
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(šÍ÷€şÿÿÿÿ
+bsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ù–âx
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ûÖıÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+i
+squid:S134*"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éÿÿÿÿÿ
+P
+squid:S106O";Replace this usage of System.out or System.err by a logger.(é—y
+bsquid:S11327"KMove the "local" string literal on the left side of this string comparison.(üËÉ
+Osquid:S1135¯"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+_squid:S12269"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+_squid:S1226@"CIntroduce a new variable instead of reusing the parameter "driver".(ïŒÕËÿÿÿÿÿ
+>squid:S1481Q"'Remove this unused "df" local variable.(©Âìü
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(æÕ‚ö
+Bsquid:S1166®"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æÕ‚ö
+Msquid:S1854Q"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÕ‚ö
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÕ‚ö
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+msquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò›Í-
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û«ù
+ssquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛÚÇÿÿÿÿÿ
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÚšÀúÿÿÿÿ
+ssquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸıÌşÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+@squid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

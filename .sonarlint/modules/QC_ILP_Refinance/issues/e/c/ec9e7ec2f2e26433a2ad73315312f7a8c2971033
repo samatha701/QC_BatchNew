@@ -1,0 +1,5 @@
+
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(–½øŠúÿÿÿÿ
+Asquid:S1172"*Remove this unused method parameter "SSN".(Ù€Æ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù€Æ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù€Æ

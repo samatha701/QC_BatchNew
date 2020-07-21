@@ -1,0 +1,20 @@
+
+Osquid:S1197n"8Move the array designator from the variable to the type.(Ø±Â¤
+fsquid:S1192,"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¼ö­
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(“íöèûÿÿÿÿ
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(á’“Ê
+_squid:S1132•"GMove the "1" string literal on the left side of this string comparison.(±æ²ò
+Fsquid:S1172"*Remove this unused method parameter "SSN".(‡«Úºıÿÿÿÿ
+=squid:S1166‘"%Either log or rethrow this exception.(¬Ù¨Í
+Bsquid:S1166§"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Gsquid:S00108¨")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒî¡´
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÒÕ‡
+nsquid:S00117\"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠšË
+msquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕĞw
+nsquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´Ùı
+ssquid:S00117l"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óéçıÿÿÿÿ
+squid:S1160"€Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.text.ParseException(‡«Úºıÿÿÿÿ

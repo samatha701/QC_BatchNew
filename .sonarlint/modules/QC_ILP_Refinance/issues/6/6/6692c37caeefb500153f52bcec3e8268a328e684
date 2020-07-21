@@ -1,0 +1,39 @@
+
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+.squid:S2095/"Close this "ResultSet".(êåß‘
+Zsquid:S2583D"CChange this condition so that it does not always evaluate to "true"(¡ææú
+V
+squid:S1064";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+Asquid:S00108@")Either remove or fill this block of code.(”ı¾
+Zsquid:S2583="CChange this condition so that it does not always evaluate to "true"(±”Ìï
+.squid:S2095$"Close this "Statement".(Êë‹
+asquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(„œĞV
+4squid:S2095"Close this "Connection".(ÏüöËıÿÿÿÿ
+Asquid:S001089")Either remove or fill this block of code.(”ı¾
+Asquid:S00108G")Either remove or fill this block of code.(”ı¾
+–squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(º÷ÅÈ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(×„›şÿÿÿÿ
+Qsquid:S1141>"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÊñÜø
+<squid:S11669"%Either log or rethrow this exception.(”ı¾
+<squid:S1166G"%Either log or rethrow this exception.(”ı¾
+?squid:S1148N"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(›•«‘
+<squid:S1166@"%Either log or rethrow this exception.(”ı¾
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(Ù­ùÌıÿÿÿÿ
+Q
+squid:S1061";Replace this usage of System.out or System.err by a logger.(ËÉ±±
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(£„ä«
+?squid:S1148 "#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Zsquid:S25836"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Qsquid:S1141E"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Vsquid:S2259$"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+Qsquid:S11417"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+V
+squid:S106%";Replace this usage of System.out or System.err by a logger.(Ã³è¿ûÿÿÿÿ
+V
+squid:S106M";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Nsquid:S1313"2Make this IP "192.168.2.241" address configurable.(ÏüöËıÿÿÿÿ

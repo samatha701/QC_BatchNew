@@ -1,0 +1,96 @@
+
+.squid:S20950"Close this "ResultSet".(Õ¹¡—
+3squid:S20955"Close this "ResultSet".( ¢Ïûÿÿÿÿ
+.squid:S2095C"Close this "ResultSet".(Ë â€
+3squid:S20959"Close this "ResultSet".(¼Šù¹øÿÿÿÿ
+3squid:S2095/"Close this "ResultSet".(ò¹ş¯ÿÿÿÿÿ
+.squid:S2095,"Close this "ResultSet".(˜÷¹ß
+3squid:S2095@"Close this "ResultSet".(©„ô½ÿÿÿÿÿ
+.squid:S2095M"Close this "ResultSet".(Ÿ“´à
+.squid:S2095("Close this "Statement".(Êë‹
+3squid:S20956"Close this "ResultSet".(¼‰¡Öüÿÿÿÿ
+.squid:S2095."Close this "ResultSet".(ÙùûÏ
+.squid:S2095<"Close this "ResultSet".(Â®Åœ
+.squid:S20952"Close this "ResultSet".(ˆøùû
+.squid:S2095?"Close this "ResultSet".(Äƒı½
+.squid:S2095F"Close this "ResultSet".(‘›ÏÉ
+3squid:S2095:"Close this "ResultSet".(¼Òƒ›øÿÿÿÿ
+.squid:S2095B"Close this "ResultSet".(³“
+.squid:S2095="Close this "ResultSet".(œ°¬¬
+3squid:S2095E"Close this "ResultSet".(Š½×ıÿÿÿÿ
+3squid:S2095K"Close this "ResultSet".(ä¼Ÿÿÿÿÿÿ
+3squid:S20958"Close this "ResultSet".(ßØêşÿÿÿÿ
+3squid:S20953"Close this "ResultSet".(Òø©ùüÿÿÿÿ
+3squid:S2095H"Close this "ResultSet".(ĞúÀ‡ÿÿÿÿÿ
+-squid:S2095>"Close this "ResultSet".(«øûi
+4squid:S2095"Close this "Connection".(íˆçıÿÿÿÿ
+.squid:S2095I"Close this "ResultSet".(´·µö
+.squid:S2095-"Close this "ResultSet".(áÖê
+.squid:S20954"Close this "ResultSet".(î°ô¡
+3squid:S20951"Close this "ResultSet".(øˆ‚éşÿÿÿÿ
+3squid:S2095A"Close this "ResultSet".(ÇŠ‹óøÿÿÿÿ
+3squid:S2095G"Close this "ResultSet".(•ú¨îøÿÿÿÿ
+3squid:S20957"Close this "ResultSet".(ÃŠÂ¼şÿÿÿÿ
+Nsquid:S1313"2Make this IP "192.168.2.241" address configurable.(íˆçıÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(×„›şÿÿÿÿ
+Q
+squid:S106#";Replace this usage of System.out or System.err by a logger.(£„ä«
+V
+squid:S106)";Replace this usage of System.out or System.err by a logger.(Ã³è¿ûÿÿÿÿ
+Q
+squid:S106Q";Replace this usage of System.out or System.err by a logger.(ÆÀûı
+V
+squid:S106Y";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+V
+squid:S106q";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Zsquid:S2583i"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Zsquid:S2583b"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Zsquid:S2583["CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Qsquid:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141c"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Vsquid:S2259("?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+<squid:S1166^"%Either log or rethrow this exception.(”ı¾
+<squid:S1166e"%Either log or rethrow this exception.(”ı¾
+<squid:S1166l"%Either log or rethrow this exception.(”ı¾
+Asquid:S00108^")Either remove or fill this block of code.(”ı¾
+Asquid:S00108e")Either remove or fill this block of code.(”ı¾
+Asquid:S00108l")Either remove or fill this block of code.(”ı¾
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+Tsquid:S1854,"=Remove this useless assignment to local variable "resultSet".(˜÷¹ß
+Tsquid:S1854-"=Remove this useless assignment to local variable "resultSet".(áÖê
+Tsquid:S1854."=Remove this useless assignment to local variable "resultSet".(ÙùûÏ
+Ysquid:S1854/"=Remove this useless assignment to local variable "resultSet".(ò¹ş¯ÿÿÿÿÿ
+Tsquid:S18540"=Remove this useless assignment to local variable "resultSet".(Õ¹¡—
+Ysquid:S18541"=Remove this useless assignment to local variable "resultSet".(øˆ‚éşÿÿÿÿ
+Tsquid:S18542"=Remove this useless assignment to local variable "resultSet".(ˆøùû
+Ysquid:S18543"=Remove this useless assignment to local variable "resultSet".(Òø©ùüÿÿÿÿ
+Tsquid:S18544"=Remove this useless assignment to local variable "resultSet".(î°ô¡
+Ysquid:S18545"=Remove this useless assignment to local variable "resultSet".( ¢Ïûÿÿÿÿ
+Ysquid:S18546"=Remove this useless assignment to local variable "resultSet".(¼‰¡Öüÿÿÿÿ
+Ysquid:S18547"=Remove this useless assignment to local variable "resultSet".(ÃŠÂ¼şÿÿÿÿ
+Ysquid:S18548"=Remove this useless assignment to local variable "resultSet".(ßØêşÿÿÿÿ
+Ysquid:S18549"=Remove this useless assignment to local variable "resultSet".(¼Šù¹øÿÿÿÿ
+Ysquid:S1854:"=Remove this useless assignment to local variable "resultSet".(¼Òƒ›øÿÿÿÿ
+Tsquid:S1854<"=Remove this useless assignment to local variable "resultSet".(Â®Åœ
+Tsquid:S1854="=Remove this useless assignment to local variable "resultSet".(œ°¬¬
+Ssquid:S1854>"=Remove this useless assignment to local variable "resultSet".(«øûi
+Tsquid:S1854?"=Remove this useless assignment to local variable "resultSet".(Äƒı½
+Ysquid:S1854@"=Remove this useless assignment to local variable "resultSet".(©„ô½ÿÿÿÿÿ
+Ysquid:S1854A"=Remove this useless assignment to local variable "resultSet".(ÇŠ‹óøÿÿÿÿ
+Tsquid:S1854B"=Remove this useless assignment to local variable "resultSet".(³“
+Tsquid:S1854C"=Remove this useless assignment to local variable "resultSet".(Ë â€
+Ysquid:S1854E"=Remove this useless assignment to local variable "resultSet".(Š½×ıÿÿÿÿ
+Tsquid:S1854F"=Remove this useless assignment to local variable "resultSet".(‘›ÏÉ
+Ysquid:S1854G"=Remove this useless assignment to local variable "resultSet".(•ú¨îøÿÿÿÿ
+Ysquid:S1854H"=Remove this useless assignment to local variable "resultSet".(ĞúÀ‡ÿÿÿÿÿ
+Tsquid:S1854I"=Remove this useless assignment to local variable "resultSet".(´·µö
+Ysquid:S1854K"=Remove this useless assignment to local variable "resultSet".(ä¼Ÿÿÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Xsquid:UselessImportCheck
+"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+?squid:S1148$"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+?squid:S1148r"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ

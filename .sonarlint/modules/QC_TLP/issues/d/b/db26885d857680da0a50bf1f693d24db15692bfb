@@ -1,0 +1,60 @@
+
+Jsquid:UselessParenthesesCheck‹"!Remove those useless parentheses.(‰Œ€e
+Psquid:UselessParenthesesCheck¶"!Remove those useless parentheses.(²©ŠŽûÿÿÿÿ
+bsquid:S1192("FDefine a constant instead of duplicating this literal "Login" 4 times.(÷º¢°üÿÿÿÿ
+Nsquid:S1313I"2Make this IP "192.168.1.182" address configurable.(Ö£È½úÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³£›
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ž±‹ ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(‰üÙ’
+bsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¥Ñø
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(´ì¬§
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(õÝ×Íúÿÿÿÿ
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(²Ðòí
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Úæ­
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(½¼¡¦
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(”›Ùøÿÿÿÿÿ
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(Ó‹ŒÃÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(”›Ùøÿÿÿÿÿ
+d
+squid:S134C"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(üžËÉ
+V
+squid:S106)";Replace this usage of System.out or System.err by a logger.(£ñð”ýÿÿÿÿ
+V
+squid:S106/";Replace this usage of System.out or System.err by a logger.(ÞÛõ±üÿÿÿÿ
+V
+squid:S1068";Replace this usage of System.out or System.err by a logger.(©ø…­úÿÿÿÿ
+V
+squid:S106:";Replace this usage of System.out or System.err by a logger.(¦¼¦ãúÿÿÿÿ
+Q
+squid:S106<";Replace this usage of System.out or System.err by a logger.(ÕŒô•
+W
+squid:S106Š";Replace this usage of System.out or System.err by a logger.(µñÌ¸øÿÿÿÿ
+R
+squid:S106";Replace this usage of System.out or System.err by a logger.(˜ã†¹
+bsquid:S1132C"KMove the "local" string literal on the left side of this string comparison.(üžËÉ
+Nsquid:S1135u"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Asquid:S1172"*Remove this unused method parameter "SSN".(ø¸íÈ
+Bsquid:S1172­"*Remove this unused method parameter "SSN".(—Ò¤ò
+Asquid:S1166t"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Bsquid:S1166£"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166Ê"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ý¨‰úÿÿÿÿ
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£È½úÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+osquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ò¤ò
+osquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ò¤ò
+Usquid:UselessImportCheck	"1Remove this unused import 'java.util.Properties'.(¬µŽ²
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ð"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

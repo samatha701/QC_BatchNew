@@ -1,0 +1,23 @@
+
+Žsquid:S1845K"wRename method "logout" to prevent any misunderstanding/clash with field "logout" defined in superclass "tests.QCStore".(¨ñíÇ
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+Asquid:S1166i"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(´ì¬§
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(š¾ê¦
+Hsquid:S1313("1Make this IP "192.168.2.48" address configurable.(Ýô²È
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€‘¼û
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Â×ò‡
+Isquid:S1172"-Remove this unused method parameter "AppURL".(¦ªÒöþÿÿÿÿ
+7squid:S20686" Remove this hard-coded password.(¾”íÐ
+Qsquid:S1854!"5Remove this useless assignment to local variable "x".(¶Ù‹âÿÿÿÿÿ
+?squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Isquid:S13133"2Make this IP "192.168.2.203" address configurable.(¸¾Ì–
+bsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(¹¹°
+bsquid:S1132""KMove the "local" string literal on the left side of this string comparison.(ô¿®à
+Bsquid:S1481!"&Remove this unused "x" local variable.(¶Ù‹âÿÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¦ªÒöþÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ýô²È
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ

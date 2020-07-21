@@ -1,0 +1,24 @@
+
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(áÝ—Â
+›squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(áÝ—Â8ÿ‚ŸëŽ.
+nsquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ôÃ§
+nsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ìÉ›ÿÿÿÿÿ8üÏØ”Ž.
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¹á±´øÿÿÿÿ8ºÿäž«.
+Dsquid:S1166‚"%Either log or rethrow this exception.(Ñµé‘8œ‘¯–Ž.
+p
+squid:S134|"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8œ‘¯–Ž.
+q
+squid:S134ˆ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8çò·–Ž.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÝ—Â
+Isquid:S1166Ž"%Either log or rethrow this exception.(ýô…÷ÿÿÿÿÿ8çò·–Ž.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÝ—Â
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(˜Û´‰8üÏØ”Ž.
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ï¶Åòýÿÿÿÿ
+nsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(—¬ôûÿÿÿÿ8¶ÂÞ”Ž.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+tsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡—‚>8ñ•§”Ž.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ÚžàŠþÿÿÿÿ8Ó×ù”Ž.
+Rsquid:EmptyStatementUsageCheck-"Remove this empty statement.(ö©²×úÿÿÿÿ8üð´—Ž.
+nsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(¿Øû¥øÿÿÿÿ8üÏØ”Ž.
+nsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(‚ÉÅ‡ùÿÿÿÿ8³€ˆ•Ž.

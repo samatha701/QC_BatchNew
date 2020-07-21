@@ -1,0 +1,142 @@
+
+Nsquid:S1481A"0Remove this unused "VehicleYear" local variable.(ÄÅş8ˆÂˆá-
+nsquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™š„•
+ssquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔÉÿÿÿÿÿÿ
+Psquid:S1444"9Make this "public static InsuranceExpiryDate" field final(ë–´è
+Ssquid:S14819"0Remove this unused "VehicleType" local variable.(÷Öäƒÿÿÿÿÿ8ˆÂˆá-
+>squid:S1481X"'Remove this unused "df" local variable.(©Âìü
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ı†áŠÿÿÿÿÿ
+msquid:S1132à"PMove the "DEBIT CARD" string literal on the left side of this string comparison.( „ãƒıÿÿÿÿ
+ssquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è­Î¯øÿÿÿÿ
+nsquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öùåñ
+Ksquid:S1481:"(Remove this unused "VIN" local variable.(ø—»Üÿÿÿÿÿ8ˆÂˆá-
+Asquid:S1444"*Make this "public static cnum" field final(Å­Á–
+ssquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+nsquid:S00117Q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€
+psquid:S3008"TRename this field "PhoneNbr3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›˜ò™ıÿÿÿÿ
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò½’Òÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake rnum a static final constant or non-public and provide accessors if needed.(ú‚Ç©øÿÿÿÿ
+bsquid:S1854F"DRemove this useless assignment to local variable "InsuranceCompany".(öùåñ8ˆÂˆá-
+dsquid:S1854C"ARemove this useless assignment to local variable "ExteriorColor".(è­Î¯øÿÿÿÿ8ˆÂˆá-
+]squid:S1854;":Remove this useless assignment to local variable "NewVIN".(ò½’Òÿÿÿÿÿ8ˆÂˆá-
+nsquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+ssquid:S00117Z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø—»Üÿÿÿÿÿ
+ksquid:S3008"TRename this field "PhoneNbr2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©Ô…
+ssquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ò³êÿÿÿÿÿ
+Bsquid:S1166Ì"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Öäƒÿÿÿÿÿ
+jsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ù Å‘8µ¿öˆá-
+Ksquid:S1444"/Make this "public static PhoneNbr1" field final(éõçßúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"_Make InsuranceExpiryDate a static final constant or non-public and provide accessors if needed.(ë–´è
+ssquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÔ ¯şÿÿÿÿ
+Qsquid:S1444 ":Make this "public static InsuranceExpiryDate1" field final(²„øó
+ƒ"squid:ClassVariableVisibilityCheck"UMake PhoneNbr2 a static final constant or non-public and provide accessors if needed.(¦©Ô…
+"squid:ClassVariableVisibilityCheck"`Make InsuranceExpiryDate3 a static final constant or non-public and provide accessors if needed.(ŒğŸÚ
+hsquid:S1132¼"KMove the "Term1" string literal on the left side of this string comparison.(›ãîÂÿÿÿÿÿ
+ssquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊËæùÿÿÿÿ
+ƒsquid:S1192‹"fDefine a constant instead of duplicating this literal "requestBean.siilBean.courtesyCallFlag" 3 times.(¶‡Ô¬øÿÿÿÿ
+ssquid:S00117["VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+Zsquid:S1854:"7Remove this useless assignment to local variable "VIN".(ø—»Üÿÿÿÿÿ8ˆÂˆá-
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ì¡Ó
+“"squid:ClassVariableVisibilityCheck"`Make InsuranceExpiryDate0 a static final constant or non-public and provide accessors if needed.(¬Öš“üÿÿÿÿ
+Isquid:S1481/"-Remove this unused "Password" local variable.(„¾˜ şÿÿÿÿ
+^squid:S1854G"@Remove this useless assignment to local variable "PolicyNumber".(ë¬ê¿8ˆÂˆá-
+psquid:S3008"TRename this field "PhoneNbr1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éõçßúÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(§®å˜
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ş¼Çøÿÿÿÿ
+Vsquid:S1444":Make this "public static InsuranceExpiryDate0" field final(¬Öš“üÿÿÿÿ
+ssquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÊØúÿÿÿÿ
+Wsquid:S1854<"9Remove this useless assignment to local variable "Miles".(™š„•8ˆÂˆá-
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ºİäºüÿÿÿÿ8¾ ¨á-
+Isquid:S1481."-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ
+vsquid:S3008"_Rename this field "InsuranceExpiryDate3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒğŸÚ
+vsquid:S3008"_Rename this field "InsuranceExpiryDate2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‡‰”
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ºİäºüÿÿÿÿ8¬ÿİ‡á-
+ssquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶îÓşÿÿÿÿ
+nsquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‰²±
+nsquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•çüû
+Dsquid:S14817"-Remove this unused "DisbType" local variable.(·Ì¡Ó
+Qsquid:S1444":Make this "public static InsuranceExpiryDate2" field final(£‡‰”
+]squid:S1854>"?Remove this useless assignment to local variable "TitleNumber".(‚‰²±8ˆÂˆá-
+Osquid:S1481G"1Remove this unused "PolicyNumber" local variable.(ë¬ê¿8ˆÂˆá-
+"squid:ClassVariableVisibilityCheck "`Make InsuranceExpiryDate1 a static final constant or non-public and provide accessors if needed.(²„øó
+Isquid:S1172!"-Remove this unused method parameter "AppURL".(­ş¼Çøÿÿÿÿ
+Esquid:S1444".Make this "public static PhoneNbr" field final( ¤Ø•
+Ssquid:S18547"<Remove this useless assignment to local variable "DisbType".(·Ì¡Ó
+nsquid:S00117A"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÅş
+‚"squid:ClassVariableVisibilityCheck"TMake PhoneNbr a static final constant or non-public and provide accessors if needed.( ¤Ø•
+nsquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ä
+l
+squid:S134¸"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ŠÑ¬­8ß¸½ç¢.
+Nsquid:S1481>"0Remove this unused "TitleNumber" local variable.(‚‰²±8ˆÂˆá-
+Qsquid:S1444":Make this "public static InsuranceExpiryDate3" field final(ŒğŸÚ
+^squid:S1854D"@Remove this useless assignment to local variable "VehicleGrade".(€ä8ˆÂˆá-
+bsquid:S1854?"?Remove this useless assignment to local variable "VehicleMake".(¨õ£şÿÿÿÿ8ˆÂˆá-
+nsquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¬ê¿
+nsquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÒò€
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+nsquid:S00117O"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ó“Ò
+vsquid:S3008 "_Rename this field "InsuranceExpiryDate1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²„øó
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ş¼Çøÿÿÿÿ
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿ã¥
+Msquid:S1854X"6Remove this useless assignment to local variable "df".(©Âìü
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(—ÈÉ¿ıÿÿÿÿ
+Ssquid:S1481?"0Remove this unused "VehicleMake" local variable.(¨õ£şÿÿÿÿ8ˆÂˆá-
+Ysquid:S1481E"6Remove this unused "InsuranceCoverage" local variable.(î¶îÓşÿÿÿÿ8ˆÂˆá-
+tsquid:S00117Ø"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”…ÑËÿÿÿÿÿ
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+Tsquid:S1197"8Move the array designator from the variable to the type.(¬Öš“üÿÿÿÿ
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+usquid:S3008"^Rename this field "InsuranceExpiryDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–´è
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+Fsquid:S1444"*Make this "public static rnum" field final(ú‚Ç©øÿÿÿÿ
+Osquid:S1481@"1Remove this unused "VehicleModel" local variable.(¡¿ã¥8ˆÂˆá-
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+hsquid:S1854E"ERemove this useless assignment to local variable "InsuranceCoverage".(î¶îÓşÿÿÿÿ8ˆÂˆá-
+Usquid:S1481C"2Remove this unused "ExteriorColor" local variable.(è­Î¯øÿÿÿÿ8ˆÂˆá-
+bsquid:S18549"?Remove this useless assignment to local variable "VehicleType".(÷Öäƒÿÿÿÿÿ8ˆÂˆá-
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake PhoneNbr3 a static final constant or non-public and provide accessors if needed.(›˜ò™ıÿÿÿÿ
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake PhoneNbr1 a static final constant or non-public and provide accessors if needed.(éõçßúÿÿÿÿ
+ksquid:S1854B"HRemove this useless assignment to local variable "License_Plate_Number".(ëÊØúÿÿÿÿ8ˆÂˆá-
+jsquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(­ş¼Çøÿÿÿÿ8ß¸½ç¢.
+"squid:ClassVariableVisibilityCheck"`Make InsuranceExpiryDate2 a static final constant or non-public and provide accessors if needed.(£‡‰”
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ
+\squid:S1481B"9Remove this unused "License_Plate_Number" local variable.(ëÊØúÿÿÿÿ8ˆÂˆá-
+osquid:S00117±"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úˆÉ³
+Nsquid:S00108Í")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Î¹ï™è-
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+fsquid:S1192l"JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªıÿÿÿÿ
+9squid:S2386"Make this member "protected".(¬Öš“üÿÿÿÿ
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(¯¶šĞûÿÿÿÿ
+nsquid:S00117N"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õƒ¯
+]squid:S1854A"?Remove this useless assignment to local variable "VehicleYear".(ÄÅş8ˆÂˆá-
+^squid:S1854@"@Remove this useless assignment to local variable "VehicleModel".(¡¿ã¥8ˆÂˆá-
+Xsquid:S1854."<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ
+Ssquid:S1481F"5Remove this unused "InsuranceCompany" local variable.(öùåñ8ˆÂˆá-
+ssquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+ssquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨õ£şÿÿÿÿ
+Tsquid:S18543"=Remove this useless assignment to local variable "ProductID".(œñ†í
+~"squid:ClassVariableVisibilityCheck"PMake cnum a static final constant or non-public and provide accessors if needed.(Å­Á–
+Nsquid:S1481;"+Remove this unused "NewVIN" local variable.(ò½’Òÿÿÿÿÿ8ˆÂˆá-
+{squid:S3008"_Rename this field "InsuranceExpiryDate0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Öš“üÿÿÿÿ
+Vsquid:S1481H"8Remove this unused "InsuranceExpiryDate" local variable.(íÒò€8ˆÂˆá-
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+Ksquid:S1444"/Make this "public static PhoneNbr3" field final(›˜ò™ıÿÿÿÿ
+Osquid:S1481D"1Remove this unused "VehicleGrade" local variable.(€ä8ˆÂˆá-
+nsquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(­ş¼Çøÿÿÿÿ
+Esquid:S14813".Remove this unused "ProductID" local variable.(œñ†í
+Hsquid:S1481<"*Remove this unused "Miles" local variable.(™š„•8ˆÂˆá-
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+Fsquid:S1444"/Make this "public static PhoneNbr2" field final(¦©Ô…
+nsquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+jsquid:S3008"SRename this field "PhoneNbr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¤Ø•
+Xsquid:S1854/"<Remove this useless assignment to local variable "Password".(„¾˜ şÿÿÿÿ
+Zsquid:UselessImportCheck	"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+esquid:S1854H"GRemove this useless assignment to local variable "InsuranceExpiryDate".(íÒò€8ˆÂˆá-
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ

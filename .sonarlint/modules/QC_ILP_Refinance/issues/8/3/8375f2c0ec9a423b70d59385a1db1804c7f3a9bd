@@ -1,0 +1,86 @@
+
+bsquid:S1192t"FDefine a constant instead of duplicating this literal "value" 6 times.(ßúúÖıÿÿÿÿ
+€squid:S1192x"dDefine a constant instead of duplicating this literal "requestBean.siilBean.tenderAmtFirst" 3 times.(Ê–ùÿÿÿÿ
+vsquid:S1192~"ZDefine a constant instead of duplicating this literal "getting stepup message  :" 3 times.(°úúÿÿÿÿ
+ƒsquid:S1192ƒ"fDefine a constant instead of duplicating this literal "Courtesy Call Consent is selected as " 4 times.(«–Òúÿÿÿÿ
+ssquid:S1192{"\Define a constant instead of duplicating this literal "Entered tender amount as  :" 3 times.(Œıó
+|squid:S1192t"`Define a constant instead of duplicating this literal "requestBean.siilBean.paymentAmt" 3 times.(ßúúÖıÿÿÿÿ
+squid:S1192v"eDefine a constant instead of duplicating this literal "requestBean.siilBean.tenderTypeFirst" 3 times.(øàƒñùÿÿÿÿ
+_squid:S1192r"HDefine a constant instead of duplicating this literal "qualify" 3 times.(İøÔ¯
+wsquid:S1192s"[Define a constant instead of duplicating this literal "Clicked on qualify button " 3 times.(øê³€øÿÿÿÿ
+nsquid:S1192u"XDefine a constant instead of duplicating this literal "Getting payment amount " 3 times.(¬£”;
+fsquid:S1192A"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+ssquid:S1192w"WDefine a constant instead of duplicating this literal "Select tender type as " 3 times.(İ·ôüÿÿÿÿ
+ksquid:S1192"ODefine a constant instead of duplicating this literal "collateralType" 3 times.(Ê­ıŞùÿÿÿÿ
+xsquid:S1192€"`Define a constant instead of duplicating this literal "Collateral Type is enterted as " 4 times.(¿ğú¼
+nsquid:S3008"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ
+msquid:S3008"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš
+usquid:S3008"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ
+Jsquid:S1444".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ
+Lsquid:S1444"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ
+Isquid:S1444"2Make this "public static cardEx_month" field final(•’ŒÉ
+Hsquid:S1444"1Make this "public static cardEx_Year" field final(›½œš
+Esquid:S1444")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ
+Psquid:S1444"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ
+Jsquid:S1444"3Make this "public static paymentAmount" field final(Å£ºÅ
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(¸Ñ‹¢ûÿÿÿÿ
+d
+squid:S134h"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ø£¨»
+j
+squid:S134£"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(şãÛ¾úÿÿÿÿ
+e
+squid:S134Í"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÀÛç
+e
+squid:S134„"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡÷€é
+j
+squid:S134©"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+e
+squid:S134Ä"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Õí¯•
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ
+…"squid:ClassVariableVisibilityCheck"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš
+‚"squid:ClassVariableVisibilityCheck"OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"YMake paymentAmount a static final constant or non-public and provide accessors if needed.(Å£ºÅ
+bsquid:S1132h"KMove the "Check" string literal on the left side of this string comparison.(Ø£¨»
+fsquid:S1132£"IMove the "Ach" string literal on the left side of this string comparison.(şãÛ¾úÿÿÿÿ
+hsquid:S1132Í"PMove the "Debit card" string literal on the left side of this string comparison.(ÀÛç
+asquid:S1132„"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é
+gsquid:S1132‡"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ
+bsquid:S1132Œ"JMove the "Mail" string literal on the left side of this string comparison.(ÓÄ
+asquid:S1132‘"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î
+‹ squid:MethodCyclomaticComplexity"_The Cyclomatic Complexity of this method "Refinance" is 13 which is greater than 10 authorized.(÷«ú
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(÷«ú
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷«ú
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(÷«ú
+Asquid:S1166n"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166©"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166Å"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+=squid:S1166œ"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166®"%Either log or rethrow this exception.(¬Ù¨Í
+Fsquid:S00108o")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Gsquid:S00108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Gsquid:S00108ª")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Gsquid:S00108Æ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷«ú
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷«ú
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õİğÍşÿÿÿÿ
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ
+nsquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+tsquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µääÆúÿÿÿÿ
+tsquid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µääÆúÿÿÿÿ
+osquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‡—
+tsquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Áİ‘şÿÿÿÿ
+osquid:S00117¸"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’ğå
+osquid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éîù·
+rsquid:S00122¦"TAt most one statement is allowed per line, but 2 statements were found on this line.(øÑ¢µûÿÿÿÿ

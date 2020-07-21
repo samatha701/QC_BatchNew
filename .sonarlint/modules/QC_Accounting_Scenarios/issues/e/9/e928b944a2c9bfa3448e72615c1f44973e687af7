@@ -1,0 +1,65 @@
+
+Lsquid:S1444"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ
+bsquid:S1132z"KMove the "CHECK" string literal on the left side of this string comparison.(òÿÇ§
+~"squid:ClassVariableVisibilityCheck
+"PMake Pbal a static final constant or non-public and provide accessors if needed.(ûú‡â
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«ŠÚ
+{squid:S1192m"dDefine a constant instead of duplicating this literal "Click on Debit Card deposit button " 3 times.(œÁê
+tsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º˜¡øÿÿÿÿ
+Esquid:S1444")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(»¡­™
+‰"squid:ClassVariableVisibilityCheck"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ
+ssquid:S00117h"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º˜¡øÿÿÿÿ
+msquid:S3008"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Q
+squid:S106U";Replace this usage of System.out or System.err by a logger.(ğà—œ
+‡"squid:ClassVariableVisibilityCheck"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ
+fsquid:S3008
+"ORename this field "Pbal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûú‡â
+Jsquid:S1444".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ
+hsquid:S1132"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(Ô¾·…
+fsquid:S1192*"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ
+ssquid:S00117X"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬İ¶²üÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‚ÇË
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+esquid:S1192d"IDefine a constant instead of duplicating this literal " Deposit" 5 times.(ÇÖ¢ûûÿÿÿÿ
+‘squid:S1192g"uDefine a constant instead of duplicating this literal "Click on GO Button after transaction type selection " 3 times.(ª‚¬¥ùÿÿÿÿ
+e
+squid:S134™"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(€€æ£
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(å‚ÇË
+d
+squid:S134j"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(€€æ£
+…"squid:ClassVariableVisibilityCheck"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš
+‡squid:S2681£"oOnly the first line of this 2-line block will be executed conditionally. The rest will execute unconditionally.(œÁê
+}squid:S1192n"aDefine a constant instead of duplicating this literal " Deposit from CSR is successfull" 5 times.(öİæ»øÿÿÿÿ
+Isquid:S1444"2Make this "public static cardEx_month" field final(•’ŒÉ
+`squid:S1132^"IMove the "ACH" string literal on the left side of this string comparison.(ƒÛÕá
+"squid:ClassVariableVisibilityCheck"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ
+†squid:S2681t"oOnly the first line of this 2-line block will be executed conditionally. The rest will execute unconditionally.(ÂÇÕà
+usquid:S3008"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ
+Hsquid:S1444"1Make this "public static cardEx_Year" field final(›½œš
+`squid:S1132k"IMove the "PDL" string literal on the left side of this string comparison.(¢äÇ¥
+Q
+squid:S106Y";Replace this usage of System.out or System.err by a logger.(ÚÌÀõ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(å‚ÇË
+nsquid:S3008"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ
+Gsquid:S00108³")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(†µøÿÿÿÿ
+Psquid:S1444"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ
+Asquid:S1444
+"*Make this "public static Pbal" field final(ûú‡â
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‚ÇË
+gsquid:S1192J"PDefine a constant instead of duplicating this literal "transactionList" 4 times.(“È½¸
+asquid:S1132š"IMove the "PDL" string literal on the left side of this string comparison.(¢äÇ¥
+Bsquid:S1166³"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+‡squid:S1192o"pDefine a constant instead of duplicating this literal "********************************************** " 5 times.(êøœ
+asquid:S1192f"JDefine a constant instead of duplicating this literal "go_Button" 3 times.(–ÆĞ¹
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117T"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÖåŠ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(å‚ÇË
+†"squid:ClassVariableVisibilityCheck"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8’üæ«.

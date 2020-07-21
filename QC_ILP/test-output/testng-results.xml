@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="51" total="52" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="846566" started-at="2020-01-24T06:03:04Z" finished-at="2020-01-24T06:17:10Z">
+    <groups>
+      <group name="Brahmith1">
+        <method signature="QCStore.QC_NewLoan_TLPConversion_Txn()[pri:53, instance:tests.QCStore@5f9d02cb]" name="QC_NewLoan_TLPConversion_Txn" class="tests.QCStore"/>
+      </group> <!-- Brahmith1 -->
+    </groups>
+    <test name="Test" duration-ms="846566" started-at="2020-01-24T06:03:04Z" finished-at="2020-01-24T06:17:10Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="97" started-at="2020-01-24T06:03:04Z" finished-at="2020-01-24T06:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="512" started-at="2020-01-24T06:03:04Z" finished-at="2020-01-24T06:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_NewLoan_TLPConversion_Txn()[pri:53, instance:tests.QCStore@5f9d02cb]" name="QC_NewLoan_TLPConversion_Txn" duration-ms="845606" started-at="2020-01-24T06:03:04Z" finished-at="2020-01-24T06:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NewLoan_TLPConversion_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2020-01-24T06:17:10Z" finished-at="2020-01-24T06:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="335" started-at="2020-01-24T06:17:10Z" finished-at="2020-01-24T06:17:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NewLoan_TLPConversion_Txn status=SUCCESS method=QCStore.QC_NewLoan_TLPConversion_Txn()[pri:53, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

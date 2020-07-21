@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="11" total="13" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5771794" started-at="2019-04-02T03:21:05Z" finished-at="2019-04-02T04:57:17Z">
+    <groups>
+      <group name="Ratikanta_ILP_Weekly">
+        <method signature="QCStore.QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata()[pri:5, instance:tests.QCStore@5f9d02cb]" name="QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata()[pri:6, instance:tests.QCStore@5f9d02cb]" name="QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_ILP_Weekly -->
+    </groups>
+    <test name="Test" duration-ms="5771794" started-at="2019-04-02T03:21:05Z" finished-at="2019-04-02T04:57:17Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="116" started-at="2019-04-02T03:21:05Z" finished-at="2019-04-02T03:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5000" started-at="2019-04-02T03:21:05Z" finished-at="2019-04-02T03:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata()[pri:5, instance:tests.QCStore@5f9d02cb]" name="QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata" duration-ms="2975319" started-at="2019-04-02T03:21:10Z" finished-at="2019-04-02T04:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="1" started-at="2019-04-02T04:10:45Z" finished-at="2019-04-02T04:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="211" started-at="2019-04-02T04:10:45Z" finished-at="2019-04-02T04:10:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata status=SUCCESS method=QCStore.QC_3Payments_Refinance_Weekly_StepSame_LoanAmountEdit_Txn_Testdata()[pri:5, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5000" started-at="2019-04-02T04:10:46Z" finished-at="2019-04-02T04:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata()[pri:6, instance:tests.QCStore@5f9d02cb]" name="QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata" duration-ms="2786046" started-at="2019-04-02T04:10:51Z" finished-at="2019-04-02T04:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-04-02T04:57:17Z" finished-at="2019-04-02T04:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="81" started-at="2019-04-02T04:57:17Z" finished-at="2019-04-02T04:57:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata status=SUCCESS method=QCStore.QC_3Payments_Refinance_Weekly_StepUp_NoCash_Txn_Testdata()[pri:6, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

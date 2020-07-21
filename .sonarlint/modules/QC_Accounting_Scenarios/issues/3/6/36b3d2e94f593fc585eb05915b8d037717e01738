@@ -1,0 +1,172 @@
+
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ê™äæøÿÿÿÿ
+nsquid:S00117U"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÔü¼
+ssquid:S00117~"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðñÈÕúÿÿÿÿ
+vsquid:S00117Í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÎžö8—–ü“Ö-
+tsquid:S00117Õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æêí‰ýÿÿÿÿ
+ssquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+ssquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é˜ÍÏüÿÿÿÿ
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(«É€¹
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(çÆ¿•8º½ˆ•Ö-
+nsquid:S00117V"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶áò
+osquid:S00117ð"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨×‚
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(€¢üÔüÿÿÿÿ
+q
+squid:S134â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ø–Ëçúÿÿÿÿ8ö¸µ¸á-
+osquid:S1132‘"RMove the "Semi-Monthly" string literal on the left side of this string comparison.(˜Ô½Ëþÿÿÿÿ
+_squid:S1132ƒ"GMove the "1" string literal on the left side of this string comparison.(ÁÌäó
+ssquid:S00117N"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸£ðûÿÿÿÿ
+usquid:S00117s"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎË¥Ä8—–ü“Ö-
+hsquid:CommentedOutCodeLineÐ"<This block of commented-out lines of code should be removed.(€¢üÔüÿÿÿÿ
+tsquid:S00117€"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝçÙ•øÿÿÿÿ
+usquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷áá8—–ü“Ö-
+jsquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(ƒÙ™Ýüÿÿÿÿ8º½ˆ•Ö-
+tsquid:S00117à"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŽ «úÿÿÿÿ
+{squid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŠÁøþÿÿÿÿ8—–ü“Ö-
+ssquid:S00117Z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý‡éÌüÿÿÿÿ
+l
+squid:S134ƒ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÁÌäó8—–ü“Ö-
+{squid:S00117»"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽµÉÿÿÿÿÿ8—–ü“Ö-
+vsquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»«Î­8äÏöäÄ-
+ssquid:S00117k"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(Ñá‹‚üÿÿÿÿ8º½ˆ•Ö-
+Isquid:S1481>"-Remove this unused "Password" local variable.(„¾˜ þÿÿÿÿ
+usquid:S00117t"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ“é©8äÏöäÄ-
+nsquid:S00117m"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥÷äà
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚í¯Î
+{squid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8—–ü“Ö-
+ssquid:S00117p"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú©‡¤úÿÿÿÿ
+V
+squid:S106{";Replace this usage of System.out or System.err by a logger.(œ±Ÿÿùÿÿÿÿ
+tsquid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý‹Ðöúÿÿÿÿ
+gsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(ù·ˆþÿÿÿÿ
+nsquid:S00117u"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ªáè
+osquid:S00117ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü³ÚË
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+tsquid:S00117ß"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ×®ûÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ê™äæøÿÿÿÿ
+nsquid:S00117q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‚ªÄ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¢Ï“þÿÿÿÿ
+nsquid:S3776%"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ƒÙ™Ýüÿÿÿÿ
+=squid:S1166þ"%Either log or rethrow this exception.(¬Ù¨Í
+msquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŽ×F
+nsquid:S00117e"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‚¶¥
+{squid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àùö°ýÿÿÿÿ8äÏöäÄ-
+vsquid:S00117ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇåÍé8äÏöäÄ-
+jsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ü‹Ëù8º½ˆ•Ö-
+Tsquid:S1197|"8Move the array designator from the variable to the type.(ÑÝ²ûÿÿÿÿ
+jsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(áéì—8º½ˆ•Ö-
+ssquid:S00117n"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜‘…üÿÿÿÿ
+Psquid:S1197¬"8Move the array designator from the variable to the type.(ÊŒæ
+ssquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ýöÅúÿÿÿÿ
+Rsquid:S1854@";Remove this useless assignment to local variable "StoreId".(‚í¯Î
+nsquid:S00117["VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ì‡ü
+Psquid:S1197Ž"8Move the array designator from the variable to the type.(åï©ñ
+osquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ƒÒ¢Éüÿÿÿÿ8äÏ®Žß-
+jsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(ïÚ–Å8Õ—¨Ðí-
+Isquid:S1172%"-Remove this unused method parameter "AppURL".(ƒÙ™Ýüÿÿÿÿ
+Vsquid:S1854D":Remove this useless assignment to local variable "Header".(¤Æð‰úÿÿÿÿ
+gsquid:S1192 "JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+{squid:S00117Ý"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²óÛšüÿÿÿÿ8äÏöäÄ-
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+vsquid:S00117ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇ Š8—–ü“Ö-
+ssquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Æð‰úÿÿÿÿ
+zsquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÂûÒÿÿÿÿÿ8—–ü“Ö-
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(´ÐÓ
+osquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ä©Üûÿÿÿÿ8º½ˆ•Ö-
+msquid:S00117R"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï€œ
+ssquid:S00117|"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÝ²ûÿÿÿÿ
+ssquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÈïüÿÿÿÿ
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÞÈÎ‰þÿÿÿÿ8º½ˆ•Ö-
+usquid:S00117b"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àº¯Õ8—–ü“Ö-
+zsquid:S00117v"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏòšÇûÿÿÿÿ8—–ü“Ö-
+ssquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÑŽæüÿÿÿÿ
+{squid:S00117Ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰Ø¥ÿÿÿÿÿ8äÏöäÄ-
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¯”ÚÌøÿÿÿÿ
+nsquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·¼ê
+Usquid:S1197Ý"8Move the array designator from the variable to the type.(²óÛšüÿÿÿÿ
+Gsquid:S1481D"+Remove this unused "Header" local variable.(¤Æð‰úÿÿÿÿ
+osquid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ê–ó
+Osquid:S1197Ò"8Move the array designator from the variable to the type.(„Á¬_
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³£›
+ssquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âõ¬Œüÿÿÿÿ
+Usquid:S1197»"8Move the array designator from the variable to the type.(ŽµÉÿÿÿÿÿ
+msquid:S00117\"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“…×r
+vsquid:S00117¼"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îêº§8äÏöäÄ-
+esquid:S1132ÿ"MMove the "Monthly" string literal on the left side of this string comparison.(„®žÈ
+{squid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Êä±ûÿÿÿÿ8äÏöäÄ-
+osquid:S00117ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤÷ø‡
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µŽ²
+vsquid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öìãÃ8äÏöäÄ-
+=squid:S1166Ð"%Either log or rethrow this exception.(¬Ù¨Í
+ssquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñò£˜øÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÙ™Ýüÿÿÿÿ
+dsquid:S1132š"LMove the "Weekly" string literal on the left side of this string comparison.(†Ÿ¶ø
+ssquid:S00117T"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äé€Üûÿÿÿÿ
+Ysquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8º½ˆ•Ö-
+usquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Á¬_8—–ü“Ö-
+vsquid:S00117Þ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡Áï8äÏöäÄ-
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ÈØöÈøÿÿÿÿ
+› squid:MethodCyclomaticComplexity%"jThe Cyclomatic Complexity of this method "borrowerRegistration" is 12 which is greater than 10 authorized.(ƒÙ™Ýüÿÿÿÿ
+nsquid:S00117l"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßåàŠ
+bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(³ˆÏ¨
+msquid:S00117}"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Œ;
+_squid:S1132ˆ"GMove the "2" string literal on the left side of this string comparison.(¨íÕÀ
+osquid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯„ó£
+Csquid:S1481@",Remove this unused "StoreId" local variable.(‚í¯Î
+osquid:S00117Ž"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+ssquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯ò–øÿÿÿÿ
+ssquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+zsquid:S00117d"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñññúÿÿÿÿ8äÏöäÄ-
+ssquid:S00117o"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò°Ðäþÿÿÿÿ
+vsquid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç»ùÊ8—–ü“Ö-
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+{squid:S00117Ó"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔøÍ«øÿÿÿÿ8äÏöäÄ-
+ssquid:S00117r"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰±ÁÙüÿÿÿÿ
+ssquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¼©èøÿÿÿÿ
+Psquid:S1197ï"8Move the array designator from the variable to the type.(ÇåÍé
+csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ùí†Œ
+Wsquid:UselessParenthesesCheck«"!Remove those useless parentheses.(ÏŠÁøþÿÿÿÿ8––ü“Ö-
+ssquid:S00117Q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›œÏ†ûÿÿÿÿ
+nsquid:S00117X"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÔÍ
+osquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŒæ
+tsquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¹‚§ÿÿÿÿÿ
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ùí†Œ8äÏöäÄ-
+Usquid:S1197€"8Move the array designator from the variable to the type.(ÝçÙ•øÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ùÈˆùÿÿÿÿ
+†squid:S1192–"iDefine a constant instead of duplicating this literal "PrimaryReference Phone Nbr1 is entered: " 3 times.(žÞ†Ûøÿÿÿÿ
+Xsquid:S1854="<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ
+X
+squid:S106x";Replace this usage of System.out or System.err by a logger.(º¨¡ª8îŸ×”Ö-
+ssquid:S00117^"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÚå¨ùÿÿÿÿ
+osquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(®…Ý‘üÿÿÿÿ8ö¸µ¸á-
+nsquid:S00117_"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼³î
+ssquid:S00117`"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð™–°üÿÿÿÿ
+~squid:S1192û"aDefine a constant instead of duplicating this literal "Income_PayFrequency is entered: " 4 times.(¸ðÓ¡ûÿÿÿÿ
+jsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(¾›•³8º½ˆ•Ö-
+{squid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´½º­ûÿÿÿÿ8—–ü“Ö-
+ssquid:S00117y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÄ “ýÿÿÿÿ
+nsquid:S00117i"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+vsquid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄšÓ½8—–ü“Ö-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹µ‹8º½ˆ•Ö-
+gsquid:S1132ù"OMove the "Bi-Weekly" string literal on the left side of this string comparison.(ÉÅ±«
+ssquid:S00117O"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŒìÝþÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÙ™Ýüÿÿÿÿ
+tsquid:S00117î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²½ÝÛýÿÿÿÿ
+nsquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ãø—
+Xsquid:S1854>"<Remove this useless assignment to local variable "Password".(„¾˜ þÿÿÿÿ
+nsquid:S00117W"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÙß¤
+nsquid:S00117]"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™åÒ
+zsquid:S00117w"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¬íÁýÿÿÿÿ8äÏöäÄ-
+xsquid:S1192ú"[Define a constant instead of duplicating this literal "customerBean.payFreqCdDisp" 4 times.(äüùÆûÿÿÿÿ
+zsquid:S1192§"bDefine a constant instead of duplicating this literal "Reference Phone Nbr1 is entered: " 3 times.(ù˜ÀË
+Isquid:S1481="-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ
+osquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(»äê ùÿÿÿÿ8º½ˆ•Ö-
+usquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þüÚÂ8äÏöäÄ-
+ssquid:S00117z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦šÂ¸üÿÿÿÿ
+vsquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ö÷‡8—–ü“Ö-
+ysquid:S1192×"aDefine a constant instead of duplicating this literal "ID Expiration Date1 is entered: " 3 times.(‡€äÔ
+ssquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³žøÿÿÿÿ
+nsquid:S00117A"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í

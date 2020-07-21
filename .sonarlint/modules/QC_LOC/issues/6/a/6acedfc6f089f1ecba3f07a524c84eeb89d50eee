@@ -1,0 +1,26 @@
+
+Osquid:S1313+"1Make this IP "192.168.2.48" address configurable.(º÷ß¯8‹¸Äž’-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌËç¤
+_squid:S1132†"GMove the "1" string literal on the left side of this string comparison.(±æ²ò
+e
+squid:S134†"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±æ²ò
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Îð­Õ
+Bsquid:S1166š"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ8¤ùÊœ’-
+bsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(¦§ŒP
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌËç¤
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ÌËç¤
+msquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò›Í-
+Psquid:S13135"2Make this IP "192.168.2.203" address configurable.( ó‘ë8Ð“Áœ’-
+nsquid:S00117s"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠšË
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(´ì¬§8‹¸Äž’-
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÌËç¤
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û«ù
+usquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷ß¯8‹¸Äž’-
+hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ
+Gsquid:S00108›")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+msquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+gsquid:S1132%"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+žsquid:S1160"†Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.net.MalformedURLException(ÌËç¤
+=squid:S1166‚"%Either log or rethrow this exception.(¬Ù¨Í

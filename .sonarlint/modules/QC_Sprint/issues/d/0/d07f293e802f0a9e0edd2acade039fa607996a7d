@@ -1,0 +1,52 @@
+
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(Ë•Å÷8Øğ›.
+Jsquid:S1199Ÿ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+hsquid:S1132º"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ
+Bsquid:S1172˜"*Remove this unused method parameter "SSN".(ø¸íÈ
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Login" 7 times.(÷º¢°üÿÿÿÿ
+ssquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¿Ê™üÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+_squid:S1226"CIntroduce a new variable instead of reusing the parameter "AppURL".(Óå†¼şÿÿÿÿ
+Lsquid:S1481r")Remove this unused "Node" local variable.(ŸıÌşÿÿÿÿ8û»é›.
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸıÌşÿÿÿÿ
+osquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+tsquid:S00117Ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æßşøÿÿÿÿ
+Tsquid:S1854/"8Remove this useless assignment to local variable "Node".(ŸıÌşÿÿÿÿ
+Ssquid:EmptyStatementUsageCheck‰"Remove this empty statement.(º¯áİûÿÿÿÿ8û»é›.
+Nsquid:S1313r"2Make this IP "192.168.2.164" address configurable.(ŸıÌşÿÿÿÿ
+Psquid:UselessParenthesesCheckã"!Remove those useless parentheses.(Ã¿Áÿûÿÿÿÿ
+„squid:S1192/"aDefine a constant instead of duplicating this literal "http://192.168.2.164:5555/wd/hub" 3 times.(ŸıÌşÿÿÿÿ8û»é›.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+vsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÍó8û»é›.
+Ksquid:EmptyStatementUsageCheckF"Remove this empty statement.(º¯áİûÿÿÿÿ
+Esquid:S1481/")Remove this unused "Node" local variable.(ŸıÌşÿÿÿÿ
+[squid:S1854r"8Remove this useless assignment to local variable "Node".(ŸıÌşÿÿÿÿ8û»é›.
+Esquid:S1172¬"-Remove this unused method parameter "AppURL".(ÄÍó
+isquid:S1192)"FDefine a constant instead of duplicating this literal "local" 3 times.(úäìÅÿÿÿÿÿ8û»é›.
+Gsquid:S1172Ş"*Remove this unused method parameter "SSN".(æßşøÿÿÿÿ
+dsquid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(æßşøÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯şóûÿÿÿÿ
+tsquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úşû÷şÿÿÿÿ
+tsquid:S00117¶"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¼ê¬ûÿÿÿÿ
+vsquid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8û»é›.
+zsquid:S00117r"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸıÌşÿÿÿÿ8û»é›.
+psquid:S1192A"MDefine a constant instead of duplicating this literal "csr_password" 4 times.(º¨Œ–şÿÿÿÿ8û»é›.
+Psquid:UselessParenthesesCheck"!Remove those useless parentheses.(†Äğ‘úÿÿÿÿ
+fsquid:S1226b"CIntroduce a new variable instead of reusing the parameter "AppURL".(Óå†¼şÿÿÿÿ8û»é›.
+ssquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¿Ê™üÿÿÿÿ
+osquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+>squid:S2068`" Remove this hard-coded password.(íÛÑ€8Øğ›.
+zsquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ì¨¢øÿÿÿÿ8û»é›.
+vsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÍó8û»é›.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯şóûÿÿÿÿ
+ysquid:S1192?"VDefine a constant instead of duplicating this literal "Username is entered: " 3 times.(Ğ¡å…üÿÿÿÿ8û»é›.
+Vsquid:S1313À"2Make this IP "192.168.2.164" address configurable.(ŸıÌşÿÿÿÿ8û»é›.
+=squid:S2068·" Remove this hard-coded password.(Úşû÷şÿÿÿÿ
+psquid:S1192)"MDefine a constant instead of duplicating this literal "login_method" 3 times.(úäìÅÿÿÿÿÿ8û»é›.
+Nsquid:S1313/"2Make this IP "192.168.2.164" address configurable.(ŸıÌşÿÿÿÿ
+gsquid:S1132)"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ
+tsquid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸıÌşÿÿÿÿ
+ysquid:S1192C"VDefine a constant instead of duplicating this literal "Password is entered: " 3 times.(—¯Æéùÿÿÿÿ8û»é›.
+nsquid:S1132l"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ8û»é›.
+nsquid:S00117["VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+tsquid:S00117Ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æßşøÿÿÿÿ

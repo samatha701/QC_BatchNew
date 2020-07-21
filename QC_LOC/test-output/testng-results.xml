@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="83" total="87" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4111267" started-at="2019-10-04T04:55:48Z" finished-at="2019-10-04T06:04:19Z">
+    <groups>
+      <group name="Anoop_EOD2">
+        <method signature="QCStore.DepositEODTwice()[pri:420, instance:tests.QCStore@520a3426]" name="DepositEODTwice" class="tests.QCStore"/>
+        <method signature="QCStore.Deposit_DrawEODTwice()[pri:421, instance:tests.QCStore@520a3426]" name="Deposit_DrawEODTwice" class="tests.QCStore"/>
+        <method signature="QCStore.PaymentAndDraw()[pri:418, instance:tests.QCStore@520a3426]" name="PaymentAndDraw" class="tests.QCStore"/>
+        <method signature="QCStore.PaymentdrawVoidEOD()[pri:419, instance:tests.QCStore@520a3426]" name="PaymentdrawVoidEOD" class="tests.QCStore"/>
+      </group> <!-- Anoop_EOD2 -->
+    </groups>
+    <test name="Test" duration-ms="4111267" started-at="2019-10-04T04:55:48Z" finished-at="2019-10-04T06:04:19Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@520a3426]" name="setup" is-config="true" duration-ms="159" started-at="2019-10-04T04:55:48Z" finished-at="2019-10-04T04:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@520a3426]" name="killProcess" is-config="true" duration-ms="2014" started-at="2019-10-04T04:55:48Z" finished-at="2019-10-04T04:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="PaymentAndDraw()[pri:418, instance:tests.QCStore@520a3426]" name="PaymentAndDraw" duration-ms="788643" started-at="2019-10-04T04:55:50Z" finished-at="2019-10-04T05:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentAndDraw -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@520a3426]" name="getResult" is-config="true" duration-ms="276" started-at="2019-10-04T05:08:58Z" finished-at="2019-10-04T05:08:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PaymentAndDraw status=SUCCESS method=QCStore.PaymentAndDraw()[pri:418, instance:tests.QCStore@520a3426] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@520a3426]" name="killProcess" is-config="true" duration-ms="2014" started-at="2019-10-04T05:08:59Z" finished-at="2019-10-04T05:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="PaymentdrawVoidEOD()[pri:419, instance:tests.QCStore@520a3426]" name="PaymentdrawVoidEOD" duration-ms="800643" started-at="2019-10-04T05:09:01Z" finished-at="2019-10-04T05:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentdrawVoidEOD -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@520a3426]" name="getResult" is-config="true" duration-ms="51" started-at="2019-10-04T05:22:21Z" finished-at="2019-10-04T05:22:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PaymentdrawVoidEOD status=SUCCESS method=QCStore.PaymentdrawVoidEOD()[pri:419, instance:tests.QCStore@520a3426] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@520a3426]" name="killProcess" is-config="true" duration-ms="2020" started-at="2019-10-04T05:22:21Z" finished-at="2019-10-04T05:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="DepositEODTwice()[pri:420, instance:tests.QCStore@520a3426]" name="DepositEODTwice" duration-ms="1072334" started-at="2019-10-04T05:22:23Z" finished-at="2019-10-04T05:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DepositEODTwice -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@520a3426]" name="getResult" is-config="true" duration-ms="38" started-at="2019-10-04T05:40:16Z" finished-at="2019-10-04T05:40:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DepositEODTwice status=SUCCESS method=QCStore.DepositEODTwice()[pri:420, instance:tests.QCStore@520a3426] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@520a3426]" name="killProcess" is-config="true" duration-ms="2020" started-at="2019-10-04T05:40:16Z" finished-at="2019-10-04T05:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Deposit_DrawEODTwice()[pri:421, instance:tests.QCStore@520a3426]" name="Deposit_DrawEODTwice" duration-ms="1440990" started-at="2019-10-04T05:40:18Z" finished-at="2019-10-04T06:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deposit_DrawEODTwice -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@520a3426]" name="getResult" is-config="true" duration-ms="39" started-at="2019-10-04T06:04:19Z" finished-at="2019-10-04T06:04:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Deposit_DrawEODTwice status=SUCCESS method=QCStore.Deposit_DrawEODTwice()[pri:421, instance:tests.QCStore@520a3426] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

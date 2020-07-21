@@ -1,0 +1,46 @@
+
+<<<<<<< HEAD
+ssquid:S00117
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck("Remove this empty statement.(ÊÎ•ùÿÿÿÿ
+csquid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(¦ªÒöþÿÿÿÿ
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ
+?squid:S1148J"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Asquid:S1166H"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈ±…
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+7squid:S2068 " Remove this hard-coded password.(¾”íÐ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¾ê¦
+]squid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(ºÊã¤
+Isquid:S1313"2Make this IP "192.168.2.203" address configurable.(¸¾Ì–
+Ksquid:EmptyStatementUsageCheck&"Remove this empty statement.(Éð©çøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß½ó¢ûÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ
+nsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ºé´<
+=======
+Ksquid:EmptyStatementUsageCheck&"Remove this empty statement.(Éð©çøÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck("Remove this empty statement.(ÊÎ•ùÿÿÿÿ
+7squid:S2068 " Remove this hard-coded password.(¾”íÐ
+]squid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(ºÊã¤
+Isquid:S1313"2Make this IP "192.168.2.203" address configurable.(¸¾Ì–
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¾ê¦
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß½ó¢ûÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ
+Asquid:S1166G"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+csquid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(¦ªÒöþÿÿÿÿ
+ssquid:S00117
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+ssquid:S00117
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈ±…
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ
+nsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ºé´<
+?squid:S1148I"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>>>>>>> 05fc51d0698a47f83bd3d40515ae979587c1345c

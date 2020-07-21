@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="220490" started-at="2020-02-14T10:58:00Z" finished-at="2020-02-14T11:01:40Z">
+    <groups>
+      <group name="NextPayDate7">
+        <method signature="QCStore.Payfrequency_Semi_monthly()[pri:14, instance:tests.QCStore@6536e911]" name="Payfrequency_Semi_monthly" class="tests.QCStore"/>
+      </group> <!-- NextPayDate7 -->
+    </groups>
+    <test name="Test" duration-ms="220490" started-at="2020-02-14T10:58:00Z" finished-at="2020-02-14T11:01:40Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6536e911]" name="setup" is-config="true" duration-ms="94" started-at="2020-02-14T10:58:00Z" finished-at="2020-02-14T10:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="1031" started-at="2020-02-14T10:58:00Z" finished-at="2020-02-14T10:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Payfrequency_Semi_monthly()[pri:14, instance:tests.QCStore@6536e911]" name="Payfrequency_Semi_monthly" duration-ms="219177" started-at="2020-02-14T10:58:01Z" finished-at="2020-02-14T11:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payfrequency_Semi_monthly -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="172" started-at="2020-02-14T11:01:40Z" finished-at="2020-02-14T11:01:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Payfrequency_Semi_monthly status=SUCCESS method=QCStore.Payfrequency_Semi_monthly()[pri:14, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

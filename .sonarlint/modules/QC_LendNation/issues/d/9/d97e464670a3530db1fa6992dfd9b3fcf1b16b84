@@ -1,0 +1,48 @@
+
+<<<<<<< HEAD
+ssquid:S1192I"WDefine a constant instead of duplicating this literal "go_to_dashboard_button" 4 times.(™©²ùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿şÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ƒ€Ş²üÿÿÿÿ
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(„ô¬øÿÿÿÿ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(½Æ¨–
+gsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ŠÖ²†ùÿÿÿÿ
+bsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(ôÓš
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(°ŒÇ
+c
+squid:S134K"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(à´
+P
+squid:S106(";Replace this usage of System.out or System.err by a logger.(Æ©
+V
+squid:S106|";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(â®óûşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥¥şÿÿÿÿ
+ssquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“±ÉÒúÿÿÿÿ
+=======
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ƒ€Ş²üÿÿÿÿ
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(„ô¬øÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥¥şÿÿÿÿ
+c
+squid:S134K"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(à´
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+P
+squid:S106(";Replace this usage of System.out or System.err by a logger.(Æ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿şÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(â®óûşÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(°ŒÇ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(½Æ¨–
+bsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(ôÓš
+V
+squid:S106|";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+gsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ŠÖ²†ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+ssquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“±ÉÒúÿÿÿÿ
+ssquid:S1192I"WDefine a constant instead of duplicating this literal "go_to_dashboard_button" 4 times.(™©²ùÿÿÿÿ
+>>>>>>> 142a91c5653888e6feab1178c6b3bfd7b13dd4e3

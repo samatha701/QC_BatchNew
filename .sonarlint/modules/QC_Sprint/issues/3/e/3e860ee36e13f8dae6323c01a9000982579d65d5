@@ -1,0 +1,53 @@
+
+bsquid:S1132m"KMove the "CHECK" string literal on the left side of this string comparison.(Úˇ«ß
+è squid:MethodCyclomaticComplexity"cThe Cyclomatic Complexity of this method "clearDropDown" is 16 which is greater than 10 authorized.(ÀŒ—©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŒ—©
+d
+squid:S134c"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(’º‡¯
+c
+squid:S134Z"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ßŸés
+gsquid:S1132c"IMove the "LOC" string literal on the left side of this string comparison.(’º‡¯8¨Æ≠óé.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŒ—©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÒÜÌ
+isquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ÏäπÅ8¶ú ôé.
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(∑¢∆ı˛ˇˇˇˇ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÿúæ§ˇˇˇˇˇ
+Zsquid:S1854"7Remove this useless assignment to local variable "PIN".(»≥îÄ˛ˇˇˇˇ8ˇ†˝˚§.
+lsquid:S1132U"IMove the "PDL" string literal on the left side of this string comparison.(º∂∏õ˙ˇˇˇˇ8¨Æ≠óé.
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÀŒ—©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ﬁ—éÊ¸ˇˇˇˇ
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(√ñ“ç
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ÀŒ—©
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êë°‹¯ˇˇˇˇ
+@squid:S1148´"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+fsquid:S1132ç"IMove the "ACH" string literal on the left side of this string comparison.(€˝∂°¯ˇˇˇˇ
+Dsquid:S1166™"%Either log or rethrow this exception.(çî˝æ8≥⁄ù±∞.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»≥îÄ˛ˇˇˇˇ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯˙«˝ˇˇˇˇ
+fsquid:S11925"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(À¯«™˝ˇˇˇˇ
+d
+squid:S134B"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ΩÙë°
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ù ‚˝ˇˇˇˇ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(≤øπ›
+d
+squid:S134^"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Œ¸øÙ
+Nsquid:S00108Ä")Either remove or fill this block of code.(Òìä±¸ˇˇˇˇ8≥⁄ù±∞.
+ssquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅé∏˙ˇˇˇˇ
+Ksquid:S1481"(Remove this unused "PIN" local variable.(»≥îÄ˛ˇˇˇˇ8ˇ†˝˚§.
+Xsquid:S1141|"5Extract this nested try block into a separate method.(°ª¢¸˘ˇˇˇˇ8≥⁄ù±∞.
+gsquid:S1132^"IMove the "ILP" string literal on the left side of this string comparison.(Œ¸øÙ8¨Æ≠óé.
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸∂ÑŒ˛ˇˇˇˇ
+Bsquid:S1166Ä"%Either log or rethrow this exception.(Òìä±¸ˇˇˇˇ
+fsquid:S1132Z"IMove the "TLP" string literal on the left side of this string comparison.(ßŸés8¨Æ≠óé.
+p
+squid:S134U"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(º∂∏õ˙ˇˇˇˇ8”ƒËñé.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∂œÒ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›áÈÃ¸ˇˇˇˇ
+d
+squid:S134m"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Úˇ«ß
+d
+squid:S134L"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ΩÙë°
+jsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ßΩµµ8”ˆòœ∞.

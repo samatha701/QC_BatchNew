@@ -1,0 +1,40 @@
+
+/squid:S2095"Close this "Connection".(íÆ‘ì
+.squid:S2095("Close this "Statement".(Êë‹
+?squid:S1148R"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+Asquid:S00108L")Either remove or fill this block of code.(”ı¾
+?squid:S1148$"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Xsquid:UselessImportCheck
+"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+Asquid:S00108>")Either remove or fill this block of code.(”ı¾
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Vsquid:S2259("?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+Isquid:S1313"2Make this IP "192.168.2.241" address configurable.(íÆ‘ì
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+<squid:S1166L"%Either log or rethrow this exception.(”ı¾
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(×„›şÿÿÿÿ
+V
+squid:S106Q";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Zsquid:S2583B"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+V
+squid:S1069";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+Qsquid:S1141<"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+vsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¢‡ì·8èÉöš-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ù­ùÌıÿÿÿÿ
+<squid:S1166>"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+squid:S1061";Replace this usage of System.out or System.err by a logger.(ÆÀûı
+Qsquid:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S00108E")Either remove or fill this block of code.(”ı¾
+V
+squid:S106)";Replace this usage of System.out or System.err by a logger.(Ã³è¿ûÿÿÿÿ
+Zsquid:S2583;"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Zsquid:S2583I"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Q
+squid:S106#";Replace this usage of System.out or System.err by a logger.(£„ä«
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+<squid:S1166E"%Either log or rethrow this exception.(”ı¾
+3squid:S2095,"Close this "ResultSet".(Œ©©Çûÿÿÿÿ
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ

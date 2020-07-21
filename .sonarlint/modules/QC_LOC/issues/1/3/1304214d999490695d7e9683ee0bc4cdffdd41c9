@@ -1,0 +1,29 @@
+
+fsquid:S1192-"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+fsquid:S3008"ORename this field "SSN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úØÍ¿
+esquid:S3008"ORename this field "SSN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’¡
+ksquid:S3008"ORename this field "SSN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÓÀŠúÿÿÿÿ
+Asquid:S1444"*Make this "public static SSN1" field final(úØÍ¿
+@squid:S1444"*Make this "public static SSN2" field final(é’¡
+Fsquid:S1444"*Make this "public static SSN3" field final(®ÓÀŠúÿÿÿÿ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(°×Ãµûÿÿÿÿ
+n
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(žŸÒ	
+i
+squid:S134K"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹Ý
+~"squid:ClassVariableVisibilityCheck"PMake SSN1 a static final constant or non-public and provide accessors if needed.(úØÍ¿
+}"squid:ClassVariableVisibilityCheck"PMake SSN2 a static final constant or non-public and provide accessors if needed.(é’¡
+ƒ"squid:ClassVariableVisibilityCheck"PMake SSN3 a static final constant or non-public and provide accessors if needed.(®ÓÀŠúÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¦Ëà¢ýÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(¦Ëà¢ýÿÿÿÿ
+Asquid:S1166]"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+<squid:S1166s"%Either log or rethrow this exception.(¬Ù¨Í
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¦Ëà¢ýÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ëà¢ýÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ëà¢ýÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àì¹¹
+ssquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þÿ•ûÿÿÿÿ

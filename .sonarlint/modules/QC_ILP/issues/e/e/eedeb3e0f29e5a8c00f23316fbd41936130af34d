@@ -1,0 +1,25 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªİ¾
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(µª™®
+@squid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Msquid:S1854;"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢Àw
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù´§²ùÿÿÿÿ
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+nsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Bsquid:S1166•"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+fsquid:S1192Z"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+Csquid:S1172"-Remove this unused method parameter "AppURL".(š¢Àw
+>squid:S1481;"'Remove this unused "df" local variable.(©Âìü
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°«¨
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöïÌûÿÿÿÿ
+?squid:S1481)"(Remove this unused "PIN" local variable.(¿âĞ¬
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±£ÛÙüÿÿÿÿ
+Osquid:S1135–"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+_squid:S1226."CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+Nsquid:S1854)"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢Àw

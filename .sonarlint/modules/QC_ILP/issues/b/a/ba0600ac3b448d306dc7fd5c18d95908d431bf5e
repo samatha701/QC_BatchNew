@@ -1,0 +1,47 @@
+
+Nsquid:S1135m"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+ssquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+Psquid:UselessParenthesesCheck¦"!Remove those useless parentheses.(êÓéùÿÿÿÿ
+osquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆ’
+i
+squid:S134D"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÀäŒåıÿÿÿÿ
+Msquid:S1313J"1Make this IP "192.168.2.66" address configurable.(Œü×±ûÿÿÿÿ
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(—ÈÉ¿ıÿÿÿÿ
+bsquid:S1192)"FDefine a constant instead of duplicating this literal "Login" 4 times.(÷º¢°üÿÿÿÿ
+Bsquid:S1172Ÿ"*Remove this unused method parameter "SSN".(ëÆ’
+?squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Asquid:S1172u"*Remove this unused method parameter "SSN".(ø¸íÈ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+nsquid:S00117u"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+Bsquid:S1166º"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+Asquid:S1166l"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+@squid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+bsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(´ì¬§
+gsquid:S00100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆ’
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+@squid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+Bsquid:S1166“"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+gsquid:S1132D"KMove the "local" string literal on the left side of this string comparison.(ÀäŒåıÿÿÿÿ
+Osquid:UselessImportCheck
+"+Remove this unused import 'java.util.Date'.(¸…¼ü
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+osquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆ’
+Jsquid:UselessParenthesesCheck~"!Remove those useless parentheses.(¥¹¿Š
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+ssquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œü×±ûÿÿÿÿ
+[squid:UselessImportCheck	"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(÷•¸«ùÿÿÿÿ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(—ÈÉ¿ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+nsquid:S00117u"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+Ksquid:EmptyStatementUsageCheck`"Remove this empty statement.(Ì²‚¢øÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³£›
+bsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÛŠÏÊ
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(‹™®Õüÿÿÿÿ8Ûá¶ó’-

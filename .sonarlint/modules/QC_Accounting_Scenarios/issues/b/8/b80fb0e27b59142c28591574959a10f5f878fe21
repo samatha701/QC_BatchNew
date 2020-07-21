@@ -1,0 +1,35 @@
+
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ÝöÚ©üÿÿÿÿ8æ£ò ±.
+nsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¸Ú“ðþÿÿÿÿ8ËÇ‹â-
+msquid:S1192/"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ8ËÇ‹â-
+gsquid:S1192&"IDefine a constant instead of duplicating this literal "topFrame" 4 times.(ðÁ¾”8ËÇ‹â-
+Lsquid:S1481".Remove this unused "ProductID" local variable.(œñ†í8ËÇ‹â-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ËÇ‹â-
+osquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(½¯Ý¼øÿÿÿÿ8ËÇ‹â-
+Psquid:S1313s"2Make this IP "192.168.2.203" address configurable.(¼óÁ—8ËÇ‹â-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ8ËÇ‹â-
+vsquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï8ËÇ‹â-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ8ËÇ‹â-
+Hsquid:S1166q"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ8ËÇ‹â-
+W
+squid:S106R";Replace this usage of System.out or System.err by a logger.(ÐŠšx8ËÇ‹â-
+X
+squid:S106F";Replace this usage of System.out or System.err by a logger.(è ¬¾8ËÇ‹â-
+X
+squid:S106S";Replace this usage of System.out or System.err by a logger.(’Ò©Î8ËÇ‹â-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŸÊŸý8ËÇ‹â-
+jsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(–™Îˆ8æ£ò ±.
+X
+squid:S106P";Replace this usage of System.out or System.err by a logger.(°ÆÄ˜8ËÇ‹â-
+Isquid:S1166š"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8ËÇ‹â-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ËÇ‹â-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ8ËÇ‹â-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊŸý8ËÇ‹â-
+Wsquid:S1197ƒ"8Move the array designator from the variable to the type.(œÏ˜Ï8ËÇ‹â-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8ËÇ‹â-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊŸý8ËÇ‹â-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ËÇ‹â-
+j
+squid:S134N"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ë“»F8ËÇ‹â-
+Ksquid:S1172"-Remove this unused method parameter "AppURL".(ŸÊŸý8ËÇ‹â-
+[squid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í8ËÇ‹â-

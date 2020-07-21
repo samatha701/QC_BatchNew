@@ -1,0 +1,45 @@
+
+Osquid:S1197g"8Move the array designator from the variable to the type.(œÏ˜Ï
+`squid:S1192#"IDefine a constant instead of duplicating this literal "topFrame" 3 times.(¥º³ç
+dsquid:S1192"HDefine a constant instead of duplicating this literal "NewLoan" 4 times.(†Áà‘üÿÿÿÿ
+fsquid:S1192("JDefine a constant instead of duplicating this literal "mainFrame" 9 times.(ËøÇªıÿÿÿÿ
+bsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.( „Êº
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(£±åÆÿÿÿÿÿ
+bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(¡À×¾
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(­„øŒ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(–¾×Ÿ
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ
+esquid:S1132@"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ
+_squid:S1132D"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs
+fsquid:S1132Ã"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ
+`squid:S1132Ç"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs
+asquid:S1132Ì"IMove the "ILP" string literal on the left side of this string comparison.(Îü¿ô
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ºå‰şÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢ÑûÙûÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ºå‰şÿÿÿÿ
+Jsquid:S1172"-Remove this unused method parameter "AppURL".(¢ÑûÙûÿÿÿÿ
+<squid:S1166{"%Either log or rethrow this exception.(¬Ù¨Í
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ºå‰şÿÿÿÿ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¢ÑûÙûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºå‰şÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºå‰şÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ssquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÒ¼üÿÿÿÿ
+nsquid:S00117g"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+ssquid:S00117h"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚şÿÿÿÿ
+ssquid:S00117i"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+ssquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÑûÙûÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÑûÙûÿÿÿÿ
+osquid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+osquid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìƒÆ
+osquid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+tsquid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+tsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+osquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ºé´<

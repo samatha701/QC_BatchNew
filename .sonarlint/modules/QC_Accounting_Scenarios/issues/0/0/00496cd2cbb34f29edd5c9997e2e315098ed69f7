@@ -1,0 +1,41 @@
+
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+Asquid:S00108p")Either remove or fill this block of code.(”ı¾
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+6squid:S2095%"Close this "Connection".(©ÎÁ8Æèñış-
+Usquid:S18541"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+Jsquid:S1481".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ
+Zsquid:S2583t"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ
+<squid:S1166p"%Either log or rethrow this exception.(”ı¾
+]squid:S22590"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8Æèñış-
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(²ÈÊ±
+Isquid:S1313%"2Make this IP "192.168.2.241" address configurable.(©ÎÁ
+Asquid:S00108i")Either remove or fill this block of code.(”ı¾
+.squid:S2095:"Close this "ResultSet".(¿ûñ
+Asquid:S00108w")Either remove or fill this block of code.(”ı¾
+Qsquid:S1141n"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ
+<squid:S1166w"%Either log or rethrow this exception.(”ı¾
+.squid:S20950"Close this "Statement".(Êë‹
+Qsquid:S1141g"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+gsquid:S2077:"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+.squid:S20956"Close this "ResultSet".(Ä©ãÌ
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(¡˜ÁÜ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+gsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(÷æè‹ûÿÿÿÿ
+3squid:S20951"Close this "Statement".(Ùıôºøÿÿÿÿ
+Qsquid:S1141u"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?squid:S1148~"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+bsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Äê¡Ì
+V
+squid:S106}";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Q
+squid:S106+";Replace this usage of System.out or System.err by a logger.(£„ä«
+<squid:S1166i"%Either log or rethrow this exception.(”ı¾
+Zsquid:S2583m"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+[squid:S2583f"DChange this condition so that it does not always evaluate to "false"(ŒÖÄî
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò
+?squid:S1148,"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ

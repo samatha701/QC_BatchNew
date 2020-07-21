@@ -1,0 +1,49 @@
+
+fsquid:S1192:"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+`squid:S11921"IDefine a constant instead of duplicating this literal "topFrame" 4 times.(ğÁ¾”
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(şõŸ¢ûÿÿÿÿ
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(»ßö¨şÿÿÿÿ
+bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ú«­
+asquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(àñ†a
+bsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(“ê‡
+i
+squid:S1348"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+d
+squid:S134q"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­«„¡
+Qsquid:S11418"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1135¥"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+@squid:S1481'")Remove this unused "SSN1" local variable.(Ã–Ò
+Esquid:S1481(")Remove this unused "SSN2" local variable.(ü¶„Îşÿÿÿÿ
+Esquid:S1481)")Remove this unused "SSN3" local variable.(İøúÇıÿÿÿÿ
+Ssquid:S1481$"7Remove this unused "ReasonsforTransfer" local variable.(¶´â£ıÿÿÿÿ
+Isquid:S1481%"-Remove this unused "Comments" local variable.(Õ¶ÙŞşÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ÒèÒïùÿÿÿÿ
+Asquid:S1166?"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166¤"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+bsquid:S1854$"FRemove this useless assignment to local variable "ReasonsforTransfer".(¶´â£ıÿÿÿÿ
+Xsquid:S1854%"<Remove this useless assignment to local variable "Comments".(Õ¶ÙŞşÿÿÿÿ
+Osquid:S1854'"8Remove this useless assignment to local variable "SSN1".(Ã–Ò
+Tsquid:S1854("8Remove this useless assignment to local variable "SSN2".(ü¶„Îşÿÿÿÿ
+Tsquid:S1854)"8Remove this useless assignment to local variable "SSN3".(İøúÇıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒèÒïùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒèÒïùÿÿÿÿ
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+ssquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´â£ıÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶ÙŞşÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+isquid:UselessImportCheck	"@Remove this unused import 'org.apache.poi.util.SystemOutLogger'.(ÄÇœøÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+Zsquid:UselessImportCheck
+"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+@squid:S1148¦"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,28 @@
+
+Isquid:S1135c"2Complete the task associated to this TODO comment.(‡ñÅ¼
+P
+squid:S106A";Replace this usage of System.out or System.err by a logger.(ù…‡q
+Asquid:S1166b"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+>squid:S2068" Remove this hard-coded password.(ƒ¨Ó8Ùÿ÷„í-
+Bsquid:S1166­"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8Ùÿ÷„í-
+ squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(ºß¬ßıÿÿÿÿ8ª‡ƒ•ü-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß¬ßıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß¬ßıÿÿÿÿ
+nsquid:S1192m"WDefine a constant instead of duplicating this literal "Clicked on Finish Safe" 3 times.(»ô³¶
+Rsquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+bsquid:S1192l"KDefine a constant instead of duplicating this literal "safeassign" 3 times.(ÉÎÉÿ
+Rsquid:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(±¯€¤8Ùÿ÷„í-
+Msquid:S1172"*Remove this unused method parameter "SSN".(ºß¬ßıÿÿÿÿ8Ùÿ÷„í-
+Qsquid:S11419"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S1166?"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Gsquid:S00108®")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+=squid:S1166¸"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166"%Either log or rethrow this exception.(¬Ù¨Í
+fsquid:S1192 "JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³ôŞ
+<squid:S1166v"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166¨"%Either log or rethrow this exception.(¬Ù¨Í
+Gsquid:S00108—")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Bsquid:S1166–"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ

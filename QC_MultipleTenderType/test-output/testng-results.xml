@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="21" total="22" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="423956" started-at="2019-11-15T11:05:27Z" finished-at="2019-11-15T11:12:31Z">
+    <groups>
+      <group name="Anoop1">
+        <method signature="QCStore.TLPACHPayment()[pri:13, instance:tests.QCStore@520a3426]" name="TLPACHPayment" class="tests.QCStore"/>
+      </group> <!-- Anoop1 -->
+    </groups>
+    <test name="Test" duration-ms="423956" started-at="2019-11-15T11:05:27Z" finished-at="2019-11-15T11:12:31Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@520a3426]" name="setup" is-config="true" duration-ms="78" started-at="2019-11-15T11:05:27Z" finished-at="2019-11-15T11:05:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@520a3426]" name="killProcess" is-config="true" duration-ms="1010" started-at="2019-11-15T11:05:27Z" finished-at="2019-11-15T11:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="TLPACHPayment()[pri:13, instance:tests.QCStore@520a3426]" name="TLPACHPayment" duration-ms="422663" started-at="2019-11-15T11:05:28Z" finished-at="2019-11-15T11:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TLPACHPayment -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@520a3426]" name="getResult" is-config="true" duration-ms="192" started-at="2019-11-15T11:12:31Z" finished-at="2019-11-15T11:12:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TLPACHPayment status=SUCCESS method=QCStore.TLPACHPayment()[pri:13, instance:tests.QCStore@520a3426] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+
+
+*.png
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> 034e575dc96add0c75e87be5f99f7163fb9e1980
+=======
+.recommenders/
+RemoteSystemsTempFiles/
+.xmi
+>>>>>>> jyothi1.1
+>>>>>>> a4a352df2b6d11552eca388eb0dc83e83bb0900d
+
+

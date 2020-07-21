@@ -1,0 +1,28 @@
+
+bsquid:S1192l"KDefine a constant instead of duplicating this literal "safeassign" 3 times.(ÉÎÉÿ
+Qsquid:S11419"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S1166?"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß¬ßıÿÿÿÿ
+=squid:S1166¸"%Either log or rethrow this exception.(¬Ù¨Í
+Asquid:S1166b"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+7squid:S2068" Remove this hard-coded password.(ƒ¨Ó
+Rsquid:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Bsquid:S1166­"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+P
+squid:S106A";Replace this usage of System.out or System.err by a logger.(ù…‡q
+Isquid:S1135c"2Complete the task associated to this TODO comment.(‡ñÅ¼
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(±¯€¤
+fsquid:S1192 "JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Fsquid:S1172"*Remove this unused method parameter "SSN".(ºß¬ßıÿÿÿÿ
+Rsquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S00108®")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+=squid:S1166"%Either log or rethrow this exception.(¬Ù¨Í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³ôŞ
+Bsquid:S1166–"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+=squid:S1166¨"%Either log or rethrow this exception.(¬Ù¨Í
+™squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(ºß¬ßıÿÿÿÿ
+nsquid:S1192m"WDefine a constant instead of duplicating this literal "Clicked on Finish Safe" 3 times.(»ô³¶
+Gsquid:S00108—")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+<squid:S1166v"%Either log or rethrow this exception.(¬Ù¨Í
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß¬ßıÿÿÿÿ

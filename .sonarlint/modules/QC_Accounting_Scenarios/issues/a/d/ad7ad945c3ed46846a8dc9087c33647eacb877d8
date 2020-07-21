@@ -1,0 +1,44 @@
+
+Asquid:S00108[")Either remove or fill this block of code.(”ı¾
+Qsquid:S1141g"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166["%Either log or rethrow this exception.(”ı¾
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ
+Qsquid:S1141`"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166i"%Either log or rethrow this exception.(”ı¾
+V
+squid:S106o";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+V
+squid:S106D";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+Zsquid:S2583_"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Asquid:S00108b")Either remove or fill this block of code.(”ı¾
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+Asquid:S00108i")Either remove or fill this block of code.(”ı¾
+?squid:S1148*"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+.squid:S2095."Close this "Statement".(Êë‹
+fsquid:S1132P"JMove the "PPay" string literal on the left side of this string comparison.(”á²Ïşÿÿÿÿ
+Q
+squid:S106L";Replace this usage of System.out or System.err by a logger.(‰ˆŸŞ
+Zsquid:S2583f"CChange this condition so that it does not always evaluate to "true"(¡ææú
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Ê’Øæüÿÿÿÿ
+.squid:S20952"Close this "ResultSet".(á±±·
+Q
+squid:S106)";Replace this usage of System.out or System.err by a logger.(£„ä«
+Qsquid:S1141Y"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+dsquid:S1132J"HMove the "DP" string literal on the left side of this string comparison.(ˆÜŸüÿÿÿÿ
+?squid:S1148p"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+Q
+squid:S106:";Replace this usage of System.out or System.err by a logger.(ÆÀûı
+Zsquid:S2583X"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Isquid:S1313#"2Make this IP "192.168.2.241" address configurable.(©ÎÁ
+V
+squid:S106R";Replace this usage of System.out or System.err by a logger.(ğê £ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ÈÊ±
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÛŒĞÃøÿÿÿÿ
+<squid:S1166b"%Either log or rethrow this exception.(”ı¾
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+Q
+squid:S106H";Replace this usage of System.out or System.err by a logger.(ß¨…Î
+6squid:S2095#"Close this "Connection".(©ÎÁ8–«„ÿş-
+]squid:S2259."?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8–«„ÿş-

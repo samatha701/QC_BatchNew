@@ -1,0 +1,92 @@
+
+vsquid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨Ë°8½Ûúèğ-
+[squid:S1854Ï"<Remove this useless assignment to local variable "cardType".(Ğ¸¥‚8îêéğ-
+vsquid:S00117Â"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8½Ûúèğ-
+Vsquid:S1854Ó"7Remove this useless assignment to local variable "cvv".(ü‰ÙË8îêéğ-
+bsquid:S1854Ğ">Remove this useless assignment to local variable "cardNumber".(­Ö„æÿÿÿÿÿ8îêéğ-
+Dsquid:S1166 "%Either log or rethrow this exception.(¬Ù¨Í8½Ûúèğ-
+^squid:S1854Ò"?Remove this useless assignment to local variable "cardEx_Year".(¸ÊÌæ8îêéğ-
+vsquid:S00117Ö"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8½Ûúèğ-
+msquid:S1132Z"JMove the "Cash" string literal on the left side of this string comparison.(®¾‹ñøÿÿÿÿ8½˜ÁÙì-
+q
+squid:S134¤"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(†”šºøÿÿÿÿ8½˜ÁÙì-
+ksquid:S1192"HDefine a constant instead of duplicating this literal "Payment" 5 times.(¾½ã’ıÿÿÿÿ8½Ûúèğ-
+Lsquid:S1481Ï"-Remove this unused "cardType" local variable.(Ğ¸¥‚8îêéğ-
+{squid:S00117Ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃóÎˆùÿÿÿÿ8½Ûúèğ-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+q
+squid:S134†"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(®¾‹ñøÿÿÿÿ8öùÊüì-
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ğ¥áÃ
+vsquid:S00117Ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8½Ûúèğ-
+vsquid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8½Ûúèğ-
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(±¯€¤
+psquid:S1192"RDefine a constant instead of duplicating this literal "TenderAmount is :" 4 times.(»‹°•8ğú‹üì-
+{squid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8½Ûúèğ-
+csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(±¯€¤
+Bsquid:S1166¬"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¥áÃ
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+jsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(±¯€¤8½Ûúèğ-
+q
+squid:S134ÿ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(®¾‹ñøÿÿÿÿ8½Ûúèğ-
+Ssquid:S1481Ğ"/Remove this unused "cardNumber" local variable.(­Ö„æÿÿÿÿÿ8îêéğ-
+gsquid:S1132†"JMove the "Cash" string literal on the left side of this string comparison.(®¾‹ñøÿÿÿÿ
+{squid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8½Ûúèğ-
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú
+vsquid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨Ë°8½Ûúèğ-
+Psquid:S1481Ñ"1Remove this unused "cardEx_month" local variable.(äÓú8îêéğ-
+{squid:S00117Ë"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ8½Ûúèğ-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ
+_squid:S1854Ñ"@Remove this useless assignment to local variable "cardEx_month".(äÓú8îêéğ-
+jsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(±¯€¤8½Ûúèğ-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+vsquid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³“¥è8½Ûúèğ-
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(Ğ¥áÃ
+Isquid:S1166­"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8èÛòıì-
+Lsquid:S1172¹"-Remove this unused method parameter "AppURL".(Û¨Ë°8½Ûúèğ-
+Gsquid:S1481Ó"(Remove this unused "cvv" local variable.(ü‰ÙË8îêéğ-
+psquid:S1132„"LMove the "PayOff" string literal on the left side of this string comparison.(şÁ§Åùÿÿÿÿ8½˜ÁÙì-
+fsquid:S00112¹"FDefine and throw a dedicated exception instead of using a generic one.(Û¨Ë°8½Ûúèğ-
+tsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ã™8öùÊüì-
+asquid:S1854Ô"BRemove this useless assignment to local variable "CardHolderName".(ëê¡€8îêéğ-
+vsquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8½Ûúèğ-
+\squid:S1854 "?Remove this useless assignment to local variable "PaymentType".(¯ã™8×’ñøï-
+i
+squid:S134Z"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(®¾‹ñøÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¥áÃ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃóÎˆùÿÿÿÿ
+Rsquid:S1481Ô"3Remove this unused "CardHolderName" local variable.(ëê¡€8îêéğ-
+ksquid:S1132P"MMove the "Payment" string literal on the left side of this string comparison.(ÎÕú8å€Æğğ-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€
+{squid:S00117Ø"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8½Ûúèğ-
+Nsquid:S1481Í"0Remove this unused "PaymentType" local variable.(¯ã™8½Ûúèğ-
+{squid:S00117×"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8½Ûúèğ-
+Osquid:S1481Ò"0Remove this unused "cardEx_Year" local variable.(¸ÊÌæ8îêéğ-
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³“¥è
+]squid:S1854Í"?Remove this useless assignment to local variable "PaymentType".(¯ã™8½Ûúèğ-
+tsquid:S1192]"QDefine a constant instead of duplicating this literal "Tender Type is :" 4 times.(®–…°ûÿÿÿÿ8½˜ÁÙì-
+`squid:S1854Ê"ARemove this useless assignment to local variable "PaymentAmount".(³“¥è8îêéğ-
+gsquid:S1132a"PMove the "Debit Card" string literal on the left side of this string comparison.(àû ü
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ğ¥áÃ
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ
+Usquid:S1481Ì"1Remove this unused "TenderAmount" local variable.(ÃóÎˆùÿÿÿÿ8îêéğ-
+dsquid:S1854Ì"@Remove this useless assignment to local variable "TenderAmount".(ÃóÎˆùÿÿÿÿ8îêéğ-
+=squid:S1166Ÿ"%Either log or rethrow this exception.(¬Ù¨Í
+Ssquid:S1066†"/Merge this if statement with the enclosing one.(®¾‹ñøÿÿÿÿ8Å‘şì-
+ squid:MethodCyclomaticComplexity"]The Cyclomatic Complexity of this method "payment" is 12 which is greater than 10 authorized.(Ğ¥áÃ8½˜ÁÙì-
+Qsquid:S1481Ê"2Remove this unused "PaymentAmount" local variable.(³“¥è8îêéğ-
+ squid:S1192¦"‚Define a constant instead of duplicating this literal "<FONT color=green style=Arial>Payment transaction is successfully" 6 times.(¾Ô ½ÿÿÿÿÿ
+Msquid:S1481 "0Remove this unused "PaymentType" local variable.(¯ã™8×’ñøï-
+usquid:S00117Í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ã™8½Ûúèğ-
+esquid:S1192Š"FDefine a constant instead of duplicating this literal "value" 3 times.(—Šèİ8çÆ•òğ-
+usquid:S1192\"WDefine a constant instead of duplicating this literal "requestBean.tenderType" 3 times.(ê…ø8çÆ•òğ-
+ysquid:S1192~"VDefine a constant instead of duplicating this literal "requestBean.tenderAmt" 3 times.(ÛØÃÚûÿÿÿÿ8çÆ•òğ-
+q
+squid:S134¥"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(†”šºøÿÿÿÿ8çÆ•òğ-
+tsquid:S1132ı"PMove the "LocPayment" string literal on the left side of this string comparison.(âÏªñÿÿÿÿÿ8çÆ•òğ-
+nsquid:S1132ÿ"JMove the "Cash" string literal on the left side of this string comparison.(®¾‹ñøÿÿÿÿ8çÆ•òğ-
+qsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Û¨Ë°8çÆ•òğ-
+vsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨8çÆ•òğ-

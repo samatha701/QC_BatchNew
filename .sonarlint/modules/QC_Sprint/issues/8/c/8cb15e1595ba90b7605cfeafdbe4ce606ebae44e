@@ -1,0 +1,22 @@
+
+i
+squid:S134 "NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+Q
+squid:S1066";Replace this usage of System.out or System.err by a logger.(Ìîé
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ŞÔıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü•–ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àì¹¹
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä€ÒÜ
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+<squid:S1166L"%Either log or rethrow this exception.(”ı¾
+ssquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ä´Íùÿÿÿÿ
+i
+squid:S1348"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(íÃËùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü•–ÿÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ÚÆúÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ü•–ÿÿÿÿÿ

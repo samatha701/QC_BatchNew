@@ -1,0 +1,53 @@
+
+ssquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ
+msquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¼Š^
+ssquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä8ŽÊù¯È-
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+Isquid:S1444"2Make this "public static cardEx_month" field final(•’ŒÉ
+msquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¼Š^
+Xsquid:UselessImportCheck"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+xsquid:S1132k"ZMove the "Payment Plan Payment" string literal on the left side of this string comparison.(½ë§Û8„ŸÏîÞ-
+Hsquid:S1444"1Make this "public static cardEx_Year" field final(›½œš
+‹squid:S1192b"mDefine a constant instead of duplicating this literal "//*[@id='transactionDetailsTable']/tbody/tr[" 3 times.(¯È¶ì8„ŸÏîÞ-
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+Jsquid:S1444".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ
+nsquid:S3008"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ
+"squid:ClassVariableVisibilityCheck!"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§ŽÕ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+msquid:S3008"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš
+Nsquid:S00108€")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8Ú¡’•Ë-
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+gsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(ž†µøÿÿÿÿ
+nsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ÕÉµÕüÿÿÿÿ8ÏÜŠÍÈ-
+~"squid:ClassVariableVisibilityCheck"PMake Pbal a static final constant or non-public and provide accessors if needed.(ûú‡â
+Lsquid:S1444"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ
+Esquid:S1444 ")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+dsquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(÷¼Š^8ŽÊù¯È-
+Isquid:S1166€"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8Ú¡’•Ë-
+†"squid:ClassVariableVisibilityCheck"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ
+‰"squid:ClassVariableVisibilityCheck"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck "OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+fsquid:S11928"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+X
+squid:S106c";Replace this usage of System.out or System.err by a logger.(Ýóì†8Ô¢¯ËÈ-
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+]
+squid:S106`";Replace this usage of System.out or System.err by a logger.(•°Â§úÿÿÿÿ8Ü‰¢ËÈ-
+Csquid:S1172#"-Remove this unused method parameter "AppURL".(÷¼Š^
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+xsquid:S1132e"UMove the "Default Payment" string literal on the left side of this string comparison.(ô’ïŸüÿÿÿÿ8›ß´ÌÈ-
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+…"squid:ClassVariableVisibilityCheck"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+usquid:S00117b"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯È¶ì8Ô¢¯ËÈ-
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+usquid:S3008!"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ
+Ysquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8ŽÊù¯È-
+Asquid:S1444"*Make this "public static Pbal" field final(ûú‡â
+fsquid:S3008"ORename this field "Pbal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûú‡â
+Psquid:S1444!"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ

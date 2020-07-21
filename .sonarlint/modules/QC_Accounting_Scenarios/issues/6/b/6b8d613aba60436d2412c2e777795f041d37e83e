@@ -1,0 +1,25 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(›è×¡8Ÿ×ýíÞ-
+isquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(€¤˜è8òðá¼Ö-
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(›è×¡
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(›è×¡
+msquid:S1132_"JMove the "Cash" string literal on the left side of this string comparison.(¡’èåùÿÿÿÿ8Ÿ×ýíÞ-
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+csquid:S1854"@Remove this useless assignment to local variable "last4cheknum".(ªŒšüüÿÿÿÿ8òðá¼Ö-
+fsquid:S1192,"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ
+Dsquid:S1166"%Either log or rethrow this exception.(¬Ù¨Í8Ÿ×ýíÞ-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+nsquid:S1132x"PMove the "Debit Card" string literal on the left side of this string comparison.(ºÔ†ä8Ÿ×ýíÞ-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª×±ë
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉœŸûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›è×¡
+esquid:S1871"MThis branch's code block is the same as the block for the branch on line 150.(á¢–¬
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›è×¡
+<squid:S1166u"%Either log or rethrow this exception.(¬Ù¨Í
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(”’¯£8¡·½Ö-
+Tsquid:S1481"1Remove this unused "last4cheknum" local variable.(ªŒšüüÿÿÿÿ8òðá¼Ö-

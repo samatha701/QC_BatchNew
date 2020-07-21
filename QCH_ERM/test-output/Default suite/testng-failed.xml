@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.ACSRLoginLogout">
+        <methods>
+          <include name="QC_DCDeposit_Txn"/>
+          <include name="QC_DCDeposit_Return_Txn"/>
+          <include name="QC_IL_ILP_NewLoan_Void_Txn"/>
+          <include name="QC_Promotion_TX_PTP_Txn"/>
+          <include name="QC_IL_ILP_CustomPayment1_Txn"/>
+          <include name="setup"/>
+          <include name="QC_IL_ILP_Refinance_Rescind_Txn"/>
+          <include name="QC_IL_ILP_CustomPayment$589_Txn"/>
+          <include name="QC_Promotion_Conversion_Txn"/>
+          <include name="QC_DC_InstaPayDeposit_Txn"/>
+          <include name="QC_IL_ILP_CustomPayment$589_ACH_Deposit_Txn"/>
+          <include name="QC_IL_ILP_CustomPayment2_$589_Txn"/>
+          <include name="QC_Promotion_BuyBack_Txn"/>
+          <include name="endReport"/>
+          <include name="killProcess"/>
+          <include name="QC_IL_ILP_CustomPayment2_Txn"/>
+          <include name="getResult"/>
+          <include name="QC_LessDeposit_Age_Return2_ReDeposit_Txn"/>
+          <include name="QC_DC_PayOff_Deposit_Txn"/>
+          <include name="QC_IL_ILP_NewLoan_Rescind_Void_Txn"/>
+          <include name="QC_IL_ILP_Refinance_Void_Txn"/>
+          <include name="QC_DC_PPayDeposit_Txn"/>
+          <include name="QC_Promotion_TX_BuyBackPTP_Txn"/>
+        </methods>
+      </class> <!-- tests.ACSRLoginLogout -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

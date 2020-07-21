@@ -1,0 +1,37 @@
+
+msquid:S1192)"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8ÌúïØÈ-
+|squid:S3008"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ8ÌúïØÈ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÌúïØÈ-
+Hsquid:S1444"*Make this "public static Pbal" field final(ûú‡â8ÌúïØÈ-
+Wsquid:S1444"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ8ÌúïØÈ-
+msquid:S3008"ORename this field "Pbal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûú‡â8ÌúïØÈ-
+Osquid:S1444"1Make this "public static cardEx_Year" field final(›½œš8ÌúïØÈ-
+‰"squid:ClassVariableVisibilityCheck"OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ8ÌúïØÈ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óâ›–8ÌúïØÈ-
+usquid:S00117W"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯È¶ì8ü·ôÈ-
+usquid:S3008"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ8ÌúïØÈ-
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(Ò«Ûùÿÿÿÿ8ÌúïØÈ-
+Lsquid:S1444")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ8ÌúïØÈ-
+"squid:ClassVariableVisibilityCheck"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ8ÌúïØÈ-
+‚squid:S1132Z"_Move the "Debit Card Return Posting" string literal on the left side of this string comparison.(Åô±ıÿÿÿÿ8ü·ôÈ-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Óâ›–8ÌúïØÈ-
+X
+squid:S106X";Replace this usage of System.out or System.err by a logger.(İóì†8ÌúïØÈ-
+"squid:ClassVariableVisibilityCheck"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ8ÌúïØÈ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÌúïØÈ-
+]
+squid:S106U";Replace this usage of System.out or System.err by a logger.(•°Â§úÿÿÿÿ8ü·ôÈ-
+”"squid:ClassVariableVisibilityCheck"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ8ÌúïØÈ-
+…"squid:ClassVariableVisibilityCheck"PMake Pbal a static final constant or non-public and provide accessors if needed.(ûú‡â8ÌúïØÈ-
+Œ"squid:ClassVariableVisibilityCheck"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš8ÌúïØÈ-
+asquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8¡°‹ÉÊ-
+"squid:ClassVariableVisibilityCheck"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ8ÌúïØÈ-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ÌúïØÈ-
+tsquid:S3008"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš8ÌúïØÈ-
+Qsquid:S1444".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ8ÌúïØÈ-
+Psquid:S1444"2Make this "public static cardEx_month" field final(•’ŒÉ8ÌúïØÈ-
+Ssquid:S1444"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ8ÌúïØÈ-
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(†µøÿÿÿÿ8ÌúïØÈ-
+Ksquid:S1172"-Remove this unused method parameter "AppURL".(Óâ›–8ÌúïØÈ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óâ›–8ÌúïØÈ-
+zsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ÌúïØÈ-

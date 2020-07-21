@@ -1,0 +1,26 @@
+
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷ß¯
+Isquid:S1172"-Remove this unused method parameter "AppURL".(‹û÷×ûÿÿÿÿ
+d
+squid:S134#"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ô¿®à
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+?squid:S1148A"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Q
+squid:S106N";Replace this usage of System.out or System.err by a logger.(˜ã†¹
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Osquid:UselessParenthesesCheckL"!Remove those useless parentheses.(ÑÌ›„øÿÿÿÿ
+nsquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(´ì¬§
+Asquid:S1166Z"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž‰Õ®
+bsquid:S1132#"KMove the "local" string literal on the left side of this string comparison.(ô¿®à
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ
+nsquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+Asquid:S1166?"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Hsquid:S1313)"1Make this IP "192.168.2.48" address configurable.(º÷ß¯
+Asquid:S1172D"*Remove this unused method parameter "SSN".(¼Ìºà
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(¶õ¸Žûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í½Çƒ
+fsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(¡~8‚ð‡û-

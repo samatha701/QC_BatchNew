@@ -1,0 +1,8 @@
+
+àsquid:S1192'"ÃDefine a constant instead of duplicating this literal "/html/body/form/table/tbody/tr/td/table/tbody/tr[1]/td/table/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr[" 3 times.(ÄºƒÑûÿÿÿÿ
+bsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(œÌÞã
+bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÑçÂÁ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ï¶Åòýÿÿÿÿ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(Ë¦öµýÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄºƒÑûÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§ŽÕ

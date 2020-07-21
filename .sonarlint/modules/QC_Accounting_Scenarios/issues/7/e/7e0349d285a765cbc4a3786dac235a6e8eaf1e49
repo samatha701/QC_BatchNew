@@ -1,0 +1,103 @@
+
+fsquid:S1132’"IMove the "ACH" string literal on the left side of this string comparison.(¥ÑÈ°ÿÿÿÿÿ
+Lsquid:S1444"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ
+msquid:S3008"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš
+j
+squid:S134’"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¥ÑÈ°ÿÿÿÿÿ
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š³°
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Áİ‘şÿÿÿÿ
+Ysquid:S1141í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ğ‡éõ€.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÓÇÌ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(†µøÿÿÿÿ
+Fsquid:S00108z")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ
+hsquid:S1132š"PMove the "Debit card" string literal on the left side of this string comparison.(ïş¥Ş
+Nsquid:S00108ñ")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8Ğ‡éõ€.
+‡"squid:ClassVariableVisibilityCheck"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ú¨íÙ8ÍæÿÖ€.
+jsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(®ƒ¿Ø8Çø¾Ò€.
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’ğå
+Psquid:S1444"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ
+bsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(øø+
+jsquid:S1132…"KMove the "CHECK" string literal on the left side of this string comparison.(°•ò8íïÇø€.
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï…êÿ
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë¡Í£üÿÿÿÿ8¼İĞÖ€.
+q
+squid:S134ş"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8Ğ‡éõ€.
+Rsquid:S1141ş"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸£ğûÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš
+osquid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‡—
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›úğ
+fsquid:S1192E"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+usquid:S3008"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ
+Jsquid:S1444"3Make this "public static paymentAmount" field final(Å£ºÅ
+ssquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+Rsquid:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•îÛ
+Rsquid:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Hsquid:S1444"1Make this "public static cardEx_Year" field final(›½œš
+squid:S1192‰"`Define a constant instead of duplicating this literal "Collateral Type is enterted as " 3 times.(ááËÎ8Ô‹éú€.
+i
+squid:S134u"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õİğÍşÿÿÿÿ
+tsquid:S00117á"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ™éïùÿÿÿÿ
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+=squid:S1166Õ"%Either log or rethrow this exception.(¬Ù¨Í
+Esquid:S1444")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÓÇÌ
+l
+squid:S134¾"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡÷€é8íïÇø€.
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷»éşÿÿÿÿ
+Isquid:S1444"2Make this "public static cardEx_month" field final(•’ŒÉ
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(Ò«Ûùÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÓÓÇÌ
+’ squid:MethodCyclomaticComplexity"_The Cyclomatic Complexity of this method "refinance" is 11 which is greater than 10 authorized.(ÓÓÇÌ8íïÇø€.
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(¯ù†Ÿ8Çø¾Ò€.
+Asquid:S1166y"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Qsquid:S1141u"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(øˆ¡Öüÿÿÿÿ
+asquid:S1132¾"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é
+Bsquid:S1166ñ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+=squid:S1166ƒ"%Either log or rethrow this exception.(¬Ù¨Í
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ô™¬Øÿÿÿÿÿ
+ƒsquid:S1192½"fDefine a constant instead of duplicating this literal "Courtesy Call Consent is selected as " 4 times.(«–Òúÿÿÿÿ
+bsquid:S1132Å"JMove the "Mail" string literal on the left side of this string comparison.(ÓÄ
+Jsquid:S1481)"3Remove this unused "ESign_DisbType" local variable.(Ï…êÿ
+Jsquid:S1444".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ
+Bsquid:S1166²"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+j
+squid:S134í"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+j
+squid:S134Š"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éîù·
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ıßÚ…ıÿÿÿÿ8º…Êó€.
+e
+squid:S134 "NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Õí¯•
+Isquid:S1166”"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8Ğ‡éõ€.
+Ysquid:S1854)"BRemove this useless assignment to local variable "ESign_DisbType".(Ï…êÿ
+nsquid:S3008"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ
+gsquid:S1132À"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+e
+squid:S134š"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ïş¥Ş
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ÓÓÇÌ
+Ysquid:S1854-"BRemove this useless assignment to local variable "ESign_CheckNbr".(ß•îÛ
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ8¢ÄĞó€.
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(¡Ùõ
+Hsquid:S1481."1Remove this unused "No_of_checks" local variable.(›úğ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¼äƒøÿÿÿÿ
+nsquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+Wsquid:S1854."@Remove this useless assignment to local variable "No_of_checks".(›úğ
+‡"squid:ClassVariableVisibilityCheck"YMake paymentAmount a static final constant or non-public and provide accessors if needed.(Å£ºÅ
+asquid:S1132Ê"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î
+Jsquid:S1481-"3Remove this unused "ESign_CheckNbr" local variable.(ß•îÛ
+ssquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+@squid:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+e
+squid:S134…"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(°•ò
+jsquid:S1871§"MThis branch's code block is the same as the block for the branch on line 289.(ÒÌâ–øÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ

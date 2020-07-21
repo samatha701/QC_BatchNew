@@ -1,0 +1,21 @@
+
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ8ÁØÚ›-
+tsquid:S00117h"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕĞw8ÁØÚ›-
+fsquid:S1132œ"GMove the "1" string literal on the left side of this string comparison.(±æ²ò8ÁØÚ›-
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(“íöèûÿÿÿÿ8ÁØÚ›-
+isquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(á’“Ê8ÁØÚ›-
+usquid:S00117q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´Ùı8ÁØÚ›-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Êÿ©şÿÿÿÿ8ÁØÚ›-
+Isquid:S1166®"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ8ÁØÚ›-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßŒÏ…8’ò››-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¸¼ö­8ÁØÚ›-
+Vsquid:S1197u"8Move the array designator from the variable to the type.(Ø±Â¤8ÁØÚ›-
+Msquid:S1172"*Remove this unused method parameter "SSN".(‡«Úºıÿÿÿÿ8ÁØÚ›-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ8ÁØÚ›-
+usquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÒÕ‡8ÁØÚ›-
+zsquid:S00117s"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óéçıÿÿÿÿ8ÁØÚ›-
+¤squid:S1160"€Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.text.ParseException(‡«Úºıÿÿÿÿ8ÁØÚ›-
+msquid:S11923"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8ÁØÚ›-
+usquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠšË8ÁØÚ›-
+Dsquid:S1166˜"%Either log or rethrow this exception.(¬Ù¨Í8ÁØÚ›-
+Nsquid:S00108¯")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ÁØÚ›-

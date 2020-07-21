@@ -1,0 +1,57 @@
+
+<<<<<<< HEAD
+Osquid:UselessParenthesesCheckW"!Remove those useless parentheses.(Þ¿Äûýÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckL"Remove this empty statement.(º¯áÝûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿þÿÿÿÿ
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ˆÜàË
+bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ÛŠÏÊ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(÷•¸«ùÿÿÿÿ
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(“ÁÏúÿÿÿÿ
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(²ºÀûÿÿÿÿ
+gsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(Øµ¸£ýÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Ë®ª°
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(‘•ÚÂþÿÿÿÿ
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(êÖÄ“úÿÿÿÿ
+W
+squid:S106ª";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž‰Õ®
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—öÅ¥ýÿÿÿÿ
+msquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃ­"
+tsquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠþ¶úÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+=======
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(êÖÄ“úÿÿÿÿ
+msquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃ­"
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+tsquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠþ¶úÿÿÿÿ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(÷•¸«ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Ë®ª°
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—öÅ¥ýÿÿÿÿ
+Osquid:UselessParenthesesCheckW"!Remove those useless parentheses.(Þ¿Äûýÿÿÿÿ
+W
+squid:S106ª";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ÛŠÏÊ
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(“ÁÏúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿þÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckL"Remove this empty statement.(º¯áÝûÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ˆÜàË
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(²ºÀûÿÿÿÿ
+gsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(Øµ¸£ýÿÿÿÿ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(‘•ÚÂþÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž‰Õ®
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ´³ùÿÿÿÿ
+>>>>>>> 142a91c5653888e6feab1178c6b3bfd7b13dd4e3
+dsquid:UselessImportCheck	";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”þÿÿÿÿ

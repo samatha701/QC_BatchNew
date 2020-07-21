@@ -1,0 +1,20 @@
+
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+msquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íø¬
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§–¡ùÿÿÿÿ
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöïÌûÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(µª™®
+?squid:S1481'"(Remove this unused "PIN" local variable.(¿âÐ¬
+Msquid:S18549"6Remove this useless assignment to local variable "df".(©Âìü
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§–¡ùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+fsquid:S1192X"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+>squid:S14819"'Remove this unused "df" local variable.(©Âìü
+Isquid:S1172"-Remove this unused method parameter "AppURL".(¼§–¡ùÿÿÿÿ
+Nsquid:S1854'"7Remove this useless assignment to local variable "PIN".(¿âÐ¬
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù´§²ùÿÿÿÿ
+_squid:S1226,"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ

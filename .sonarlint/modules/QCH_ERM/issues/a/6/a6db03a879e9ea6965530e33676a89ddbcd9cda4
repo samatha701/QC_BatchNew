@@ -1,0 +1,69 @@
+
+Gsquid:S00108Ö")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Gsquid:S00108ó")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ²ÉÖ
+<squid:S1166O"%Either log or rethrow this exception.(¬Ù¨Í
+osquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øú®²
+fsquid:S11922"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ
+Psquid:S1197¿"8Move the array designator from the variable to the type.(×çù
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(õ²ÉÖ
+j
+squid:S134¼"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+}squid:S1192B"fDefine a constant instead of duplicating this literal "drawerDeassignRequestBean.noOfDollars" 3 times.(ß° æ
+<squid:S1166}"%Either log or rethrow this exception.(¬Ù¨Í
+Bsquid:S1166ò"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Tsquid:S1854&"8Remove this useless assignment to local variable "SSN3".(ÝøúÇýÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ÕÉµÕüÿÿÿÿ
+Ssquid:S1481#"7Remove this unused "CountofDollarCoins" local variable.(‰¢ÞÔýÿÿÿÿ
+Òsquid:S1192"´Define a constant instead of duplicating this literal "/html/body/form/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr[" 3 times.(à¥¾úÿÿÿÿ
+W
+squid:S106þ";Replace this usage of System.out or System.err by a logger.(·«ƒŠùÿÿÿÿ
+j
+squid:S134—"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+… squid:ForLoopCounterChangedCheckˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ëé£
+Esquid:S1481%")Remove this unused "SSN2" local variable.(ü¶„Îþÿÿÿÿ
+hsquid:S1192o"QDefine a constant instead of duplicating this literal "current row num " 3 times.(žÝÔÂ
+j
+squid:S134Ù"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+osquid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•ùÁ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+squid:S1192E"cDefine a constant instead of duplicating this literal "drawerDeassignRequestBean.password" 3 times.(²ŽÞÇýÿÿÿÿ
+Usquid:S1197Á"8Move the array designator from the variable to the type.(Èòêýÿÿÿÿ
+d
+squid:S134r"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ùÖ‘ö
+Esquid:S1481&")Remove this unused "SSN3" local variable.(ÝøúÇýÿÿÿÿ
+Q
+squid:S106o";Replace this usage of System.out or System.err by a logger.(žÝÔÂ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ²ÉÖ
+Asquid:S1481p"*Remove this unused "count" local variable.(æÕ¿¼
+Osquid:S1854$"8Remove this useless assignment to local variable "SSN1".(Ã–Ò
+Psquid:S1854p"9Remove this useless assignment to local variable "count".(æÕ¿¼
+Gsquid:S00108‘")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Tsquid:S1854%"8Remove this useless assignment to local variable "SSN2".(ü¶„Îþÿÿÿÿ
+… squid:ForLoopCounterChangedCheckˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ëé£
+j
+squid:S134¥"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(£ëý¤úÿÿÿÿ
+osquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÌÅ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ
+j
+squid:S134ü"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+osquid:S1192ï"WDefine a constant instead of duplicating this literal "//input[@value='Next']" 3 times.(»Á“¯
+j
+squid:S134ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+@squid:S1481$")Remove this unused "SSN1" local variable.(Ã–Ò
+Usquid:S1854q"9Remove this useless assignment to local variable "count".(‰”þ™ûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Bsquid:S1166"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Gsquid:S00108æ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ÞÔýÿÿÿÿ
+Bsquid:S1166Õ"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+V
+squid:S106t";Replace this usage of System.out or System.err by a logger.(¥ú‹Ÿúÿÿÿÿ
+Bsquid:S1166å"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+<squid:S1166b"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166"%Either log or rethrow this exception.(¬Ù¨Í
+bsquid:S1854#"FRemove this useless assignment to local variable "CountofDollarCoins".(‰¢ÞÔýÿÿÿÿ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+›squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(õ²ÉÖ8ó©½¯ö-

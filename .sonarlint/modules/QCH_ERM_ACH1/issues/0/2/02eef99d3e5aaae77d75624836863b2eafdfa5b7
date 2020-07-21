@@ -1,0 +1,18 @@
+
+=squid:S1166¨"%Either log or rethrow this exception.(¬Ù¨Í
+†squid:S11920"hDefine a constant instead of duplicating this literal "Count of Dollar Coins is entered as 500" 3 times.(¸ÅŞµ8¡¿÷„í-
+osquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ8¡¿÷„í-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³ôŞ8¡¿÷„í-
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8¡¿÷„í-
+jsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ØŠ‹ö8¡¿÷„í-
+>squid:S2068" Remove this hard-coded password.(ƒ¨Ó8¡¿÷„í-
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¡¿÷„í-
+Bsquid:S00108¨")Either remove or fill this block of code.(¬Ù¨Í
+jsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(±¯€¤8¡¿÷„í-
+Msquid:S1172"*Remove this unused method parameter "SSN".(î·Îçÿÿÿÿÿ8¡¿÷„í-
+ squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(î·Îçÿÿÿÿÿ8ÂÑîï-
+Csquid:S1166p"%Either log or rethrow this exception.(¬Ù¨Í8¡¿÷„í-
+fsquid:S1192"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î·Îçÿÿÿÿÿ
+xsquid:S11923"ZDefine a constant instead of duplicating this literal "Entered the Password as: " 3 times.(œıÛ–8¡¿÷„í-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î·Îçÿÿÿÿÿ

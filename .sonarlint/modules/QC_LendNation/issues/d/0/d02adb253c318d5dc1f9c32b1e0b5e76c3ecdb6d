@@ -1,0 +1,42 @@
+
+<<<<<<< HEAD
+rsquid:S1192&"VDefine a constant instead of duplicating this literal "repayment_method_type" 4 times.(»¶ ‚øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿şÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íĞ²ß
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›ŠŠáüÿÿÿÿ
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(«Ù¢üüÿÿÿÿ
+i
+squid:S1343"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+i
+squid:S134A"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÖˆÓûÿÿÿÿ
+Qsquid:S11413"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S1166:"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Fsquid:S00108;")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãú¯
+Wsquid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›
+=======
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(«Ù¢üüÿÿÿÿ
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›ŠŠáüÿÿÿÿ
+Fsquid:S00108;")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿şÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+i
+squid:S1343"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Asquid:S1166:"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íĞ²ß
+Qsquid:S11413"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+i
+squid:S134A"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÖˆÓûÿÿÿÿ
+rsquid:S1192&"VDefine a constant instead of duplicating this literal "repayment_method_type" 4 times.(»¶ ‚øÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãú¯
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+>>>>>>> 142a91c5653888e6feab1178c6b3bfd7b13dd4e3

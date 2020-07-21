@@ -1,0 +1,43 @@
+
+fsquid:S1192?"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ
+msquid:S3008"QRename this field "AppURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìä€¥úÿÿÿÿ
+Hsquid:S1444",Make this "public static AppURL" field final(Ìä€¥úÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚Œïô
+bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(°«¨
+bsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ªÝ¾
+bsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(¯·Ä±
+hsquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+i
+squid:S134~"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¨Ò¶å
+Qsquid:S1141~"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake AppURL a static final constant or non-public and provide accessors if needed.(Ìä€¥úÿÿÿÿ
+Osquid:S1135§"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³úÚ~
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ÐÌ­—
+=squid:S1166…"%Either log or rethrow this exception.(¬Ù¨Í
+Bsquid:S1166¦"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+’squid:S1845"vRename field "AppURL" to prevent any misunderstanding/clash with field "appUrl" defined in superclass "tests.QCStore".(Ìä€¥úÿÿÿÿ
+Usquid:S2387"9"AppURL" differs only by case from "appUrl" in "QCStore".(Ìä€¥úÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÌ­—
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÌ­—
+nsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+ssquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉœŸûÿÿÿÿ
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+nsquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+Ysquid:UselessImportCheck	"5Remove this unused import 'org.openqa.selenium.Keys'.(§ŽÕ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+@squid:S1148¨"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

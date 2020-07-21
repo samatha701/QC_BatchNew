@@ -1,0 +1,70 @@
+
+<<<<<<< HEAD
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åáéšüÿÿÿÿ
+=squid:S1166‹"%Either log or rethrow this exception.(”ı¾
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S00117d"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÕşƒ
+c
+squid:S134S"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ê¥ø!
+d
+squid:S134L"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+i
+squid:S134X"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(îëşËøÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(÷îĞûÿÿÿÿ
+d
+squid:S134B"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+i
+squid:S134^"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(»Í Çúÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+j
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(úñšıÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+Osquid:UselessParenthesesCheck"!Remove those useless parentheses.(ó‘Ö–üÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷îĞûÿÿÿÿ
+fsquid:S11925"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+=======
+Osquid:UselessParenthesesCheck"!Remove those useless parentheses.(ó‘Ö–üÿÿÿÿ
+fsquid:S11925"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+d
+squid:S134B"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+d
+squid:S134L"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+c
+squid:S134S"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ê¥ø!
+i
+squid:S134X"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(îëşËøÿÿÿÿ
+i
+squid:S134^"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(»Í Çúÿÿÿÿ
+j
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(úñšıÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷îĞûÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(÷îĞûÿÿÿÿ
+=squid:S1166‹"%Either log or rethrow this exception.(”ı¾
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷îĞûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åáéšüÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+nsquid:S00117d"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÕşƒ
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>>>>>>> Ratikanta1.1

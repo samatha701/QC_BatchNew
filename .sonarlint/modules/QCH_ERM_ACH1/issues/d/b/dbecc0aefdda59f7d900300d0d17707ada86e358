@@ -1,0 +1,22 @@
+
+V
+squid:S106E";Replace this usage of System.out or System.err by a logger.(ÌÁËÏüÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯Î¼
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÿ¯Èüÿÿÿÿ
+isquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(èÔÂ8¿ŸÿÏì-
+nsquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõþÿÿÿÿ
+Asquid:S1166n"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+Jsquid:UselessParenthesesCheck"!Remove those useless parentheses.(±­ò
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚þÿÿÿÿ
+?squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Osquid:S1197H"8Move the array designator from the variable to the type.(œÏ˜Ï
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯Î¼
+ssquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+ssquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
+d
+squid:S134<"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+Nsquid:S1135o"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ

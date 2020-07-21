@@ -1,0 +1,492 @@
+
+Psquid:S1854Æ"8Remove this useless assignment to local variable "DOB3".(“ö÷‡
+Zsquid:S1854Y"CRemove this useless assignment to local variable "Income_Employer".(¶áò
+hsquid:S1854ª"PRemove this useless assignment to local variable "employer_inf_employer_ph_nbr".(óõ…Ú
+osquid:S1192‘"WDefine a constant instead of duplicating this literal "_ACHHistory_FieldValue" 6 times.(ùëÒ
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ì‡ü
+osquid:S00117ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓöÒï
+ssquid:S00117N"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äé€Üûÿÿÿÿ
+msquid:S1854£"PRemove this useless assignment to local variable "cust_bank_inf_account_status".(Ø¾Ç˜ıÿÿÿÿ
+tsquid:S00117Í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+Usquid:S1854Ä"8Remove this useless assignment to local variable "DOB1".(§ùÈˆùÿÿÿÿ
+_squid:S1481Ğ"GRemove this unused "loan_paid_summary_return_paid_date" local variable.(ç¬ûø
+e
+squid:S134İ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ù§Ì°
+Jsquid:S1481¤"2Remove this unused "Ref_FirstName" local variable.(Àº¯Õ
+nsquid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Œ;
+Q
+squid:S106W";Replace this usage of System.out or System.err by a logger.(£ò×
+osquid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷áá
+osquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©œ¿
+Zsquid:S1481É"BRemove this unused "cust_underwriting_ofac_status" local variable.(À¦µß
+osquid:S00117¯"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßåàŠ
+j
+squid:S134¹"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ğì÷¦üÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"\Make ACH_check_acc_no a static final constant or non-public and provide accessors if needed.(ñ£ƒÒ
+Osquid:S1481¹"2Remove this unused "Ref_PhoneNbr2" local variable.(ÏòšÇûÿÿÿÿ
+tsquid:S00117©"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÄ¨‘øÿÿÿÿ
+Csquid:S14818",Remove this unused "StoreId" local variable.(‚í¯Î
+Msquid:S1481¥"5Remove this unused "Ref_Relationship" local variable.( ÷áá
+msquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï€œ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ÉõÜ‰ıÿÿÿÿ
+]squid:S1444"AMake this "public static ach_history_ach_transaction" field final(Øªîüÿÿÿÿÿ
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(½­Ë¢
+^squid:S1854¹"ARemove this useless assignment to local variable "Ref_PhoneNbr2".(ÏòšÇûÿÿÿÿ
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(³›ŸØúÿÿÿÿ
+bsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(«É€¹
+j
+squid:S134‹"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(£™àèüÿÿÿÿ
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞğÓ
+osquid:S00117ã"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éì¿
+psquid:S1854Ã"SRemove this useless assignment to local variable "loan_account_inf_original_store".(É£í£úÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+tsquid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒÁœüÿÿÿÿ
+nsquid:S00117m"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ùî„
+osquid:S00117º"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷×òÙ
+‚"squid:ClassVariableVisibilityCheck"TMake ACH_type a static final constant or non-public and provide accessors if needed.(İôø•
+Ysquid:S1854¤"ARemove this useless assignment to local variable "Ref_FirstName".(Àº¯Õ
+Msquid:S1444"6Make this "public static ACH_check_acc_no" field final(ñ£ƒÒ
+^squid:S1481£"ARemove this unused "cust_bank_inf_account_status" local variable.(Ø¾Ç˜ıÿÿÿÿ
+nsquid:S00117Q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿÜ
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ãø—
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_status a static final constant or non-public and provide accessors if needed.(®Û‚ûÿÿÿÿ
+Wsquid:S1481˜":Remove this unused "cust_inf_customer_nbr" local variable.(Â…°×øÿÿÿÿ
+]squid:S1854£"@Remove this useless assignment to local variable "Ref_LastName".(­ÂûÒÿÿÿÿÿ
+j
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(´šü›ùÿÿÿÿ
+tsquid:S00117Â"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¢Ï“şÿÿÿÿ
+nsquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+osquid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‚ñ¨
+Vsquid:S1481 "9Remove this unused "PrimaryRef_FirstName" local variable.(ÌÚå¨ùÿÿÿÿ
+usquid:S3008!"^Rename this field "ach_history_ach_amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†’–²
+Psquid:S1197Î"8Move the array designator from the variable to the type.(åï©ñ
+bsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(Üâ›
+ssquid:S00117t"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹€‚ºüÿÿÿÿ
+tsquid:S00117Ã"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçÙ•øÿÿÿÿ
+tsquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰±ÁÙüÿÿÿÿ
+nsquid:S00117Z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÙß¤
+msquid:S00117A"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûóÿ	
+Jsquid:S1481"2Remove this unused "Income_HireDt" local variable.(‚Ì‡ü
+ssquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¼©èøÿÿÿÿ
+@squid:S1148¿"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûïüÍşÿÿÿÿ
+e
+squid:S134¬"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(é™¢¯
+ssquid:S00117d"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆ–äúÿÿÿÿ
+_squid:S1481´"BRemove this unused "loan_balance_inf_late_fee_due" local variable.(¾Ò¯­üÿÿÿÿ
+e
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(µıĞ÷
+osquid:S00117å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¸Î„
+Tsquid:S1854±"7Remove this useless assignment to local variable "PP3".(…˜‘…üÿÿÿÿ
+ssquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñò£˜øÿÿÿÿ
+osquid:S00117Å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¯°
+nsquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+Esquid:S1481±"(Remove this unused "PP3" local variable.(…˜‘…üÿÿÿÿ
+Nsquid:S1481£"1Remove this unused "Ref_LastName" local variable.(­ÂûÒÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck!"_Make ach_history_ach_amt a static final constant or non-public and provide accessors if needed.(†’–²
+ssquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›œÏ†ûÿÿÿÿ
+ssquid:S3008"WRename this field "ACH_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·Øûÿÿÿÿ
+Rsquid:S1854À";Remove this useless assignment to local variable "IDExpD1".(Ì«Œ;
+e
+squid:S134°"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Òù¾Œ
+osquid:S00117ª"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óõ…Ú
+asquid:S1132"IMove the "ACH" string literal on the left side of this string comparison.(¨½Îâ
+tsquid:S00117Ë"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ôĞßüÿÿÿÿ
+ssquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+Usquid:S1854D"9Remove this useless assignment to local variable "State".(»ıöÅúÿÿÿÿ
+tsquid:S00117Ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â•¾‹üÿÿÿÿ
+j
+squid:S134‚"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÿ˜••ûÿÿÿÿ
+psquid:S1854³"SRemove this useless assignment to local variable "loan_balance_inf_return_fee_due".(±·»»ùÿÿÿÿ
+osquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ“é©
+osquid:S00117°"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢›ŸÇ
+“"squid:ClassVariableVisibilityCheck"`Make ach_history_ach_type a static final constant or non-public and provide accessors if needed.(–à…ğûÿÿÿÿ
+_squid:S1481Ç"GRemove this unused "cust_underwriting_veritec_tran_nbr" local variable.(ü­°Õ
+osquid:S00117»"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»ÿ
+j
+squid:S134¹"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ôò¥†üÿÿÿÿ
+csquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(‚çı
+Nsquid:S1854C"8Remove this useless assignment to local variable "City".(à×F
+osquid:S1192U"XDefine a constant instead of duplicating this literal "_TxnHistory_FieldValue" 24 times.(‹´¾Ø
+Wsquid:S1481¬"?Remove this unused "courtesy_inf_courtesy_type" local variable.(â”Õì
+osquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°á§
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(°¤û¯
+e
+squid:S134ç"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ş¦Ä–
+asquid:S1132î"IMove the "ACH" string literal on the left side of this string comparison.(¨½Îâ
+osquid:S00117´"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‚ªÄ
+fsquid:S1854¬"NRemove this useless assignment to local variable "courtesy_inf_courtesy_type".(â”Õì
+lsquid:S1854Ñ"TRemove this useless assignment to local variable "loan_paid_summary_late_paid_date".(·ê‘
+vsquid:S3008"ZRename this field "ACH_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÚ«ùıÿÿÿÿ
+msquid:S00117}"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦·‹
+tsquid:S00117Ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Â¨¯øÿÿÿÿ
+Ysquid:S1854¸"ARemove this useless assignment to local variable "Ref_PhoneNbr1".(¥ªáè
+osquid:S3776%"SRefactor this method to reduce its Cognitive Complexity from 216 to the 15 allowed.(å×º´úÿÿÿÿ
+Usquid:S1197Ü"8Move the array designator from the variable to the type.(â•¾‹üÿÿÿÿ
+e
+squid:S134ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¨½Îâ
+Isquid:S14815"-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ
+Isquid:S14816"-Remove this unused "Password" local variable.(„¾˜ şÿÿÿÿ
+nsquid:S00117z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑ¢¸
+e
+squid:S134æ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(İÃ©–
+tsquid:S00117Ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ùÈˆùÿÿÿÿ
+e
+squid:S134ù"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­¦¾½
+tsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í´ºşÿÿÿÿ
+tsquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å«¸èıÿÿÿÿ
+Osquid:S1481º"2Remove this unused "Ref_PhoneNbr3" local variable.(Î¬íÁıÿÿÿÿ
+Isquid:S1481Á",Remove this unused "IDExpD2" local variable.(ğñÈÕúÿÿÿÿ
+tsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò°Ğäşÿÿÿÿ
+e
+squid:S134î"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¨½Îâ
+nsquid:S1854Ğ"VRemove this useless assignment to local variable "loan_paid_summary_return_paid_date".(ç¬ûø
+e
+squid:S134â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(õÏ®§
+Jsquid:S1481²"-Remove this unused "IncomeP1" local variable.(Ò°Ğäşÿÿÿÿ
+ssquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âõ¬Œüÿÿÿÿ
+csquid:S1854¡"KRemove this useless assignment to local variable "PrimaryRef_Relationship".(û¼³î
+Osquid:S1135¾"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Jsquid:S1481¸"2Remove this unused "Ref_PhoneNbr1" local variable.(¥ªáè
+tsquid:S00117è"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Å‡ùÿÿÿÿ
+tsquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”ƒïúÿÿÿÿ
+Ysquid:S1481ª"ARemove this unused "employer_inf_employer_ph_nbr" local variable.(óõ…Ú
+e
+squid:S134Ş"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­û–’
+tsquid:S00117£"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÂûÒÿÿÿÿÿ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¹É¹µ
+osquid:S00117Æ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ö÷‡
+osquid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¦µß
+tsquid:S00117Á"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğñÈÕúÿÿÿÿ
+nsquid:S00117u"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÎû
+osquid:S00117ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùç¤é
+tsquid:S00117¼"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÄ “ıÿÿÿÿ
+{squid:S3008"_Rename this field "ach_history_ach_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–à…ğûÿÿÿÿ
+osquid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÆ©
+tsquid:S00117Á"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‹¥êıÿÿÿÿ
+tsquid:S00117ë"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆàéØøÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+R
+squid:S106»";Replace this usage of System.out or System.err by a logger.(º¨¡ª
+ssquid:S00117_"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èø›çúÿÿÿÿ
+^squid:S1854º"ARemove this useless assignment to local variable "Ref_PhoneNbr3".(Î¬íÁıÿÿÿÿ
+osquid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü­°Õ
+wsquid:S1192‡"_Define a constant instead of duplicating this literal "; not equals to Actual value:" 45 times.(£ì…Ç
+nsquid:S00117l"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı·å×
+j
+squid:S134Ë"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ç÷°‰úÿÿÿÿ
+tsquid:S00117º"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¬íÁıÿÿÿÿ
+Xsquid:S1444 "<Make this "public static ach_history_ach_status" field final(é¥Áıúÿÿÿÿ
+esquid:S1481À"HRemove this unused "loan_account_inf_no_of_installments" local variable.(’ĞÅ­úÿÿÿÿ
+csquid:S1854"KRemove this useless assignment to local variable "cust_inf_customer_email".(ĞğÓ
+osquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±²Ãº
+j
+squid:S134”"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ú€ñúÿÿÿÿ
+j
+squid:S134‹"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(İ»Ÿÿúÿÿÿÿ
+`squid:S1854·"HRemove this useless assignment to local variable "PrimaryRef_PhoneNbr3".(Ÿ“é©
+osquid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Úğ×
+tsquid:S00117±"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÁùÿÿÿÿ
+V
+squid:S106>";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+osquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™åÒ
+tsquid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±·»»ùÿÿÿÿ
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ñ°áúÿÿÿÿ
+ssquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯ò–øÿÿÿÿ
+}squid:S3008 "aRename this field "ach_history_ach_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¥Áıúÿÿÿÿ
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÙÙ
+osquid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‚¶¥
+tsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¾šÛşÿÿÿÿ
+j
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(®Üïªùÿÿÿÿ
+Xsquid:S18545"<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ
+\squid:S1854O"ERemove this useless assignment to local variable "Income_IncomeType".(ÒÔü¼
+@squid:S1481¯"(Remove this unused "PP1" local variable.(ßåàŠ
+osquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÃÜ
+Zsquid:S1444#">Make this "public static ach_history_ach_ABA_code" field final(æïûäıÿÿÿÿ
+osquid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ù£¥
+isquid:S1854É"QRemove this useless assignment to local variable "cust_underwriting_ofac_status".(À¦µß
+W
+squid:S106¾";Replace this usage of System.out or System.err by a logger.(œ±Ÿÿùÿÿÿÿ
+ssquid:S00117n"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ®Ìúÿÿÿÿ
+Isquid:S1172%"-Remove this unused method parameter "AppURL".(å×º´úÿÿÿÿ
+ksquid:S1854Ë"NRemove this useless assignment to local variable "cust_promotion_coupon_code".(€ôĞßüÿÿÿÿ
+_squid:S1854"HRemove this useless assignment to local variable "Income_DirectDeposit".(“…×r
+osquid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ˆğ—
+Esquid:S1481´"-Remove this unused "IncomeP3" local variable.(¿‚ªÄ
+ssquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ıöÅúÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+Psquid:S1481K"4Remove this unused "Misc_PhotoIDNbr" local variable.(›œÏ†ûÿÿÿÿ
+j
+squid:S134”"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ê‚“€ıÿÿÿÿ
+j
+squid:S134Š"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.( ƒ‘şÿÿÿÿ
+Gsquid:S1481§"/Remove this unused "Bankruptcy" local variable.(Ú‚¶¥
+ssquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Æğ‰úÿÿÿÿ
+tsquid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏòšÇûÿÿÿÿ
+Csquid:S1481À",Remove this unused "IDExpD1" local variable.(Ì«Œ;
+osquid:S00117¢"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼¹•
+esquid:S1854º"MRemove this useless assignment to local variable "loan_account_inf_loan_nbr".(÷×òÙ
+asquid:S1481³"DRemove this unused "loan_balance_inf_return_fee_due" local variable.(±·»»ùÿÿÿÿ
+Vsquid:S1481µ"9Remove this unused "PrimaryRef_PhoneNbr1" local variable.(‰±ÁÙüÿÿÿÿ
+ssquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸£ğûÿÿÿÿ
+osquid:S00117ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶½Ú
+Isquid:S1481Â",Remove this unused "IDExpD3" local variable.(İ¢Ï“şÿÿÿÿ
+hsquid:S1854›"PRemove this useless assignment to local variable "cust_inf_customer_phone_type".(Ó‚ñ¨
+Lsquid:S1444"0Make this "public static ACH_status" field final(®Û‚ûÿÿÿÿ
+ssquid:S00117~"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œù¨„ûÿÿÿÿ
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(å†¢„
+msquid:S00117a"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôò±
+\squid:S1854¥"DRemove this useless assignment to local variable "Ref_Relationship".( ÷áá
+osquid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±óâä
+Fsquid:S1481Ä")Remove this unused "DOB1" local variable.(§ùÈˆùÿÿÿÿ
+tsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÚå¨ùÿÿÿÿ
+Lsquid:S1444"0Make this "public static ACH_amount" field final(áß«•ıÿÿÿÿ
+`squid:S1854¶"HRemove this useless assignment to local variable "PrimaryRef_PhoneNbr2".(ÎË¥Ä
+ksquid:S1854š"SRemove this useless assignment to local variable "cust_inf_customer_primary_phone".(Õéèù
+msquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à×F
+j
+squid:S134ù"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(•øìûÿÿÿÿ
+Xsquid:S1854Á";Remove this useless assignment to local variable "IDExpD2".(ğñÈÕúÿÿÿÿ
+hsquid:S1854œ"KRemove this useless assignment to local variable "cust_inf_customer_state".(Ó‘ÿ‚üÿÿÿÿ
+msquid:S1854È"PRemove this useless assignment to local variable "cust_underwriting_mla_status".(‡àÕ¿ùÿÿÿÿ
+osquid:S00117Ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê‘
+Osquid:S1854°"7Remove this useless assignment to local variable "PP2".(¥÷äà
+Qsquid:S1481·"9Remove this unused "PrimaryRef_PhoneNbr3" local variable.(Ÿ“é©
+tsquid:S00117£"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¾Ç˜ıÿÿÿÿ
+nsquid:S00117U"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹´¾Ø
+tsquid:S00117Â"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£Å–şÿÿÿÿ
+Psquid:S1481"9Remove this unused "Income_DirectDeposit" local variable.(“…×r
+osquid:S00117¨"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Òâé
+hsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ËÛâºüÿÿÿÿ
+_squid:S1854F"CRemove this useless assignment to local variable "MonthsAtAddress".(é˜ÍÏüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make ACH_transaction a static final constant or non-public and provide accessors if needed.(áÚ«ùıÿÿÿÿ
+tsquid:S1854À"WRemove this useless assignment to local variable "loan_account_inf_no_of_installments".(’ĞÅ­úÿÿÿÿ
+š"squid:ClassVariableVisibilityCheck"gMake ach_history_ach_transaction a static final constant or non-public and provide accessors if needed.(Øªîüÿÿÿÿÿ
+_squid:S1854K"CRemove this useless assignment to local variable "Misc_PhotoIDNbr".(›œÏ†ûÿÿÿÿ
+d
+squid:S134°"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(˜ï1
+jsquid:S1854Ÿ"MRemove this useless assignment to local variable "cust_bank_inf_accout_type".(í´ºşÿÿÿÿ
+gsquid:S1192á"JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªıÿÿÿÿ
+Lsquid:S1481M"5Remove this unused "Misc_PhotoIDType" local variable.(şüÚÂ
+j
+squid:S134ë"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ˆç˜…üÿÿÿÿ
+fsquid:S1854˜"IRemove this useless assignment to local variable "cust_inf_customer_nbr".(Â…°×øÿÿÿÿ
+@squid:S1481°"(Remove this unused "PP2" local variable.(¥÷äà
+tsquid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂØÀßøÿÿÿÿ
+]squid:S1854^"ARemove this useless assignment to local variable "pay_frequency".(†Û‹‹ûÿÿÿÿ
+osquid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¼«ó
+nsquid:S00117|"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Âµİ
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(­‹Î‘
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŒìİşÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+osquid:S00117¯"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÑ¯
+jsquid:S1854¾"RRemove this useless assignment to local variable "loan_account_inf_interest_rate".(ÉÃ¨²
+e
+squid:S134Â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(àëœà
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ìŠ¹
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¨½Îâ
+•"squid:ClassVariableVisibilityCheck "bMake ach_history_ach_status a static final constant or non-public and provide accessors if needed.(é¥Áıúÿÿÿÿ
+nsquid:S1854Ç"VRemove this useless assignment to local variable "cust_underwriting_veritec_tran_nbr".(ü­°Õ
+Usquid:S1197¿"8Move the array designator from the variable to the type.(Ñİ²ûÿÿÿÿ
+tsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‘ÿ‚üÿÿÿÿ
+j
+squid:S134Ğ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Şê€…ûÿÿÿÿ
+tsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡àÕ¿ùÿÿÿÿ
+Wsquid:S1854E";Remove this useless assignment to local variable "ZipCode".(Âõ¬Œüÿÿÿÿ
+Usquid:S1854Å"8Remove this useless assignment to local variable "DOB2".(İ‹Ğöúÿÿÿÿ
+tsquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÀÔ®øÿÿÿÿ
+ squid:MethodCyclomaticComplexity%"]The Cyclomatic Complexity of this method "history" is 57 which is greater than 10 authorized.(å×º´úÿÿÿÿ
+tsquid:S00117Ã"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É£í£úÿÿÿÿ
+osquid:S00117ª"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+osquid:S00117Ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¬ûø
+Tsquid:S1481¡"<Remove this unused "PrimaryRef_Relationship" local variable.(û¼³î
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ
+ssquid:S00117`"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹™–ùÿÿÿÿÿ
+Psquid:S1197·"8Move the array designator from the variable to the type.(È›µ‹
+Ksquid:S1481Y"4Remove this unused "Income_Employer" local variable.(¶áò
+Rsquid:S18548";Remove this useless assignment to local variable "StoreId".(‚í¯Î
+tsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñññúÿÿÿÿ
+Osquid:S1854¯"7Remove this useless assignment to local variable "PP1".(ßåàŠ
+tsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŞêÊüÿÿÿÿ
+e
+squid:S134§"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ıœ´
+e
+squid:S134î"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÀô
+tsquid:S00117Ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÚ€Šıÿÿÿÿ
+asquid:S1132ö"IMove the "ACH" string literal on the left side of this string comparison.(¨½Îâ
+osquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‰¨è
+osquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼³î
+Esquid:S1444".Make this "public static ACH_type" field final(İôø•
+osquid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃ¨²
+Tsquid:S1854´"<Remove this useless assignment to local variable "IncomeP3".(¿‚ªÄ
+tsquid:S00117Å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹Ğöúÿÿÿÿ
+Hsquid:S1481E",Remove this unused "ZipCode" local variable.(Âõ¬Œüÿÿÿÿ
+Lsquid:S1481B"0Remove this unused "AddressLine" local variable.(Õ¯ò–øÿÿÿÿ
+\squid:S1481š"DRemove this unused "cust_inf_customer_primary_phone" local variable.(Õéèù
+—"squid:ClassVariableVisibilityCheck#"dMake ach_history_ach_ABA_code a static final constant or non-public and provide accessors if needed.(æïûäıÿÿÿÿ
+Xsquid:S1854Â";Remove this useless assignment to local variable "IDExpD3".(İ¢Ï“şÿÿÿÿ
+Vsquid:S1444":Make this "public static ach_history_ach_type" field final(–à…ğûÿÿÿÿ
+Ysquid:S1481œ"<Remove this unused "cust_inf_customer_state" local variable.(Ó‘ÿ‚üÿÿÿÿ
+ssquid:S00117s"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¸¢—úÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck""hMake ach_history_ach_check_acc_no a static final constant or non-public and provide accessors if needed.(Ìğ¥L
+dsquid:S1854°"LRemove this useless assignment to local variable "loan_status_inf_due_date".(¢›ŸÇ
+j
+squid:S134”"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(·í”²úÿÿÿÿ
+Fsquid:S1481Å")Remove this unused "DOB2" local variable.(İ‹Ğöúÿÿÿÿ
+[squid:S1481Ÿ">Remove this unused "cust_bank_inf_accout_type" local variable.(í´ºşÿÿÿÿ
+zsquid:S1192˜"bDefine a constant instead of duplicating this literal "transaction date->Expected value:" 4 times.(Ó§¬
+esquid:S1854µ"HRemove this useless assignment to local variable "PrimaryRef_PhoneNbr1".(‰±ÁÙüÿÿÿÿ
+tsquid:S00117é"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äèÁ‹şÿÿÿÿ
+Vsquid:S1854§">Remove this useless assignment to local variable "Bankruptcy".(Ú‚¶¥
+Ysquid:S1854³"<Remove this useless assignment to local variable "IncomeP2".(Ú©‡¤úÿÿÿÿ
+Ysquid:S1481›"ARemove this unused "cust_inf_customer_phone_type" local variable.(Ó‚ñ¨
+Usquid:S1481°"=Remove this unused "loan_status_inf_due_date" local variable.(¢›ŸÇ
+]squid:S1854J"ARemove this useless assignment to local variable "Ctc_PhoneType".(ñò£˜øÿÿÿÿ
+nsquid:S00117O"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÔü¼
+Šsquid:S1192Ú"mDefine a constant instead of duplicating this literal "//*[@id='transactionDetailsTable']/tbody/tr[" 9 times.(¼Â¨¯øÿÿÿÿ
+Bsquid:S1166½"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+tsquid:S00117´"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ò¯­üÿÿÿÿ
+j
+squid:S134§"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(«šÁİúÿÿÿÿ
+j
+squid:S134‚"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ß¨áÄûÿÿÿÿ
+Vsquid:S1854<":Remove this useless assignment to local variable "Header".(¤Æğ‰úÿÿÿÿ
+bsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(Ìº‡Ã
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(£›„ûÿÿÿÿ
+nsquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚í¯Î
+isquid:S1854¦"QRemove this useless assignment to local variable "employer_inf_current_employer".(¬‰¨è
+ssquid:S00117x"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶ñıÿÿÿÿ
+ssquid:S00117b"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÎô×ùÿÿÿÿ
+nsquid:S00117p"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿş´
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Ysquid:S1854m"BRemove this useless assignment to local variable "finance_charge".(€Ùî„
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×º´úÿÿÿÿ
+tsquid:S00117Î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹ù–úÿÿÿÿ
+e
+squid:S134Â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(•öÀ
+Vsquid:S1481º">Remove this unused "loan_account_inf_loan_nbr" local variable.(÷×òÙ
+Xsquid:S1444""BMake this "public static ach_history_ach_check_acc_no" field final(Ìğ¥L
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+}squid:S3008""gRename this field "ach_history_ach_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ¥L
+Gsquid:S1481<"+Remove this unused "Header" local variable.(¤Æğ‰úÿÿÿÿ
+ssquid:S00117^"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Û‹‹ûÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×º´úÿÿÿÿ
+gsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Ã›ºÇøÿÿÿÿ
+Nsquid:S1481J"2Remove this unused "Ctc_PhoneType" local variable.(ñò£˜øÿÿÿÿ
+osquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àº¯Õ
+tsquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Îúïøÿÿÿÿ
+Jsquid:S1481m"3Remove this unused "finance_charge" local variable.(€Ùî„
+tsquid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œë´Ïûÿÿÿÿ
+Asquid:S1481Æ")Remove this unused "DOB3" local variable.(“ö÷‡
+tsquid:S00117ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÈ¯ıùÿÿÿÿ
+e
+squid:S134¾"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¶¨ğ¤
+_squid:S1854Ÿ"GRemove this useless assignment to local variable "PrimaryRef_LastName".(Š™åÒ
+ksquid:S1192ƒ"SDefine a constant instead of duplicating this literal "_Detail_FieldValue" 9 times.(°á§
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“…×r
+rsquid:S3008"[Rename this field "ACH_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ£ƒÒ
+Nsquid:S1481^"2Remove this unused "pay_frequency" local variable.(†Û‹‹ûÿÿÿÿ
+tsquid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥¦³úÿÿÿÿ
+gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ûú‘’ûÿÿÿÿ
+qsquid:S3008"URename this field "ACH_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Û‚ûÿÿÿÿ
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(øÕ²À
+osquid:S00117°"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥÷äà
+tsquid:S00117‰"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¯Êùÿÿÿÿ
+V
+squid:S106V";Replace this usage of System.out or System.err by a logger.(ûÍË½ıÿÿÿÿ
+Psquid:S1444!"9Make this "public static ach_history_ach_amt" field final(†’–²
+‹"squid:ClassVariableVisibilityCheck"XMake ACH_ABA_code a static final constant or non-public and provide accessors if needed.(†·Øûÿÿÿÿ
+j
+squid:S134Ù"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÓÃ¤ûúÿÿÿÿ
+csquid:S1854¢"KRemove this useless assignment to local variable "cust_bank_inf_check_nbr".(é¼¹•
+tsquid:S00117¢"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ™–°üÿÿÿÿ
+Psquid:S1481F"4Remove this unused "MonthsAtAddress" local variable.(é˜ÍÏüÿÿÿÿ
+Xsquid:S18546"<Remove this useless assignment to local variable "Password".(„¾˜ şÿÿÿÿ
+osquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì®Áì
+osquid:S00117¸"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ªáè
+osquid:S00117¶"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÂÙã
+[squid:S1481¾"CRemove this unused "loan_account_inf_interest_rate" local variable.(ÉÃ¨²
+nsquid:S00117e"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼ò´
+[squid:S1854B"?Remove this useless assignment to local variable "AddressLine".(Õ¯ò–øÿÿÿÿ
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+Ssquid:S1481";Remove this unused "cust_inf_customer_type" local variable.(éÀô
+tsquid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú©‡¤úÿÿÿÿ
+osquid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÏìÜ
+osquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È›µ‹
+Tsquid:S1481"<Remove this unused "cust_inf_customer_email" local variable.(ĞğÓ
+tsquid:S00117±"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜‘…üÿÿÿÿ
+hsquid:S1854¤"KRemove this useless assignment to local variable "cust_bank_inf_bank_name".(Á¾šÛşÿÿÿÿ
+e
+squid:S134ğ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÀÆğó
+[squid:S1854M"DRemove this useless assignment to local variable "Misc_PhotoIDType".(şüÚÂ
+ssquid:S00117["VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÆŒÄşÿÿÿÿ
+Fsquid:S1481D"*Remove this unused "State" local variable.(»ıöÅúÿÿÿÿ
+e
+squid:S134Ç"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(×–ÙÆ
+osquid:S00117¶"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎË¥Ä
+tsquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦šÂ¸üÿÿÿÿ
+ssquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+Ysquid:S1854"ARemove this useless assignment to local variable "Income_HireDt".(‚Ì‡ü
+tsquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êüİøÿÿÿÿ
+]squid:S1481Ñ"ERemove this unused "loan_paid_summary_late_paid_date" local variable.(·ê‘
+qsquid:S1192ƒ"TDefine a constant instead of duplicating this literal "; == Actual value:" 45 times.(©ÿˆáøÿÿÿÿ
+e
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÇÄğ“
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.( „Êº
+Xsquid:S1854e"ARemove this useless assignment to local variable "Interest_Rate".(Ğ¼ò´
+Ysquid:S1854²"<Remove this useless assignment to local variable "IncomeP1".(Ò°Ğäşÿÿÿÿ
+nsquid:S00117r"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ŠĞ
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_amount a static final constant or non-public and provide accessors if needed.(áß«•ıÿÿÿÿ
+ssquid:S00117o"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õœÉÍùÿÿÿÿ
+nsquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·¼ê
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ú«öÔ
+j
+squid:S134µ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(„ı­Ôøÿÿÿÿ
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ïõ‡Şıÿÿÿÿ
+tsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ó…ıÿÿÿÿ
+Msquid:S1481O"6Remove this unused "Income_IncomeType" local variable.(ÒÔü¼
+tsquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â…°×øÿÿÿÿ
+tsquid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+osquid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õéèù
+nsquid:S00117\"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÚ›
+tsquid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ĞÅ­úÿÿÿÿ
+Qsquid:S1481¶"9Remove this unused "PrimaryRef_PhoneNbr2" local variable.(ÎË¥Ä
+osquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â”Õì
+‚squid:S3008"fRename this field "ach_history_ach_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øªîüÿÿÿÿÿ
+Jsquid:S1481³"-Remove this unused "IncomeP2" local variable.(Ú©‡¤úÿÿÿÿ
+asquid:S1481Ã"DRemove this unused "loan_account_inf_original_store" local variable.(É£í£úÿÿÿÿ
+osquid:S00117Î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+Tsquid:S1481¢"<Remove this unused "cust_bank_inf_check_nbr" local variable.(é¼¹•
+tsquid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñİ²ûÿÿÿÿ
+nsquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶áò
+qsquid:S3008"URename this field "ACH_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áß«•ıÿÿÿÿ
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+nsquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şüÚÂ
+ssquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é•±×şÿÿÿÿ
+jsquid:S3008"SRename this field "ACH_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İôø•
+Zsquid:S1481¦"BRemove this unused "employer_inf_current_employer" local variable.(¬‰¨è
+Qsquid:S1444"5Make this "public static ACH_transaction" field final(áÚ«ùıÿÿÿÿ
+tsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢çİÉøÿÿÿÿ
+Usquid:S1197Ã"8Move the array designator from the variable to the type.(İçÙ•øÿÿÿÿ
+squid:S3008#"cRename this field "ach_history_ach_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïûäıÿÿÿÿ
+Isquid:S1481e"2Remove this unused "Interest_Rate" local variable.(Ğ¼ò´
+nsquid:S1854´"QRemove this useless assignment to local variable "loan_balance_inf_late_fee_due".(¾Ò¯­üÿÿÿÿ
+bsquid:S1854"JRemove this useless assignment to local variable "cust_inf_customer_type".(éÀô
+ssquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é˜ÍÏüÿÿÿÿ
+tsquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÂ›¼ùÿÿÿÿ
+^squid:S1481È"ARemove this unused "cust_underwriting_mla_status" local variable.(‡àÕ¿ùÿÿÿÿ
+tsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+Ysquid:S1481¤"<Remove this unused "cust_bank_inf_bank_name" local variable.(Á¾šÛşÿÿÿÿ
+j
+squid:S134Ë"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.( ‹ãÊúÿÿÿÿ
+Nsquid:S1444"2Make this "public static ACH_ABA_code" field final(†·Øûÿÿÿÿ
+e
+squid:S134ü"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+esquid:S1854 "HRemove this useless assignment to local variable "PrimaryRef_FirstName".(ÌÚå¨ùÿÿÿÿ
+?squid:S1481C")Remove this unused "City" local variable.(à×F
+Psquid:S1481Ÿ"8Remove this unused "PrimaryRef_LastName" local variable.(Š™åÒ

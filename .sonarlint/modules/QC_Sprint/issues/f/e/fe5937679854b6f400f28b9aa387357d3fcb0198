@@ -1,0 +1,13 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­“¨œÿÿÿÿÿ8Í¿©ºŽ.
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(èÉ²Åúÿÿÿÿ8Í¿©ºŽ.
+Isquid:S1481",Remove this unused "StoreID" local variable.( Õ›)8Í¿©ºŽ.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·™­8Í¿©ºŽ.
+Psquid:S1172"2Remove this unused method parameter "NextDueDate".(Î·™­8Í¿©ºŽ.
+Xsquid:S1854";Remove this useless assignment to local variable "StoreID".( Õ›)8Í¿©ºŽ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·™­8Í¿©ºŽ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·™­8Í¿©ºŽ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8Í¿©ºŽ.
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)8Í¿©ºŽ.
+zsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÿ¯Èüÿÿÿÿ8Í¿©ºŽ.
+usquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¸îÒ8Í¿©ºŽ.

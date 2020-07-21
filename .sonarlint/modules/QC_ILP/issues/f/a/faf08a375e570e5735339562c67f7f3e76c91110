@@ -1,0 +1,57 @@
+
+fsquid:S1192C"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+„squid:S1192X"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 3 times.(÷æ£üÿÿÿÿ
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(ÕŒøë
+d
+squid:S134P"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+d
+squid:S134\"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+i
+squid:S134d"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Û¶ª÷ûÿÿÿÿ
+d
+squid:S134j"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ò²¿Ä
+i
+squid:S134p"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ıÎ·¶ûÿÿÿÿ
+c
+squid:S134w"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(İşt
+esquid:S1132d"IMove the "PDL" string literal on the left side of this string comparison.(Û¶ª÷ûÿÿÿÿ
+`squid:S1132j"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+esquid:S1132p"IMove the "TLP" string literal on the left side of this string comparison.(ıÎ·¶ûÿÿÿÿ
+_squid:S1132w"IMove the "LOC" string literal on the left side of this string comparison.(İşt
+Isquid:S1481$"-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ
+Isquid:S1481%"-Remove this unused "Password" local variable.(„¾˜ şÿÿÿÿ
+Hsquid:S1481(",Remove this unused "StateID" local variable.(ŞÑæüÿÿÿÿ
+Lsquid:S1481*"0Remove this unused "ProductType" local variable.(ãú³øÿÿÿÿ
+>squid:S1481/"'Remove this unused "df" local variable.(©Âìü
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ô«¸
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ô«¸
+Bsquid:S1166›"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Xsquid:S1854$"<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ
+Xsquid:S1854%"<Remove this useless assignment to local variable "Password".(„¾˜ şÿÿÿÿ
+Wsquid:S1854(";Remove this useless assignment to local variable "StateID".(ŞÑæüÿÿÿÿ
+[squid:S1854*"?Remove this useless assignment to local variable "ProductType".(ãú³øÿÿÿÿ
+Msquid:S1854/"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«¸
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«¸
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ì¡Ó
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+Zsquid:UselessImportCheck	"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

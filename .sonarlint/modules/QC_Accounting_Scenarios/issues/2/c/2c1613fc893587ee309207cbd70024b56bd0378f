@@ -1,0 +1,34 @@
+
+osquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(—ÈÉ¿ıÿÿÿÿ8Œ¼ÍÉÊ-
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8È©©â-
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+\squid:S1854¯"?Remove this useless assignment to local variable "mainwindow2".(Ûö·¯ûÿÿÿÿ
+nsquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¹Äå
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Ú½ï…úÿÿÿÿ
+Rsquid:S1481d"/Remove this unused "mainwindow" local variable.(Ò®…•şÿÿÿÿ8¥ºƒâ-
+Msquid:S1481¯"0Remove this unused "mainwindow2" local variable.(Ûö·¯ûÿÿÿÿ
+msquid:S1132ˆ"IMove the "LOC" string literal on the left side of this string comparison.(ìÉŞ½øÿÿÿÿ8¥ºƒâ-
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+hsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(‚Ë†j8¥ºƒâ-
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒñ‘€üÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´‹Ö
+^squid:UselessImportCheck"3Remove this unused import 'junit.framework.Assert'.(›¡ÇÕ8»ãÉ€Ù-
+Osquid:S11970"8Move the array designator from the variable to the type.(åï©ñ
+asquid:S1854d">Remove this useless assignment to local variable "mainwindow".(Ò®…•şÿÿÿÿ8¥ºƒâ-
+isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(úÖ±Ù8¥ºƒâ-
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´‹Ö
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+jsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(åÊ¸Ø8¥ºƒâ-
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ8È©©â-
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+fsquid:S1192>"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ

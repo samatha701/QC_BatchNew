@@ -1,0 +1,46 @@
+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(¢ýú
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+Isquid:S1481-"2Remove this unused "PaymentAmount" local variable.(³“¥è
+Usquid:S18540"?Remove this useless assignment to local variable "PaymentType".(¯ã™
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ
+Bsquid:S1166ž"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+i
+squid:S134)"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éŽÿÿÿÿÿ
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+nsquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(÷–‰
+Xsquid:S1854-"ARemove this useless assignment to local variable "PaymentAmount".(³“¥è
+Osquid:S1135 "2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+ssquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+Fsquid:S14810"0Remove this unused "PaymentType" local variable.(¯ã™
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+msquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ã™
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+asquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Óür
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÚÞ¨þÿÿÿÿ8Þ½ðë”-
+Msquid:S1481/"1Remove this unused "TenderAmount" local variable.(ÃóÎˆùÿÿÿÿ
+=squid:S1166‹"%Either log or rethrow this exception.(¬Ù¨Í
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³“¥è
+fsquid:S1192="JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ß Â÷úÿÿÿÿ
+jsquid:S1132s"NMove the "VoidLoan" string literal on the left side of this string comparison.(‘¦¡¥ûÿÿÿÿ
+Rsquid:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+\squid:S1854/"@Remove this useless assignment to local variable "TenderAmount".(ÃóÎˆùÿÿÿÿ
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃóÎˆùÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ß Â÷úÿÿÿÿ
+fsquid:S1132g"JMove the "Draw" string literal on the left side of this string comparison.(Ÿ»ø¬üÿÿÿÿ

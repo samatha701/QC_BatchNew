@@ -1,0 +1,27 @@
+
+Bsquid:S1166¥"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Gsquid:S00108¦")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+7squid:S2068" Remove this hard-coded password.(ƒ¨Ó
+Bsquid:S1166‘"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Rsquid:S1141š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S1192i"WDefine a constant instead of duplicating this literal "Clicked on Finish Safe" 3 times.(»ô³¶
+=squid:S1166Œ"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166°"%Either log or rethrow this exception.(¬Ù¨Í
+bsquid:S1192h"KDefine a constant instead of duplicating this literal "safeassign" 3 times.(ÉÎÉÿ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+Gsquid:S00108’")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+P
+squid:S106=";Replace this usage of System.out or System.err by a logger.(ù…‡q
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³ôŞ
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(±¯€¤
+Asquid:S1172"*Remove this unused method parameter "SSN".(ÿ³ƒÿ
+<squid:S1166r"%Either log or rethrow this exception.(¬Ù¨Í
+Rsquid:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=squid:S1166 "%Either log or rethrow this exception.(¬Ù¨Í
+fsquid:S1192"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Qsquid:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³ƒÿ
+Isquid:S1135_"2Complete the task associated to this TODO comment.(‡ñÅ¼
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³ƒÿ
+Asquid:S1166;"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Asquid:S1166^"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ

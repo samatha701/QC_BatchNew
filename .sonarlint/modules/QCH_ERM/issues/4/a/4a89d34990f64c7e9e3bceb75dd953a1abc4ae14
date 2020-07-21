@@ -1,0 +1,21 @@
+
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¡è¨
+Hsquid:S1313)"1Make this IP "192.168.2.48" address configurable.(º÷ß¯
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(´ì¬§
+Asquid:S1166V"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Asquid:S1172@"*Remove this unused method parameter "SSN".(¼Ìºà
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¡è¨
+bsquid:S1132""KMove the "local" string literal on the left side of this string comparison.(ô¿®à
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷ß¯
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(É¡è¨
+squid:S1160"†Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.net.MalformedURLException(É¡è¨
+isquid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(÷º¢°üÿÿÿÿ8ÿ˜­ºó-
+Osquid:UselessParenthesesCheckH"!Remove those useless parentheses.(ÑÌ›„øÿÿÿÿ
+Q
+squid:S106J";Replace this usage of System.out or System.err by a logger.(˜ã†¹
+>squid:S2068" Remove this hard-coded password.(Ò®º8…º½ºó-
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÃØ×°şÿÿÿÿ8…º½ºó-

@@ -1,0 +1,41 @@
+
+i
+squid:S1345"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÀäŒåýÿÿÿÿ
+Msquid:S1854L"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Ä²²
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+gsquid:S11325"KMove the "local" string literal on the left side of this string comparison.(ÀäŒåýÿÿÿÿ
+esquid:S1132m"IMove the "ACH" string literal on the left side of this string comparison.(øàƒçùÿÿÿÿ
+Ysquid:UselessImportCheck
+"5Remove this unused import 'org.openqa.selenium.Keys'.(§ŽÕ
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+?squid:S1481+"(Remove this unused "PIN" local variable.(¿âÐ¬
+Nsquid:S1854+"7Remove this useless assignment to local variable "PIN".(¿âÐ¬
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉö„üÿÿÿÿ
+Msquid:S1313;"1Make this IP "192.168.2.66" address configurable.(Œü×±ûÿÿÿÿ
+Bsquid:S1166Á"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+i
+squid:S134m"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(øàƒçùÿÿÿÿ
+Osquid:S1135Â"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöïÌûÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ÀÉö„üÿÿÿÿ
+>squid:S1481L"'Remove this unused "df" local variable.(©Âìü
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù´§²ùÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷»éþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉö„üÿÿÿÿ
+msquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¢§Ö
+@squid:S1148Ã"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+bsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(´ì¬§
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â…Úþ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œü×±ûÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬

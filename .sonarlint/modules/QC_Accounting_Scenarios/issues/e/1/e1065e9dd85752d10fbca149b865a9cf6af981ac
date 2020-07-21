@@ -1,0 +1,94 @@
+
+rsquid:S3008"[Rename this field "ACH_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ£ƒÒ
+nsquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+‹"squid:ClassVariableVisibilityCheck"XMake ACH_ABA_code a static final constant or non-public and provide accessors if needed.(†·Øûÿÿÿÿ
+ssquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+"squid:ClassVariableVisibilityCheck""_Make ach_history_ach_amt a static final constant or non-public and provide accessors if needed.(†’–²
+ssquid:S3008"WRename this field "ACH_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·Øûÿÿÿÿ
+[squid:S1481G"?Remove this unused "cust_transaction_date_test" local variable.(êüİøÿÿÿÿ
+—"squid:ClassVariableVisibilityCheck$"dMake ach_history_ach_ABA_code a static final constant or non-public and provide accessors if needed.(æïûäıÿÿÿÿ
+Lsquid:S1444"0Make this "public static ACH_amount" field final(áß«•ıÿÿÿÿ
+qsquid:S3008"URename this field "ACH_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Û‚ûÿÿÿÿ
+Qsquid:S1444"5Make this "public static ACH_transaction" field final(áÚ«ùıÿÿÿÿ
+Osquid:S1135à"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Msquid:S18546"6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+d
+squid:S134c"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+nsquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Bsquid:S1166–"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+jsquid:S3008"SRename this field "ACH_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İôø•
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(óå„şûÿÿÿÿ
+jsquid:S1854G"NRemove this useless assignment to local variable "cust_transaction_date_test".(êüİøÿÿÿÿ
+Bsquid:S1166ß"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(£›„ûÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck"`Make ach_history_ach_type a static final constant or non-public and provide accessors if needed.(–à…ğûÿÿÿÿ
+`squid:S1192K"IDefine a constant instead of duplicating this literal "topFrame" 4 times.(ğÁ¾”
+Vsquid:S1444":Make this "public static ach_history_ach_type" field final(–à…ğûÿÿÿÿ
+osquid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_status a static final constant or non-public and provide accessors if needed.(®Û‚ûÿÿÿÿ
+Rsquid:S1141»"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+š"squid:ClassVariableVisibilityCheck "gMake ach_history_ach_transaction a static final constant or non-public and provide accessors if needed.(Øªîüÿÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+tsquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
+Osquid:S1197C"8Move the array designator from the variable to the type.(åï©ñ
+‚"squid:ClassVariableVisibilityCheck"TMake ACH_type a static final constant or non-public and provide accessors if needed.(İôø•
+Isquid:S1172&"-Remove this unused method parameter "AppURL".(œŞßüÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+vsquid:S3008"ZRename this field "ACH_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÚ«ùıÿÿÿÿ
+fsquid:S1192V"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+}squid:S3008!"aRename this field "ach_history_ach_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¥Áıúÿÿÿÿ
+bsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.( „Êº
+Esquid:S1444".Make this "public static ACH_type" field final(İôø•
+Xsquid:S1444#"BMake this "public static ach_history_ach_check_acc_no" field final(Ìğ¥L
+Nsquid:S1444"2Make this "public static ACH_ABA_code" field final(†·Øûÿÿÿÿ
+tsquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+j
+squid:S134»"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck!"bMake ach_history_ach_status a static final constant or non-public and provide accessors if needed.(é¥Áıúÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Psquid:S1444""9Make this "public static ach_history_ach_amt" field final(†’–²
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(­‹Î‘
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘„³¤
+Msquid:S1444"6Make this "public static ACH_check_acc_no" field final(ñ£ƒÒ
+•"squid:ClassVariableVisibilityCheck#"hMake ach_history_ach_check_acc_no a static final constant or non-public and provide accessors if needed.(Ìğ¥L
+tsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚şÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"\Make ACH_check_acc_no a static final constant or non-public and provide accessors if needed.(ñ£ƒÒ
+Xsquid:S1444!"<Make this "public static ach_history_ach_status" field final(é¥Áıúÿÿÿÿ
+Zsquid:S1444$">Make this "public static ach_history_ach_ABA_code" field final(æïûäıÿÿÿÿ
+Psquid:S1197«"8Move the array designator from the variable to the type.(œÏ˜Ï
+‚squid:S3008 "fRename this field "ach_history_ach_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øªîüÿÿÿÿÿ
+Lsquid:S1444"0Make this "public static ACH_status" field final(®Û‚ûÿÿÿÿ
+bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(°¤û¯
+>squid:S14816"'Remove this unused "df" local variable.(©Âìü
+qsquid:S3008"URename this field "ACH_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áß«•ıÿÿÿÿ
+usquid:S3008""^Rename this field "ach_history_ach_amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†’–²
+]squid:S1444 "AMake this "public static ach_history_ach_transaction" field final(Øªîüÿÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŞßüÿÿÿÿ
+nsquid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œŞßüÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+}squid:S3008#"gRename this field "ach_history_ach_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ¥L
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŞßüÿÿÿÿ
+j
+squid:S134’"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Rsquid:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+e
+squid:S134¤"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ìŠ¹
+"squid:ClassVariableVisibilityCheck"[Make ACH_transaction a static final constant or non-public and provide accessors if needed.(áÚ«ùıÿÿÿÿ
+squid:S3008$"cRename this field "ach_history_ach_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïûäıÿÿÿÿ
+bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Å‘—Ü
+d
+squid:S134q"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+{squid:S3008"_Rename this field "ach_history_ach_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–à…ğûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_amount a static final constant or non-public and provide accessors if needed.(áß«•ıÿÿÿÿ
+Bsquid:S1166Â"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êüİøÿÿÿÿ

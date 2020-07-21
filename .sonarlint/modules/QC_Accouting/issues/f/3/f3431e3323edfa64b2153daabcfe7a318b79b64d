@@ -1,0 +1,32 @@
+
+]squid:S1192k"FDefine a constant instead of duplicating this literal "value" 3 times.(·”•ç
+fsquid:S11920"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Bsquid:S1444"+Make this "public static month" field final(®ºı
+Esquid:S1444")Make this "public static day" field final(Òâ£»şÿÿÿÿ
+Asquid:S1444"*Make this "public static year" field final(˜Áİá
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(€™ºö
+csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(€™ºö
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(­„øŒ
+i
+squid:S134T"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¶"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake month a static final constant or non-public and provide accessors if needed.(®ºı
+‚"squid:ClassVariableVisibilityCheck"OMake day a static final constant or non-public and provide accessors if needed.(Òâ£»şÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake year a static final constant or non-public and provide accessors if needed.(˜Áİá
+Osquid:S1135Ë"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ªëâÿÿÿÿÿ
+<squid:S1166]"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166½"%Either log or rethrow this exception.(¬Ù¨Í
+Bsquid:S1166Ê"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªëâÿÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªëâÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉœŸûÿÿÿÿ
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+@squid:S1148Ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="QCHome.CSR">
+        <methods>
+          <include name="getResult"/>
+<<<<<<< HEAD
+          <include name="TLPBuyback"/>
+          <include name="endReport"/>
+          <include name="HistoryTLp"/>
+=======
+          <include name="QC_NM_TLP_Txn"/>
+          <include name="ilpeditborrowregsavenext"/>
+          <include name="NewLoanVeritec"/>
+          <include name="borrowregsaveloan"/>
+          <include name="borrowregsavenext"/>
+          <include name="locborrowregsaveexiteditssn"/>
+          <include name="endReport"/>
+          <include name="CSRBorrowerRegistration"/>
+          <include name="editborrowregsavenext"/>
+>>>>>>> brahmith1.1
+          <include name="setup"/>
+          <include name="loceditborrowregsavenext"/>
+        </methods>
+      </class> <!-- QCHome.CSR -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

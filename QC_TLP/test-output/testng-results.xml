@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="27" total="35" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2767521" started-at="2019-12-11T06:58:44Z" finished-at="2019-12-11T07:44:51Z">
+    <groups>
+      <group name="Brahmith">
+        <method signature="QCStore.QC_Installmentpayment_Txn()[pri:118, instance:tests.QCStore@5f9d02cb]" name="QC_Installmentpayment_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_Installmentpayment_Void_Txn()[pri:119, instance:tests.QCStore@5f9d02cb]" name="QC_Installmentpayment_Void_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_PayAnyotherAmount_Txn()[pri:120, instance:tests.QCStore@5f9d02cb]" name="QC_PayAnyotherAmount_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_PayAnyotherAmount_Void_Txn()[pri:121, instance:tests.QCStore@5f9d02cb]" name="QC_PayAnyotherAmount_Void_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_TLP_Buyback_Txn()[pri:116, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Buyback_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_TLP_Buyback_Void_Txn()[pri:117, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Buyback_Void_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_TLP_Writeoff_Recovery_Txn()[pri:131, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Writeoff_Recovery_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_TLP_Writeoff_Recovery_Void_Txn()[pri:132, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Writeoff_Recovery_Void_Txn" class="tests.QCStore"/>
+      </group> <!-- Brahmith -->
+    </groups>
+    <test name="Test" duration-ms="2767521" started-at="2019-12-11T06:58:44Z" finished-at="2019-12-11T07:44:51Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="80" started-at="2019-12-11T06:58:44Z" finished-at="2019-12-11T06:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5010" started-at="2019-12-11T06:58:44Z" finished-at="2019-12-11T06:58:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_TLP_Buyback_Txn()[pri:116, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Buyback_Txn" duration-ms="313605" started-at="2019-12-11T06:58:49Z" finished-at="2019-12-11T07:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_TLP_Buyback_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="1" started-at="2019-12-11T07:04:02Z" finished-at="2019-12-11T07:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="219" started-at="2019-12-11T07:04:02Z" finished-at="2019-12-11T07:04:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_TLP_Buyback_Txn status=SUCCESS method=QCStore.QC_TLP_Buyback_Txn()[pri:116, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5014" started-at="2019-12-11T07:04:02Z" finished-at="2019-12-11T07:04:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_TLP_Buyback_Void_Txn()[pri:117, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Buyback_Void_Txn" duration-ms="355336" started-at="2019-12-11T07:04:07Z" finished-at="2019-12-11T07:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_TLP_Buyback_Void_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="61" started-at="2019-12-11T07:10:03Z" finished-at="2019-12-11T07:10:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_TLP_Buyback_Void_Txn status=SUCCESS method=QCStore.QC_TLP_Buyback_Void_Txn()[pri:117, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:10:03Z" finished-at="2019-12-11T07:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5021" started-at="2019-12-11T07:10:03Z" finished-at="2019-12-11T07:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_Installmentpayment_Txn()[pri:118, instance:tests.QCStore@5f9d02cb]" name="QC_Installmentpayment_Txn" duration-ms="311462" started-at="2019-12-11T07:10:08Z" finished-at="2019-12-11T07:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_Installmentpayment_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:15:19Z" finished-at="2019-12-11T07:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="33" started-at="2019-12-11T07:15:19Z" finished-at="2019-12-11T07:15:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_Installmentpayment_Txn status=SUCCESS method=QCStore.QC_Installmentpayment_Txn()[pri:118, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5009" started-at="2019-12-11T07:15:19Z" finished-at="2019-12-11T07:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_Installmentpayment_Void_Txn()[pri:119, instance:tests.QCStore@5f9d02cb]" name="QC_Installmentpayment_Void_Txn" duration-ms="353327" started-at="2019-12-11T07:15:24Z" finished-at="2019-12-11T07:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_Installmentpayment_Void_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:21:18Z" finished-at="2019-12-11T07:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="41" started-at="2019-12-11T07:21:18Z" finished-at="2019-12-11T07:21:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_Installmentpayment_Void_Txn status=SUCCESS method=QCStore.QC_Installmentpayment_Void_Txn()[pri:119, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5012" started-at="2019-12-11T07:21:18Z" finished-at="2019-12-11T07:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_PayAnyotherAmount_Txn()[pri:120, instance:tests.QCStore@5f9d02cb]" name="QC_PayAnyotherAmount_Txn" duration-ms="321452" started-at="2019-12-11T07:21:23Z" finished-at="2019-12-11T07:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_PayAnyotherAmount_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="26" started-at="2019-12-11T07:26:44Z" finished-at="2019-12-11T07:26:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_PayAnyotherAmount_Txn status=SUCCESS method=QCStore.QC_PayAnyotherAmount_Txn()[pri:120, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:26:44Z" finished-at="2019-12-11T07:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5019" started-at="2019-12-11T07:26:44Z" finished-at="2019-12-11T07:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_PayAnyotherAmount_Void_Txn()[pri:121, instance:tests.QCStore@5f9d02cb]" name="QC_PayAnyotherAmount_Void_Txn" duration-ms="372838" started-at="2019-12-11T07:26:49Z" finished-at="2019-12-11T07:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_PayAnyotherAmount_Void_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="45" started-at="2019-12-11T07:33:02Z" finished-at="2019-12-11T07:33:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_PayAnyotherAmount_Void_Txn status=SUCCESS method=QCStore.QC_PayAnyotherAmount_Void_Txn()[pri:121, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:33:02Z" finished-at="2019-12-11T07:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5021" started-at="2019-12-11T07:33:02Z" finished-at="2019-12-11T07:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="FAIL" signature="QC_TLP_Writeoff_Recovery_Txn()[pri:131, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Writeoff_Recovery_Txn" duration-ms="87207" started-at="2019-12-11T07:33:07Z" finished-at="2019-12-11T07:34:34Z">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-223', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36951/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 820b526e-b894-456c-8dcb-9b17f68cf476]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-223', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36951/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 820b526e-b894-456c-8dcb-9b17f68cf476
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+at tests.QCStore.getScreenhot(QCStore.java:1992)
+at tests.QCCSRNewLoan.newLoan(QCCSRNewLoan.java:248)
+at tests.QCStore.QC_TLP_Writeoff_Recovery_Txn(QCStore.java:593)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_TLP_Writeoff_Recovery_Txn -->
+        <test-method status="FAIL" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="17" started-at="2019-12-11T07:34:34Z" finished-at="2019-12-11T07:34:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_TLP_Writeoff_Recovery_Txn status=FAILURE method=QCStore.QC_TLP_Writeoff_Recovery_Txn()[pri:131, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-223', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36951/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 820b526e-b894-456c-8dcb-9b17f68cf476]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-223', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36951/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 820b526e-b894-456c-8dcb-9b17f68cf476
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+at tests.QCStore.getScreenhot(QCStore.java:1992)
+at tests.QCStore.getResult(QCStore.java:2009)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:34:34Z" finished-at="2019-12-11T07:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5010" started-at="2019-12-11T07:34:34Z" finished-at="2019-12-11T07:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_TLP_Writeoff_Recovery_Void_Txn()[pri:132, instance:tests.QCStore@5f9d02cb]" name="QC_TLP_Writeoff_Recovery_Void_Txn" duration-ms="611596" started-at="2019-12-11T07:34:39Z" finished-at="2019-12-11T07:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_TLP_Writeoff_Recovery_Void_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-11T07:44:51Z" finished-at="2019-12-11T07:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="32" started-at="2019-12-11T07:44:51Z" finished-at="2019-12-11T07:44:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_TLP_Writeoff_Recovery_Void_Txn status=SUCCESS method=QCStore.QC_TLP_Writeoff_Recovery_Void_Txn()[pri:132, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

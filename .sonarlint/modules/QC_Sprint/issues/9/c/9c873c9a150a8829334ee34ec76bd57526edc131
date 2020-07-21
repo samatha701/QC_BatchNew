@@ -1,0 +1,30 @@
+
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(÷‡Õø8Ôï¯ËŒ.
+Fsquid:S14815")Remove this unused "wait" local variable.(®££x8±¸ª§.
+Qsquid:S1172,".Remove this unused method parameter "App_URL".(ÙŒıÿÿÿÿ8±¸ª§.
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³À>8ğÆÍŒ.
+usquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8±¸ª§.
+gsquid:S1192""IDefine a constant instead of duplicating this literal "Password" 3 times.(ˆÜÒç8–“Áª§.
+Ksquid:S1481""-Remove this unused "password" local variable.(ˆÜÒç8’¤Æ§.
+\squid:S1854!"9Remove this useless assignment to local variable "email".(êÊ¨ñüÿÿÿÿ8’¤Æ§.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ëÂñÊŒ.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ç‰”Àÿÿÿÿÿ8±¸ª§.
+Usquid:S18545"8Remove this useless assignment to local variable "wait".(®££x8±¸ª§.
+Fsquid:S1481")Remove this unused "wait" local variable.(®££x8Ôï¯ËŒ.
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(êš¡ıÿÿÿÿÿ8±¸ª§.
+zsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒıÿÿÿÿ8±¸ª§.
+zsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒıÿÿÿÿ8±¸ª§.
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(§³À>8ëÂñÊŒ.
+Usquid:S1854"8Remove this useless assignment to local variable "wait".(®££x8Ôï¯ËŒ.
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³À>8ğÆÍŒ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç‰”Àÿÿÿÿÿ8Ôï¯ËŒ.
+X
+squid:S1069";Replace this usage of System.out or System.err by a logger.(÷‡Õø8±¸ª§.
+Ksquid:S1172".Remove this unused method parameter "App_URL".(§³À>8ğÆÍŒ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êš¡ıÿÿÿÿÿ8ßìêËŒ.
+Msquid:S1481!"*Remove this unused "email" local variable.(êÊ¨ñüÿÿÿÿ8’¤Æ§.
+Zsquid:S1854""<Remove this useless assignment to local variable "password".(ˆÜÒç8’¤Æ§.
+jsquid:S00112,"FDefine and throw a dedicated exception instead of using a generic one.(ÙŒıÿÿÿÿ8±¸ª§.
+zsquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅğ÷üÿÿÿÿ8±¸ª§.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅğ÷üÿÿÿÿ8Ôï¯ËŒ.

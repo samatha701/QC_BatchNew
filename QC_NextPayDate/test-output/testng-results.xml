@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7130042" started-at="2020-07-18T16:11:25Z" finished-at="2020-07-18T18:10:15Z">
+    <groups>
+      <group name="NextPayDate">
+        <method signature="QCStore.Payfrequency_Biweekly()[pri:0, instance:tests.QCStore@6536e911]" name="Payfrequency_Biweekly" class="tests.QCStore"/>
+        <method signature="QCStore.Payfrequency_Monthly()[pri:2, instance:tests.QCStore@6536e911]" name="Payfrequency_Monthly" class="tests.QCStore"/>
+        <method signature="QCStore.Payfrequency_Semi_monthly()[pri:3, instance:tests.QCStore@6536e911]" name="Payfrequency_Semi_monthly" class="tests.QCStore"/>
+        <method signature="QCStore.Payfrequency_Weekly()[pri:1, instance:tests.QCStore@6536e911]" name="Payfrequency_Weekly" class="tests.QCStore"/>
+      </group> <!-- NextPayDate -->
+    </groups>
+    <test name="Test" duration-ms="7130042" started-at="2020-07-18T16:11:25Z" finished-at="2020-07-18T18:10:15Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6536e911]" name="setup" is-config="true" duration-ms="81" started-at="2020-07-18T16:11:25Z" finished-at="2020-07-18T16:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="5041" started-at="2020-07-18T16:11:25Z" finished-at="2020-07-18T16:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Payfrequency_Biweekly()[pri:0, instance:tests.QCStore@6536e911]" name="Payfrequency_Biweekly" duration-ms="1458491" started-at="2020-07-18T16:11:30Z" finished-at="2020-07-18T16:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payfrequency_Biweekly -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="204" started-at="2020-07-18T16:35:49Z" finished-at="2020-07-18T16:35:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Payfrequency_Biweekly status=SUCCESS method=QCStore.Payfrequency_Biweekly()[pri:0, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="5006" started-at="2020-07-18T16:35:49Z" finished-at="2020-07-18T16:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="FAIL" signature="Payfrequency_Weekly()[pri:1, instance:tests.QCStore@6536e911]" name="Payfrequency_Weekly" duration-ms="1322813" started-at="2020-07-18T16:35:54Z" finished-at="2020-07-18T16:57:57Z">
+          <exception class="java.lang.StringIndexOutOfBoundsException">
+            <message>
+              <![CDATA[String index out of range: 250]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.StringIndexOutOfBoundsException: String index out of range: 250
+at java.lang.String.substring(Unknown Source)
+at tests.Frequency_Weekly.borrowerRegistration(Frequency_Weekly.java:392)
+at tests.QCStore.Payfrequency_Weekly(QCStore.java:271)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.StringIndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payfrequency_Weekly -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="879" started-at="2020-07-18T16:57:57Z" finished-at="2020-07-18T16:57:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Payfrequency_Weekly status=FAILURE method=QCStore.Payfrequency_Weekly()[pri:1, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="5007" started-at="2020-07-18T16:57:57Z" finished-at="2020-07-18T16:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Payfrequency_Monthly()[pri:2, instance:tests.QCStore@6536e911]" name="Payfrequency_Monthly" duration-ms="2977049" started-at="2020-07-18T16:58:03Z" finished-at="2020-07-18T17:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payfrequency_Monthly -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="50" started-at="2020-07-18T17:47:40Z" finished-at="2020-07-18T17:47:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Payfrequency_Monthly status=SUCCESS method=QCStore.Payfrequency_Monthly()[pri:2, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="5008" started-at="2020-07-18T17:47:40Z" finished-at="2020-07-18T17:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Payfrequency_Semi_monthly()[pri:3, instance:tests.QCStore@6536e911]" name="Payfrequency_Semi_monthly" duration-ms="1350348" started-at="2020-07-18T17:47:45Z" finished-at="2020-07-18T18:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payfrequency_Semi_monthly -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="42" started-at="2020-07-18T18:10:15Z" finished-at="2020-07-18T18:10:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Payfrequency_Semi_monthly status=SUCCESS method=QCStore.Payfrequency_Semi_monthly()[pri:3, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

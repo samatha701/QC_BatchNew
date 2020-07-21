@@ -1,0 +1,37 @@
+
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Ì‹ÒÝýÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­öì­
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÿ³ƒÿ
+Asquid:S1166e"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+=squid:S1166©"%Either log or rethrow this exception.(¬Ù¨Í
+P
+squid:S106H";Replace this usage of System.out or System.err by a logger.(ù…‡q
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ÿ³ƒÿ
+<squid:S1166z"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166¹"%Either log or rethrow this exception.(¬Ù¨Í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³ƒÿ
+Asquid:S1166F"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+j
+squid:S134Š"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+j
+squid:S134£"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Rsquid:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S1192q"WDefine a constant instead of duplicating this literal "Clicked on Finish Safe" 3 times.(»ô³¶
+Bsquid:S1166—"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+i
+squid:S134@"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Gsquid:S00108¯")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Isquid:S1135f"2Complete the task associated to this TODO comment.(‡ñÅ¼
+Gsquid:S00108˜")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ
+Bsquid:S1166®"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Rsquid:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+fsquid:S1192%"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ
+csquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(˜”¤
+=squid:S1166’"%Either log or rethrow this exception.(¬Ù¨Í
+bsquid:S1192p"KDefine a constant instead of duplicating this literal "safeassign" 3 times.(ÉÎÉÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³ƒÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä’â«øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ
+Qsquid:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

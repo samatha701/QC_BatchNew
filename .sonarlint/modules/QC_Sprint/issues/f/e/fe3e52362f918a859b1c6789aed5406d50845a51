@@ -1,0 +1,45 @@
+
+†squid:S1192*"hDefine a constant instead of duplicating this literal "//*[@id='timeAtEmployee']/div[1]/label" 12 times.(Ýä£ß8Ç§“ÄŒ.
+msquid:S11329"OMove the "Hire Date" string literal on the left side of this string comparison.(ÐÍ­²8Ç§“ÄŒ.
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ÙÅ´¾ýÿÿÿÿ8ÌˆÉÆŒ.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ùí†Œ8†Ö†ÆŒ.
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8Ç§“ÄŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8Ç§“ÄŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8ú€¦ÊŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8Ç§“ÄŒ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8‡¾ÃŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8Ç§“ÄŒ.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(§–«Úùÿÿÿÿ8Õ˜šÃŒ.
+msquid:S11329"OMove the "Hire Date" string literal on the left side of this string comparison.(ÐÍ­²8Ç§“ÄŒ.
+7squid:S21789"Correct this "&" to "&&".(ÐÍ­²8Ç§“ÄŒ.
+7squid:S21789"Correct this "&" to "&&".(ÐÍ­²8Ç§“ÄŒ.
+qsquid:S1192a"TDefine a constant instead of duplicating this literal "Benefits Start Date" 8 times.(ºò›>8Ç§“ÄŒ.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§–«Úùÿÿÿÿ8‡¾ÃŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8ú€¦ÊŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8ú€¦ÊŒ.
+7squid:S21789"Correct this "&" to "&&".(ÐÍ­²8Ç§“ÄŒ.
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Šøî¿þÿÿÿÿ8‡¾ÃŒ.
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(üÜµ¬úÿÿÿÿ8ÌˆÉÆŒ.
+zsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÓÏíüÿÿÿÿ8‡¾ÃŒ.
+msquid:S11329"OMove the "Hire Date" string literal on the left side of this string comparison.(ÐÍ­²8Ç§“ÄŒ.
+Psquid:S1199g"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8èùÒš.
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(Ê„–í8ÌˆÉÆŒ.
+msquid:S11329"OMove the "Hire Date" string literal on the left side of this string comparison.(ÐÍ­²8Ç§“ÄŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8Ç§“ÄŒ.
+rsquid:S1192+"ODefine a constant instead of duplicating this literal "Date Type is " 12 times.(÷þìÚøÿÿÿÿ8Ç§“ÄŒ.
+hsquid:S11929"JDefine a constant instead of duplicating this literal "Hire Date" 4 times.(ÐÍ­²8Ç§“ÄŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8ú€¦ÊŒ.
+Msquid:S00108g")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8èùÒš.
+csquid:S1854 "@Remove this useless assignment to local variable "IncomeSourse".(×ÓÏíüÿÿÿÿ8Ç§“ÄŒ.
+tsquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8‡¾ÃŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8ú€¦ÊŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8Ç§“ÄŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8ú€¦ÊŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8Ç§“ÄŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8ú€¦ÊŒ.
+Tsquid:S1481 "1Remove this unused "IncomeSourse" local variable.(×ÓÏíüÿÿÿÿ8Ç§“ÄŒ.
+Psquid:S1172"-Remove this unused method parameter "AppURL".(§–«Úùÿÿÿÿ8Õ˜šÃŒ.
+vsquid:S1132a"YMove the "Benefits Start Date" string literal on the left side of this string comparison.(ºò›>8ú€¦ÊŒ.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§–«Úùÿÿÿÿ8‡¾ÃŒ.
+6squid:S2178a"Correct this "&" to "&&".(ºò›>8Ç§“ÄŒ.

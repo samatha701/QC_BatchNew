@@ -1,0 +1,49 @@
+
+Jsquid:UselessParenthesesCheck"!Remove those useless parentheses.(©Âä
+‚squid:S1192{"fDefine a constant instead of duplicating this literal "Courtesy Call Consent is selected as " 3 times.(«–Òúÿÿÿÿ
+asquid:S1192"JDefine a constant instead of duplicating this literal "Refinance" 3 times.(©Âä
+csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(½Ê‘ÿ
+d
+squid:S134i"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(÷Õ³
+d
+squid:S134}"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡÷€é
+j
+squid:S134©"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¤‹åîùÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+V
+squid:S106%";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+Q
+squid:S106q";Replace this usage of System.out or System.err by a logger.(ı¦”
+Rsquid:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+`squid:S1132}"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é
+gsquid:S1132€"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ
+asquid:S1132†"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(šë¦®şÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†§ò€
+Isquid:S1172"-Remove this unused method parameter "AppURL".(šë¦®şÿÿÿÿ
+=squid:S1166‘"%Either log or rethrow this exception.(¬Ù¨Í
+=squid:S1166¼"%Either log or rethrow this exception.(”ı¾
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šë¦®şÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šë¦®şÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ssquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ
+tsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ
+tsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+dsquid:UselessImportCheck	";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+@squid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,52 @@
+
+Psquid:S1197æ"8Move the array designator from the variable to the type.(±èºÚ
+fsquid:S1192]"JDefine a constant instead of duplicating this literal "mainFrame" 9 times.(ËøÇªıÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ
+bsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(Ÿ•¿
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(¦œüóûÿÿÿÿ
+hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(¼§ûíúÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+d
+squid:S134X"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¦ª¦Å
+j
+squid:S134«"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¥ÑÈ°ÿÿÿÿÿ
+W
+squid:S106ç";Replace this usage of System.out or System.err by a logger.(şß˜‚ûÿÿÿÿ
+W
+squid:S106ê";Replace this usage of System.out or System.err by a logger.(Œ…ëÀùÿÿÿÿ
+R
+squid:S106€";Replace this usage of System.out or System.err by a logger.(ª‹ñÿ
+bsquid:S1132X"KMove the "CHECK" string literal on the left side of this string comparison.(¦ª¦Å
+fsquid:S1132«"IMove the "ACH" string literal on the left side of this string comparison.(¥ÑÈ°ÿÿÿÿÿ
+Osquid:S1135¡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+?squid:S1481$"(Remove this unused "PIN" local variable.(¿âĞ¬
+>squid:S14815"'Remove this unused "df" local variable.(©Âìü
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ŒæÓèüÿÿÿÿ
+Bsquid:S1166 "%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Nsquid:S1854$"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+Msquid:S18545"6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒæÓèüÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒæÓèüÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöïÌûÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù´§²ùÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+msquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íô²
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷»éşÿÿÿÿ
+osquid:S00117æ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±èºÚ
+osquid:S00117é"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í­Ì°
+nsquid:S00117ë"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‰•t
+osquid:S00117ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾Ï†
+osquid:S00117ı"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷ÈÃ
+nsquid:S00117ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©¯B
+tsquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·™½Âùÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+Ysquid:UselessImportCheck	"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+lsquid:UselessImportCheck
+"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+@squid:S1148¢"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

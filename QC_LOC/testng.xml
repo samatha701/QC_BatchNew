@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" configfailurepolicy="continue">
+  <test thread-count="5" name="Test">
+  <groups>
+  <run>
+
+  <!--  Brahmith scenarios   -->  
+   <!--  <include name="EOD"/>  
+   <include name="EOD2"/> -->
+
+ <!-- <include name="1st Batch"/>-->
+
+  <!--  Ratikanta(Janaki) scenarios  -->
+ <!-- <include name="Janaki"/>  -->															
+  <!--  <include name="Janaki1"/>  --> 
+  <!--    <include name="Janaki_NEOD"/>  -->
+      <!-- <include name="Janaki_EOD"/> --> 
+
+
+  <!--  Anoop scenarios -->
+
+     <include name="Anoop_EOD1"/>
+    <!--  <include name="Anoop_EOD2"/>  --> 
+    <!--   <include name="Anoop_EOD3"/> -->
+
+
+
+																																																
+    <!--  Rati scenarios   -->
+    <!-- <include name="Ratikanta_NEOD"/> -->
+      <!-- <include name="Ratikanta_EOD"/>-->
+      
+  <!--  Shashi scenarios  -->
+ <!--  <include name="NonEOD"/>  -->
+  <!--  <include name="Shashi"/> -->
+  <!-- <include name="EOD"/>  -->
+
+  <!--  Jyothi scenarios -->
+
+    <!-- <include name="1st Batch"/> -->
+       <!--  <include name="Jyothi"/> -->
+
+
+  </run>
+  </groups>
+  
+    <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+

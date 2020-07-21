@@ -1,0 +1,18 @@
+
+‡squid:S1192Q"pDefine a constant instead of duplicating this literal "/html/body/table/tbody/tr/td/table[2]/tbody/tr[" 3 times.(”¤Ìº
+fsquid:S1192""JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡ˆÉ÷üÿÿÿÿ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Ô³üí
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(¡¸àş
+t
+squid:S135O"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÄê½úÿÿÿÿ
+d
+squid:S134W"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¾šöÃ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ±Ñùÿÿÿÿ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(äßÁ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äßÁ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äßÁ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ñ„
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íô²
+qsquid:S00122t"TAt most one statement is allowed per line, but 3 statements were found on this line.(œÌ¬ıÿÿÿÿ

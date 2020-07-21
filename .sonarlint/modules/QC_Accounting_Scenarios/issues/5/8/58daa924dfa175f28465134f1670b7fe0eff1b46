@@ -1,0 +1,18 @@
+
+Wsquid:S1854";Remove this useless assignment to local variable "TxnType".(˜õ¬æþÿÿÿÿ
+Isquid:S1481"2Remove this unused "PaymentAmount" local variable.(¶¥µï
+Msquid:S1481"1Remove this unused "TenderAmount" local variable.(–ÌÔÏýÿÿÿÿ
+\squid:S1854"@Remove this useless assignment to local variable "TenderAmount".(–ÌÔÏýÿÿÿÿ
+Zsquid:S1854">Remove this useless assignment to local variable "TenderType".(ùÅ…¢ùÿÿÿÿ
+Ksquid:S1481"/Remove this unused "TenderType" local variable.(ùÅ…¢ùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È÷…ù
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‡øØûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¥µï
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥áö¼ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÅ…¢ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÌÔÏýÿÿÿÿ
+Jsquid:S1172".Remove this unused method parameter "csr_url".(Í‡øØûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜õ¬æþÿÿÿÿ
+Hsquid:S1481",Remove this unused "TxnType" local variable.(˜õ¬æþÿÿÿÿ
+Xsquid:S1854"ARemove this useless assignment to local variable "PaymentAmount".(¶¥µï
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‡øØûÿÿÿÿ

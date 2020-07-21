@@ -1,0 +1,24 @@
+
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(šÍ÷€þÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(¼§–¡ùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§–¡ùÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛÚÇÿÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û«ù
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+>squid:S1481<"'Remove this unused "df" local variable.(©Âìü
+Msquid:S1854<"6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§–¡ùÿÿÿÿ
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(µª™®
+msquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò›Í-
+_squid:S1226,"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ƒÕÝý
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÚšÀúÿÿÿÿ
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(®ùŒ•
+fsquid:S1192["JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(È’Ìþÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+bsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ù–âx
+P
+squid:S106:";Replace this usage of System.out or System.err by a logger.(é—y

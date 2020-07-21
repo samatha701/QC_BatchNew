@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Suite">
+              <span class="suite-name border-failed">Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Suite">
+                    <span>C:\QC_Batch\QC_TLP\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Suite">
+                    <span>1 group</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">8 methods, 1 failed,   7 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_TLP_Writeoff_Recovery_Txn">QC_TLP_Writeoff_Recovery_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_Installmentpayment_Txn">QC_Installmentpayment_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_Installmentpayment_Void_Txn">QC_Installmentpayment_Void_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_PayAnyotherAmount_Txn">QC_PayAnyotherAmount_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_PayAnyotherAmount_Void_Txn">QC_PayAnyotherAmount_Void_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_TLP_Buyback_Txn">QC_TLP_Buyback_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_TLP_Buyback_Void_Txn">QC_TLP_Buyback_Void_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="tests.QCStore" hash-for-method="QC_TLP_Writeoff_Recovery_Void_Txn">QC_TLP_Writeoff_Recovery_Void_Txn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">tests.QCStore</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_TLP_Writeoff_Recovery_Txn">
+                  </a> <!-- QC_TLP_Writeoff_Recovery_Txn -->
+                  <span class="method-name">QC_TLP_Writeoff_Recovery_Txn</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;
+System info: host: &apos;QTLSYS0-223&apos;, ip: &apos;192.168.0.223&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36951/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 820b526e-b894-456c-8dcb-9b17f68cf476
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+	at tests.QCStore.getScreenhot(QCStore.java:1992)
+	at tests.QCCSRNewLoan.newLoan(QCCSRNewLoan.java:248)
+	at tests.QCStore.QC_TLP_Writeoff_Recovery_Txn(QCStore.java:593)
+... Removed 29 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">tests.QCStore</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_Installmentpayment_Txn">
+                  </a> <!-- QC_Installmentpayment_Txn -->
+                  <span class="method-name">QC_Installmentpayment_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_Installmentpayment_Void_Txn">
+                  </a> <!-- QC_Installmentpayment_Void_Txn -->
+                  <span class="method-name">QC_Installmentpayment_Void_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_PayAnyotherAmount_Txn">
+                  </a> <!-- QC_PayAnyotherAmount_Txn -->
+                  <span class="method-name">QC_PayAnyotherAmount_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_PayAnyotherAmount_Void_Txn">
+                  </a> <!-- QC_PayAnyotherAmount_Void_Txn -->
+                  <span class="method-name">QC_PayAnyotherAmount_Void_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_TLP_Buyback_Txn">
+                  </a> <!-- QC_TLP_Buyback_Txn -->
+                  <span class="method-name">QC_TLP_Buyback_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_TLP_Buyback_Void_Txn">
+                  </a> <!-- QC_TLP_Buyback_Void_Txn -->
+                  <span class="method-name">QC_TLP_Buyback_Void_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="QC_TLP_Writeoff_Recovery_Void_Txn">
+                  </a> <!-- QC_TLP_Writeoff_Recovery_Void_Txn -->
+                  <span class="method-name">QC_TLP_Writeoff_Recovery_Void_Txn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+        </div> <!-- panel Suite -->
+        <div panel-name="test-xml-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\QC_Batch\QC_TLP\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite configfailurepolicy=&quot;continue&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;Brahmith&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;tests.QCStore&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test --&gt;
+&lt;/suite&gt; &lt;!-- Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">Brahmith</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_Installmentpayment_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_Installmentpayment_Void_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_PayAnyotherAmount_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_PayAnyotherAmount_Void_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_TLP_Buyback_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_TLP_Buyback_Void_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_TLP_Writeoff_Recovery_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">QC_TLP_Writeoff_Recovery_Void_Txn</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Suite');
+function tableData_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(8);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'QC_TLP_Writeoff_Recovery_Void_Txn')
+data.setCell(0, 2, 'tests.QCStore')
+data.setCell(0, 3, 611596);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'QC_PayAnyotherAmount_Void_Txn')
+data.setCell(1, 2, 'tests.QCStore')
+data.setCell(1, 3, 372838);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'QC_TLP_Buyback_Void_Txn')
+data.setCell(2, 2, 'tests.QCStore')
+data.setCell(2, 3, 355336);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'QC_Installmentpayment_Void_Txn')
+data.setCell(3, 2, 'tests.QCStore')
+data.setCell(3, 3, 353327);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'QC_PayAnyotherAmount_Txn')
+data.setCell(4, 2, 'tests.QCStore')
+data.setCell(4, 3, 321452);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'QC_TLP_Buyback_Txn')
+data.setCell(5, 2, 'tests.QCStore')
+data.setCell(5, 3, 313605);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'QC_Installmentpayment_Txn')
+data.setCell(6, 2, 'tests.QCStore')
+data.setCell(6, 3, 311462);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'QC_TLP_Writeoff_Recovery_Txn')
+data.setCell(7, 2, 'tests.QCStore')
+data.setCell(7, 3, 87207);
+window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 45 minutes</span>
+              <div id="times-div-Suite">
+              </div> <!-- times-div-Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">27 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">tests.QCStore</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">JQC_TLP_GraceDays_Deposit_Menu_Txn</span>
+                <br/>
+                <span class="ignored-method-name">TLP_agerescind</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_Deceased_Txn</span>
+                <br/>
+                <span class="ignored-method-name">QC_AgeStore_Void_Txn</span>
+                <br/>
+                <span class="ignored-method-name">TLP_bankruptcyWriteOff</span>
+                <br/>
+                <span class="ignored-method-name">newLoan</span>
+                <br/>
+                <span class="ignored-method-name">TLP_RefinanceStepSame</span>
+                <br/>
+                <span class="ignored-method-name">QC_NewLoan_Void_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_Deposit_dropdown_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_Deposit_MidDay_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_DefaultPayment_Txn_Testdata</span>
+                <br/>
+                <span class="ignored-method-name">TLP_ProcessClearFromMenu</span>
+                <br/>
+                <span class="ignored-method-name">TLP_RefinanceStepDown</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_Deposit_EOD_Txn</span>
+                <br/>
+                <span class="ignored-method-name">QC_TLP_NewLoan_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_GraceDays_Deposit_MidDay_Txn</span>
+                <br/>
+                <span class="ignored-method-name">TLP_RefinanceStepSame_Void</span>
+                <br/>
+                <span class="ignored-method-name">TLP_rescindloan</span>
+                <br/>
+                <span class="ignored-method-name">QC_NewLoan_Promotion_Txn</span>
+                <br/>
+                <span class="ignored-method-name">TLP_bankruptcyDismiss</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_GraceDays_Deposit_EOD_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_GraceDays_Deposit_dropdown_Txn</span>
+                <br/>
+                <span class="ignored-method-name">JQC_TLP_Deposit_Menu_Txn</span>
+                <br/>
+                <span class="ignored-method-name">TLP_RefinanceStepDownVoid</span>
+                <br/>
+                <span class="ignored-method-name">TLP_ProcessClear</span>
+                <br/>
+                <span class="ignored-method-name">JQC_DefaultPayment_Void_Txn_Testdata</span>
+                <br/>
+                <span class="ignored-method-name">TLP_ProcessAutoClear</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">tests.QCStore</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">85 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_TLP_Buyback_Txn</span>
+                <span class="method-start">5095 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">318701 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_TLP_Buyback_Txn status=SUCCESS method=QCStore.QC_TLP_Buyback_Txn()[pri:116, inst...)</span>
+                <span class="method-start">318702 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">318922 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_TLP_Buyback_Void_Txn</span>
+                <span class="method-start">323936 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">679273 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_TLP_Buyback_Void_Txn status=SUCCESS method=QCStore.QC_TLP_Buyback_Void_Txn()[pri...)</span>
+                <span class="method-start">679273 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">679334 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_Installmentpayment_Txn</span>
+                <span class="method-start">684355 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">995819 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_Installmentpayment_Txn status=SUCCESS method=QCStore.QC_Installmentpayment_Txn()...)</span>
+                <span class="method-start">995819 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">995852 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_Installmentpayment_Void_Txn</span>
+                <span class="method-start">1000861 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">1354189 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_Installmentpayment_Void_Txn status=SUCCESS method=QCStore.QC_Installmentpayment_...)</span>
+                <span class="method-start">1354189 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">1354231 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_PayAnyotherAmount_Txn</span>
+                <span class="method-start">1359243 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">1680696 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_PayAnyotherAmount_Txn status=SUCCESS method=QCStore.QC_PayAnyotherAmount_Txn()[p...)</span>
+                <span class="method-start">1680696 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">1680722 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_PayAnyotherAmount_Void_Txn</span>
+                <span class="method-start">1685741 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">2058582 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_PayAnyotherAmount_Void_Txn status=SUCCESS method=QCStore.QC_PayAnyotherAmount_Vo...)</span>
+                <span class="method-start">2058582 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">2058627 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">QC_TLP_Writeoff_Recovery_Txn</span>
+                <span class="method-start">2063648 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">2150857 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">getResult([TestResult name=QC_TLP_Writeoff_Recovery_Txn status=FAILURE method=QCStore.QC_TLP_Writeoff_Recovery...)</span>
+                <span class="method-start">2150857 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">killProcess</span>
+                <span class="method-start">2150875 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">QC_TLP_Writeoff_Recovery_Void_Txn</span>
+                <span class="method-start">2155885 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">2767482 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=QC_TLP_Writeoff_Recovery_Void_Txn status=SUCCESS method=QCStore.QC_TLP_Writeoff_Rec...)</span>
+                <span class="method-start">2767482 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

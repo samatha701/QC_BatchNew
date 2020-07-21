@@ -1,0 +1,21 @@
+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºýÿÿÿÿ
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¸¼ö­
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºýÿÿÿÿ
+fsquid:S11923"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+Bsquid:S1166®"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:S00117q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´Ùý
+squid:S1160"€Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.text.ParseException(‡«Úºýÿÿÿÿ
+Osquid:S1197u"8Move the array designator from the variable to the type.(Ø±Â¤
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(“íöèûÿÿÿÿ
+Gsquid:S00108¯")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+squid:S1132"eMove the "/TestData/QCStore/TLP_BiWeekly/" string literal on the left side of this string comparison.(§Åæ“úÿÿÿÿ
+=squid:S1166˜"%Either log or rethrow this exception.(¬Ù¨Í
+Fsquid:S1172"*Remove this unused method parameter "SSN".(‡«Úºýÿÿÿÿ
+bsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(á’“Ê
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÓ€®þÿÿÿÿ
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÒÕ‡
+nsquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠšË
+msquid:S00117h"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕÐw
+ssquid:S00117s"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óéçýÿÿÿÿ
+_squid:S1132œ"GMove the "1" string literal on the left side of this string comparison.(±æ²ò

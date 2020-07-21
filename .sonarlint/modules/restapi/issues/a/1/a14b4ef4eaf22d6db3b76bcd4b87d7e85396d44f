@@ -1,0 +1,17 @@
+
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(è›œüÿÿÿÿ8·­ƒ“.
+]
+squid:S106(";Replace this usage of System.out or System.err by a logger.(ÛÇà¯ıÿÿÿÿ8·­ƒ“.
+Â%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(úÉ™ú8ÚÀ€“.
+Ç%squid:RedundantThrowsDeclarationCheckE"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.( È©üÿÿÿÿ8çÍƒ“.
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÃÎÑ¤ıÿÿÿÿ8·­ƒ“.
+[squid:S1197E"8Move the array designator from the variable to the type.( È©üÿÿÿÿ8úØÌƒ“.
+X
+squid:S106-";Replace this usage of System.out or System.err by a logger.(«‹Îõ8Ô„º…“.
+]
+squid:S106/";Replace this usage of System.out or System.err by a logger.(êÕ Çüÿÿÿÿ8 ï½…“.
+?squid:S2095"!Close this "CloseableHttpClient".(™ıÄ“8ÚÀ€“.
+ªsquid:S1160"‹Refactor this method to throw at most one checked exception instead of: org.apache.http.client.ClientProtocolException, java.io.IOException(úÉ™ú8ÚÀ€“.
+]squid:S1118":Add a private constructor to hide the implicit public one.(ëšùÅıÿÿÿÿ8úØÌƒ“.

@@ -1,0 +1,46 @@
+
+^squid:S1854 "@Remove this useless assignment to local variable "No_of_checks".(›úğ8şíÂ©.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï…êÿ8şíÂ©.
+usquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›úğ8şíÂ©.
+Msquid:S1481#"/Remove this unused "Collateral" local variable.(¢á¨Ÿ8şíÂ©.
+Xsquid:S1481"5Remove this unused "ESign_Preference" local variable.(õİğÍşÿÿÿÿ8şíÂ©.
+\squid:S1854#">Remove this useless assignment to local variable "Collateral".(¢á¨Ÿ8şíÂ©.
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ÔôñÅ8şíÂ©.
+Osquid:S1481 "1Remove this unused "No_of_checks" local variable.(›úğ8şíÂ©.
+isquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(§ú„ª8şíÂ©.
+gsquid:S1854"DRemove this useless assignment to local variable "ESign_Preference".(õİğÍşÿÿÿÿ8şíÂ©.
+`squid:S1854"BRemove this useless assignment to local variable "ESign_DisbType".(Ï…êÿ8şíÂ©.
+csquid:S1854"@Remove this useless assignment to local variable "last4cheknum".(ïÔ¥¬øÿÿÿÿ8şíÂ©.
+zsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷»éşÿÿÿÿ8şíÂ©.
+Tsquid:S1481"1Remove this unused "last4cheknum" local variable.(ïÔ¥¬øÿÿÿÿ8şíÂ©.
+usquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š³°8şíÂ©.
+X
+squid:S106_";Replace this usage of System.out or System.err by a logger.(ŒøŠ½8÷êÜ ©.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Íè¼ùÿÿÿÿ8şíÂ©.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8şíÂ©.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8şíÂ©.
+usquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢á¨Ÿ8şíÂ©.
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(°¤û¯8şíÂ©.
+k
+squid:S134b"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(òø´ş8’’œ¡©.
+]
+squid:S106\";Replace this usage of System.out or System.err by a logger.(£é¼¾şÿÿÿÿ8÷êÜ ©.
+`squid:S1854"BRemove this useless assignment to local variable "ESign_CheckNbr".(ß•îÛ8şíÂ©.
+Qsquid:S1481"3Remove this unused "ESign_CheckNbr" local variable.(ß•îÛ8şíÂ©.
+\squid:S1481""9Remove this unused "Esign_CollateralType" local variable.(º÷»éşÿÿÿÿ8şíÂ©.
+zsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8şíÂ©.
+\squid:S1481">Remove this unused "ESign_CourtesyCallConsent" local variable.(Á£¼8şíÂ©.
+Qsquid:S1481!"3Remove this unused "Esign_Password" local variable.(š³°8şíÂ©.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸£ğûÿÿÿÿ8şíÂ©.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•îÛ8şíÂ©.
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ıä¬áùÿÿÿÿ8’’œ¡©.
+ksquid:S1854""HRemove this useless assignment to local variable "Esign_CollateralType".(º÷»éşÿÿÿÿ8şíÂ©.
+ksquid:S1854"MRemove this useless assignment to local variable "ESign_CourtesyCallConsent".(Á£¼8şíÂ©.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Íè¼ùÿÿÿÿ8şíÂ©.
+Psquid:S1172"-Remove this unused method parameter "AppURL".(‘Íè¼ùÿÿÿÿ8şíÂ©.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õİğÍşÿÿÿÿ8şíÂ©.
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8şíÂ©.
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8şíÂ©.
+Qsquid:S1481"3Remove this unused "ESign_DisbType" local variable.(Ï…êÿ8şíÂ©.
+`squid:S1854!"BRemove this useless assignment to local variable "Esign_Password".(š³°8şíÂ©.
+msquid:S11921"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8şíÂ©.

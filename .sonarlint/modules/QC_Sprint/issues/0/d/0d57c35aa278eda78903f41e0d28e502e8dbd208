@@ -1,0 +1,37 @@
+
+msquid:S11929"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8œè¼ù¦.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(şõŸ¢ûÿÿÿÿ8œè¼ù¦.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(è÷¬›8œè¼ù¦.
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ƒªú™ùÿÿÿÿ8œè¼ù¦.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ8œè¼ù¦.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8œè¼ù¦.
+Ssquid:S1481"0Remove this unused "ProductType" local variable.(ãú³øÿÿÿÿ8œè¼ù¦.
+_squid:S1854"<Remove this useless assignment to local variable "Password".(„¾˜ şÿÿÿÿ8œè¼ù¦.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8œè¼ù¦.
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(…¾•„ûÿÿÿÿ8œè¼ù¦.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è÷¬›8œè¼ù¦.
+Fsquid:S1481"(Remove this unused "PIN" local variable.(¿âĞ¬8œè¼ù¦.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ8œè¼ù¦.
+_squid:S1854"<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ8œè¼ù¦.
+isquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(¡Ùõ8œè¼ù¦.
+fsquid:S1132i"IMove the "LOC" string literal on the left side of this string comparison.(İşt8œè¼ù¦.
+isquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(¬Õ¡Ê8œè¼ù¦.
+bsquid:S1854"?Remove this useless assignment to local variable "ProductType".(ãú³øÿÿÿÿ8œè¼ù¦.
+Esquid:S1481$"'Remove this unused "df" local variable.(©Âìü8œè¼ù¦.
+lsquid:S1132d"IMove the "TLP" string literal on the left side of this string comparison.(ıÎ·¶ûÿÿÿÿ8œè¼ù¦.
+Psquid:S1481"-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ8œè¼ù¦.
+Tsquid:S1854$"6Remove this useless assignment to local variable "df".(©Âìü8œè¼ù¦.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8œè¼ù¦.
+isquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.( „Êº8œè¼ù¦.
+Ksquid:S1172"-Remove this unused method parameter "AppURL".(è÷¬›8œè¼ù¦.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8œè¼ù¦.
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ8œè¼ù¦.
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8œè¼ù¦.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«É€¹8œè¼ù¦.
+lsquid:S1132]"IMove the "PDL" string literal on the left side of this string comparison.(Û¶ª÷ûÿÿÿÿ8œè¼ù¦.
+Psquid:S1481"-Remove this unused "Password" local variable.(„¾˜ şÿÿÿÿ8œè¼ù¦.
+Usquid:S1854"7Remove this useless assignment to local variable "PIN".(¿âĞ¬8œè¼ù¦.
+isquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.( „Êº8œè¼ù¦.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è÷¬›8œè¼ù¦.
+usquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8œè¼ù¦.
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8œè¼ù¦.

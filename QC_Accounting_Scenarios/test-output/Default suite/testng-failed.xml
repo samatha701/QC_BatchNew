@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+          <include name="ILP_PDL_Conversion"/>
+          <include name="Void_Conversion_UsingEncryption"/>
+          <include name="getResult"/>
+          <include name="setup"/>
+          <include name="ILP_Default_ChargeBack"/>
+          <include name="ILP_ManualDefault_ChargeBack"/>
+          <include name="DC_EPP_ChargeBack"/>
+          <include name="ILP_Manualdefault_Returnposting"/>
+          <include name="Void_ILP_PDL_Conversion"/>
+          <include name="endReport"/>
+          <include name="killProcess"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

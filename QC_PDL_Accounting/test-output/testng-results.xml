@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="171323" started-at="2019-07-22T12:50:17Z" finished-at="2019-07-22T12:53:08Z">
+    <groups>
+      <group name="Ratikanta_PDL_Weekly">
+        <method signature="QCStore.QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata()[pri:7, instance:tests.QCStore@6fc6f14e]" name="QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_PDL_Weekly -->
+    </groups>
+    <test name="Test" duration-ms="171323" started-at="2019-07-22T12:50:17Z" finished-at="2019-07-22T12:53:08Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6fc6f14e]" name="setup" is-config="true" duration-ms="84" started-at="2019-07-22T12:50:17Z" finished-at="2019-07-22T12:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6fc6f14e]" name="killProcess" is-config="true" duration-ms="5000" started-at="2019-07-22T12:50:17Z" finished-at="2019-07-22T12:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata()[pri:7, instance:tests.QCStore@6fc6f14e]" name="QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata" duration-ms="165509" started-at="2019-07-22T12:50:22Z" finished-at="2019-07-22T12:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@6fc6f14e]" name="endReport" is-config="true" duration-ms="1" started-at="2019-07-22T12:53:07Z" finished-at="2019-07-22T12:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6fc6f14e]" name="getResult" is-config="true" duration-ms="711" started-at="2019-07-22T12:53:07Z" finished-at="2019-07-22T12:53:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata status=SUCCESS method=QCStore.QC_PDL_Refinance_Weekly_StepDown1_Txn_Testdata()[pri:7, instance:tests.QCStore@6fc6f14e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

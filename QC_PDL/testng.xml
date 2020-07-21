@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" configfailurepolicy="continue">
+  <test thread-count="5" name="Test">
+    <groups>
+  <run>
+
+    <!-- Janaki's group--> 
+       <!-- <include name="Janaki"/> -->
+<!--<include name="Janaki_WORecovery"/>-->
+   
+  	
+ <!-- Anoop group--> 
+ <!-- <include name="Anoop"/> --> 
+
+       <!-- Brahmith group-->  
+    <include name="1stBatch"/> 
+    <!--  <include name="1stBatch_NV"/> 
+     <include name="Rebate"/> 
+       <include name="EOD"/>   -->
+
+
+
+  </run>
+
+  </groups>
+    <classes>
+<class name="tests.QCStore"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

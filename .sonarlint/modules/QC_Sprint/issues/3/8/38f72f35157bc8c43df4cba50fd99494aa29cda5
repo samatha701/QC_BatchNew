@@ -1,0 +1,84 @@
+
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò
+[squid:S2583Ü"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Q
+squid:S106&";Replace this usage of System.out or System.err by a logger.(£„ä«
+Qsquid:S1141c"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=squid:S1166Ñ"%Either log or rethrow this exception.(”ı¾
+Bsquid:S00108Ø")Either remove or fill this block of code.(”ı¾
+Asquid:S00108l")Either remove or fill this block of code.(”ı¾
+Zsquid:S1854ƒ"=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ
+/squid:S2095 "Close this "ResultSet".(¿ûñ
+?squid:S1148'"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+=squid:S1166Ø"%Either log or rethrow this exception.(”ı¾
+›squid:S1160w"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(à–‹§øÿÿÿÿ
+?squid:S1148s"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+Asquid:S00108e")Either remove or fill this block of code.(”ı¾
+R
+squid:S106¢";Replace this usage of System.out or System.err by a logger.(ıË³›
+Rsquid:S1141Ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+\squid:S2583Î"DChange this condition so that it does not always evaluate to "false"(ŒÖÄî
+Vsquid:S1854–"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+5squid:S2095Š"Close this "Connection".(íˆçıÿÿÿÿ
+bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(¡˜ÁÜ
+Qsquid:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166^"%Either log or rethrow this exception.(”ı¾
+[squid:S2583["DChange this condition so that it does not always evaluate to "false"(ŒÖÄî
+Bsquid:S00108ß")Either remove or fill this block of code.(”ı¾
+Osquid:S1313Š"2Make this IP "192.168.2.241" address configurable.(íˆçıÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(²ÈÊ±
+/squid:S2095""Close this "Connection".(Å‘¥Œ
+Ksquid:S1481ƒ".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ
+=squid:S1166ß"%Either log or rethrow this exception.(”ı¾
+3squid:S2095+"Close this "Statement".(Ùıôºøÿÿÿÿ
+hsquid:S2077 "P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+3squid:S20950"Close this "ResultSet".(•şˆ¡øÿÿÿÿ
+gsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(÷æè‹ûÿÿÿÿ
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ı»ºïÿÿÿÿÿ
+Zsquid:S2583i"CChange this condition so that it does not always evaluate to "true"(¡ææú
+[squid:S2583Õ"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+tsquid:S11923"]Define a constant instead of duplicating this literal " query succuesfully executed" 3 times.(ıË³›
+Asquid:S00108^")Either remove or fill this block of code.(”ı¾
+Zsquid:S2583b"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+gsquid:S20775"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+Q
+squid:S1067";Replace this usage of System.out or System.err by a logger.(ıË³›
+R
+squid:S106";Replace this usage of System.out or System.err by a logger.(£„ä«
+Rsquid:S1141İ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Jsquid:S1481".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ
+Wsquid:S2259•"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+.squid:S2095*"Close this "Statement".(Êë‹
+Vsquid:S2259*"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+Usquid:S1854+"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+Fsquid:S1481}"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(–Ú‘Íıÿÿÿÿ
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(…–›ä
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¡˜ÁÜ
+<squid:S1166e"%Either log or rethrow this exception.(”ı¾
+@squid:S1148æ"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(÷æè‹ûÿÿÿÿ
+osquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò
+Isquid:S1313""2Make this IP "192.168.2.241" address configurable.(Å‘¥Œ
+.squid:S20955"Close this "ResultSet".(¿ûñ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ÈÊ±
+V
+squid:S106r";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Rsquid:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+W
+squid:S106å";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Q
+squid:S1063";Replace this usage of System.out or System.err by a logger.(ıË³›
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+Usquid:S1854}"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+4squid:S2095–"Close this "Statement".(Ùıôºøÿÿÿÿ
+@squid:S1148‘"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Bsquid:S00108Ñ")Either remove or fill this block of code.(”ı¾
+<squid:S1166l"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+/squid:S2095•"Close this "Statement".(Êë‹
+Osquid:S1854|"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡

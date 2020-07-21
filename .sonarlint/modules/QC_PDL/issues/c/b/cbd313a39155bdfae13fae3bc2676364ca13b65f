@@ -1,0 +1,21 @@
+
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(…ñžùÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷ß¯
+nsquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(´ì¬§
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ß½ó¢ûÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¦ªÒöþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ãœ—¥ýÿÿÿÿ8”ÿ„û-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck;"Remove this empty statement.(Éð©çøÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(ºÊã¤
+Asquid:S1166_"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck="Remove this empty statement.(ÊÎ•ùÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+7squid:S20685" Remove this hard-coded password.(¾”íÐ
+ssquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ
+bsquid:S1132!"KMove the "local" string literal on the left side of this string comparison.(ô¿®à
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈ±…
+Hsquid:S1313'"1Make this IP "192.168.2.48" address configurable.(º÷ß¯
